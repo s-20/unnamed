@@ -1,1 +1,5 @@
-theme: jekyll-theme-midnight
+theme: jekyll-theme-midnight\
+
+# Options
+watch: TRUE
+lsi: TRUE
