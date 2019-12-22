@@ -1,6 +1,7 @@
 theme: jekyll-theme-dinky
 title: Unnamed Role PLaying System
 decription: a flexible narrative-friendly rules medium role playing system
+future: true
 
 # Options
 watch: TRUE
