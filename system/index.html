@@ -12,13 +12,54 @@
 
 <body>
     <div id="app"></div>
+    <link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
+    <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
     <script>
         window.$docsify = {
-            name: '',
-            repo: ''
-        }
+                name: '',
+                repo: ''
+            },
+            window.$docsify = {
+                // load from _sidebar.md
+                loadSidebar: true,
+
+            };
+        window.$docsify = {
+                search: 'auto', // default
+
+                search: [
+                    '/', // => /README.md
+                    '/*.md',
+                ],
+
+                // complete configuration parameters
+                search: {
+                    maxAge: 86400000, // Expiration time, the default one day
+                    paths: auto, // or 'auto'
+                    placeholder: 'Type to search',
+                    noData: 'No Results!',
+                },
+
+                // Headline depth, 1 - 6
+                depth: 3,
+
+                hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+
+                // To avoid search index collision
+                // between multiple websites under the same domain
+                namespace: 'website-1',
+            },
+            window.$docsify = {
+                toc: {
+                    scope: '.markdown-section',
+                    headings: 'h1, h2, h3, h4',
+                    title: 'This Artice:',
+                },
+            }
     </script>
     <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="//unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>
 </body>
 
-</html>
+</html
