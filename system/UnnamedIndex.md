@@ -18,7 +18,7 @@
 - *[Marks and Perks](MarksPerks.md) - special boons or banes gained during play that can be used in interesting ways
 - [Parameters](Parameters.md) - an outline of the campaign you're going to play, and a discussion of how sensitive topics will be handled (Incomplete, but won't update for a while since it's not vital to play test)
   - *[Session Zero](SessionZero.md) - the first session of the game, where Parameters are established and (usually) characters are made.
-- [Skills](Skills.md) - a Charcteristic; things you know how to do, usually through training
+- [Skills](Skills.md) - a Characteristic; things you know how to do, usually through training
 - *[Special Abilities](SpecialAbilities.md) - a Characteristic; abilities that go beyond human capabilities
 - *[Stunts](Stunts.md) - extra dice or effects gained from good description
 - *[Traits](Traits.md) - a part of your character; broad areas in which your character has exceptional ability

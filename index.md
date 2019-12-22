@@ -15,9 +15,3 @@ The system works by accessing or "pulling" different characteristics to build a 
 - If you have no failures but not successes either, you partially fail, but you still move towards your goal.
 - One success means a partial success; you complete your task, but there's a twist.
 - 2+ successes means complete success; the more successes the better.
-
-## Other Stuff
-
-There's other stuff I've worked on (and am working on) hosted here! CHeck this stuff out, if you're interested.
-
-- [Pathfinder Essence](pathfinder/pfindex.md)
