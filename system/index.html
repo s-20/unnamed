@@ -23,6 +23,8 @@
                 // load from _sidebar.md
                 loadSidebar: true,
 
+                loadNavbar: true,
+
             };
         window.$docsify = {
                 search: 'auto', // default
@@ -43,19 +45,19 @@
                 // Headline depth, 1 - 6
                 depth: 6,
 
-                hideOtherSidebarContent: true, // whether or not to hide other sidebar content
+                hideOtherSidebarContent: false, // whether or not to hide other sidebar content
 
                 // To avoid search index collision
                 // between multiple websites under the same domain
                 namespace: 'website-1',
             },
-            window.$docsify = {
-                toc: {
-                    scope: '.markdown-section',
-                    headings: 'h1, h2, h3, h4',
-                    title: 'On this Page',
-                },
-            },
+            //  window.$docsify = {
+            //     toc: {
+            //         scope: '.markdown-section',
+            //         headings: 'h1, h2, h3, h4',
+            //         title: 'On this Page',
+            //     },
+            // },
             window.$docsify = {
                 // ...
                 tabs: {
