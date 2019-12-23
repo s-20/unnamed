@@ -1,8 +1,8 @@
-# unnamed System
+# unnamed Role Playing System
 
 > A flexible pen and paper RPG - in progress, but kinda usable
 
-This is the homepage for the wiki.
+This is the homepage for the wiki. I'm, like, working on the rest of the site and finishing it up.
 
 ## unnamed Index
 
@@ -36,4 +36,5 @@ Hover over a title for more information.
 - *[Wrinkles](Wrinkles.md "story related things added to a scene by a player reflecting their character's Details, Origins, Complications, or Connections")*
 - *[Your Stuff](YourStuff.md "basically, the things you own and carry about with you; Equipment/Gear")*
 
-*Entries in italics are incomplete or missing.*
+> [!TIP|style:flat]
+> Entries in italics are incomplete or missing.
