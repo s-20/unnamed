@@ -17,13 +17,19 @@ An Origin is between one and three sentences that, in brief, describes the core 
 - Jamie is an art thief who seeks to follow in zer father's footsteps, except perhaps with less jail time. Ze went to college for Art History, but dropped out before ze could finish. Jamie has traveled the world in zer quest to steal the most interesting art.
 - Dr. Johan Stamos is a paranormal researcher who has a habit of getting himself in over his head. He is a font of occult lore and conspiracy theory, and is terrified of the Outer Gods, about whom he knows too much.
 
-## Origin Modifiers
+## Using Origins
 
 Origins aren't pulled into checks like other Characteristics. Instead, they modify the way you gather successes on rolls. This can be good, bad, or both, depending on the circumstances.
 
 If a character's Origin would have a positive impact on the check, then when you roll, the dice bounce on a 6+ rather than a 7+. If the character's Origin would have a negative impact, then you count 1s and 2s as Failures instead of just 1s. Both of these can apply to the same check if there are ups and downs to the situation.
 
->
+### Origins and Drama Dice
+
+Origins also modify how [Drama Dice](DramaDice.md) work. When you pull Drama DIce for a check that has been modified as described above, you roll one additional die for each [Tier](Advancement.md) of your character. You only gain 1 bonus die per Tier, even if you pull more than one Drama Die for the check.
+
+?> *Example:*<br>A Tier 1 character pulling a Drama Die for something related to their Origin would roll 2 dice instead of 1; a Tier 2 character would roll 3 dice, and so on.
+
+Alternately, you may choose to use d8s instead of d6s when using Drama Dice.
 
 ## Shifting Origin
 

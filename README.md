@@ -24,6 +24,7 @@ Hover over a title for more information.
 - *[Fiat](Fiat.md "arbitrary changes to the scene initiated by the GM for plot purposes; replenishes the Drama Dice pool")*
 - [Languages](Languages.md "how languages work in the unnamed System")
 - *[Marks and Perks](MarksPerks.md "special pools characters recieve, typically through rolpeplay, like a personal Drama Dice pool but more powerful")*
+- [Origin](Origin.md "a Characteristic; a short description of the character that provides insight into their background and can be used to modify checks")
 - [Parameters](Parameters.md "setting the parameters of the game - genre, expectations, how sensative topics will be approached, and so on")
   - *[Session Zero](SessionZero.md "the first game session where characters are created and Parameters are established")*
 - [Skills](Skills.md "a Characteristic; things a character knows how to do, usually through practice, research, or education")
@@ -36,4 +37,4 @@ Hover over a title for more information.
 - *[Wrinkles](Wrinkles.md "story related things added to a scene by a player reflecting their character's Details, Origins, Complications, or Connections")*
 - *[Your Stuff](YourStuff.md "basically, the things you own and carry about with you; Equipment/Gear")*
 
-!> **TIP**<br>Entries in *italics* are incomplete or missing.
+!> **NOTE**<br>Entries in *italics* are incomplete or missing.
