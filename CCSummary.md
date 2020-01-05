@@ -12,3 +12,38 @@ To create a character:
 8. **Complications**: Choose up to 5 [Complications](Complications.md) for the character. The first two provide 2 Adjustment Points each, the next three provide 1 Adjustment Point each.
 9. **Adjustment Points**: Spend 15 [Adjustment Points](AdjustmentPoints.md) to flesh out the character
 10. **Final Notes**: Finalize your character's background. Set your final [Wound Threshold](WoundThreshold.md)/[Energy Pools](Energy.md) and make sure you haven't forgotten anything. Have fun!
+
+```plantuml
+@startuml
+start
+:Establish Campaign Parameters;
+:Define an Origin;
+:Select 2 Aspects;
+:Select 5 Traits;
+note right
+<b>Traits</b> can be //Stacked//
+Stacking indicates greater ability
+end note
+:Select 5 Skills;
+note left
+<b>Skills</b> can be //Stacked//
+Stacking indicates more training or talent
+end note
+:Establish 5 Connections;
+note right
+<b>Connections</b> can be //Stacked//
+Stacking indicates a stronger
+relationship
+end note
+:Determine Special Abilities;
+note: Not availabe in all campaigns
+:Establish 5 Connections;
+:Select up to 5 Details;
+:Choose up to 5 Complications;
+:Spend 15 Adjutement Points;
+:Set Wound Threshold and Energy Pools;
+:Finalize all decisions;
+:Ready for Play!;
+@enduml
+stop
+```

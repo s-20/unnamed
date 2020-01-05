@@ -12,9 +12,9 @@ Any result of 1 counts as a **Failure**; failures and successes cancel each othe
 
 In order to make a check, you gather your resources, adding whichever dice make sense to the pool. This is called "Pulling Dice".
 
-Pulling Dice involves describing your action, including your [Aspects](Aspects.md), [Traits](Traits.md), and [Skills](Skills.md) in the description. For each Aspect you include, you add d8s equal to its stack. For each Trait or Skill, you add d6s equal to their respective stack.
+Pulling Dice involves describing your action, including your [Aspects](Aspects.md), [Traits](Traits.md), and [Skills](Skills.md) in the description. For each Aspect you include, you add d8s equal to its stack. For each Trait or Skill you include, add d6s equal to their respective stack.
 
-Once you've described what you're trying to do and gathered your dice, you roll. Circumstances can sometimes reduce your dice pool.
+Once you've described what you're trying to do and gathered your dice, you roll. Circumstances can sometimes reduce or increase your dice pool.
 
 ## Degrees of Success
 

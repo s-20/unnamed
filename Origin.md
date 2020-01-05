@@ -2,9 +2,9 @@
 
 **Origin is part of Step 1 of [Character Creation](CCSummary.md)**
 
-A Character's Origin is a combination of a character summary and a character background. Character creation choices should flow organically from the Origin when at all possible.
+A Character's Origin is, at its most basic, a character summary. Character creation choices should flow organically from the Origin when at all possible.
 
-In a way, Origin can be said to represent a character's "class" and "race", with elements of back story thrown in for good measure. Origin can imply other abilities for your character, but it can only be "pulled" or "used" in conjunction with [Drama Dice](DramaDice.md).
+In a way, Origin can be said to represent a character's "class" and "race", with elements of back story thrown in for good measure. Origin can imply other abilities for your character, but it isn't "pulled" like a [Trait](Traits.md) or a [Skill](Skills.md). Instead, it modifies the way the dice work for related checks.
 
 ## Creating an Origin
 
@@ -15,15 +15,15 @@ An Origin is between one and three sentences that, in brief, describes the core 
 - Aya Applehill is a Halfling bounty hunter determined to avenge her slaughtered kin. SHe's been on her own since she was a teenager, and learned her skills from the local thief's guild.
 - John Starskipper is a pilot and smuggler with a checkered past and a bounty on his head.
 - Jamie is an art thief who seeks to follow in zer father's footsteps, except perhaps with less jail time. Ze went to college for Art History, but dropped out before ze could finish. Jamie has traveled the world in zer quest to steal the most interesting art.
-- Dr. Stamos is a paranormal researcher who has a habit of getting himself in over his head. He is a font of occult lore and conspiracy theory, and is terrified of the Outer Gods, about whom he knows too much.
+- Dr. Johan Stamos is a paranormal researcher who has a habit of getting himself in over his head. He is a font of occult lore and conspiracy theory, and is terrified of the Outer Gods, about whom he knows too much.
 
-## Activating an Origin
+## Origin Modifiers
 
-Origins aren't pulled like [Traits](Traits.md) or [Skills](Skills.md). Instead, they modify how [Drama Dice](DramaDice.md) work. When you use a Drama Die for a check, if the check is directly related to your Origin, you gain one additional die to roll per [Tier](Advancement.md) of the character.
+Origins aren't pulled into checks like other Characteristics. Instead, they modify the way you gather successes on rolls. This can be good, bad, or both, depending on the circumstances.
 
-For example, a Tier 1 character would spend one Drama Die and gain two dice to roll, while a Tier 3 character would spend one Drama Die and gain four dice to roll.
+If a character's Origin would have a positive impact on the check, then when you roll, the dice bounce on a 6+ rather than a 7+. If the character's Origin would have a negative impact, then you count 1s and 2s as Failures instead of just 1s. Both of these can apply to the same check if there are ups and downs to the situation.
 
-Origins can also be used to regain Drama Dice, or gain a [Perk](MarksPerks.md). You can pull your origin into a scene to make things more troublesome or interesting. Using one of the examples above, perhaps Aya hears someone talking about betraying the Thief's Guild, so she immediately confronts them. This might be worth a Drama Die.
+>
 
 ## Shifting Origin
 
