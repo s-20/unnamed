@@ -3,5 +3,8 @@
 # unnamed
 
 - [Home](README.md)
+- [Core Mechanics](HBCore.md)
+  - [Drama Dice](DramaDice.md)
 - [Character Creation](CCSummary.md)
-- [Resolution](HBCore.md)
+  - [Advancement](Advancement.md)
+  - [Adjustment Points](AdjustmentPoints.md)
