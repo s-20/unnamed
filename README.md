@@ -1,8 +1,8 @@
 # unnamed Role Playing System
 
-?> A flexible pen and paper RPG - in progress, but kinda usable
+?> A flexible pen and paper RPG - alpha ready!
 
-This is the homepage for the wiki. I'm, like, working on the rest of the site and finishing it up.
+This is the homepage for the wiki. It's a work in progress, but feel free to let me know what you think.
 
 ## unnamed Index
 

@@ -2,6 +2,6 @@
 
 # unnamed
 
-- [Home](/)
+- [Home](README.md)
 - [Character Creation](CCSummary.md)
 - [Resolution](HBCore.md)
