@@ -2,7 +2,7 @@
 
 Drama Dice are a shared pool of dice that players can use to accomplish goals or influence scenes. They are something of a "meta mechanic"; although they can be thought of as luck or extra effort - and, in fact, are used that way at times - what they really are is a tool to give players more control over their character's fates and the story.
 
-Each campaign starts with a number of Drama Dice equal to 2 + 1 for each player. The total pool of Drama Dice increases as characters [advance](Advancement.md), with a final limit of 10 dice. All of the dice in the pool are d6s.
+Each campaign starts with a number of Drama Dice equal to 2 + 1 for each player. The total pool of Drama Dice increases as characters [Advance](Advancement.md), with a final limit of 10 dice. All of the dice in the pool are d6s.
 
 ## Pulling Drama Dice
 

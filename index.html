@@ -16,53 +16,41 @@
     <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">
     <script>
         window.$docsify = {
-                name: 'unnamed Role Playing System',
-                repo: ''
+            name: 'unnamed Role Playing System',
+            repo: '',
+            smartypants: true,
+            smartLists: true,
 
-                    window.$docsify = {
+            search: 'auto', // default
 
-                    search: 'auto', // default
+            search: [
+                '/', // => /README.md
+                '/*.md',
+            ]
+        };
 
-                    search: [
-                        '/', // => /README.md
-                        '/*.md',
-                    ]
-                },
+        // complete configuration parameters
+        search: {
+            maxAge: 86400000; // Expiration time, the default one day
+            paths: auto; // or 'auto'
+            placeholder: 'Search...';
+            noData: 'No Results!';
+            depth: 6;
 
-                // complete configuration parameters
-                search: {
-                    maxAge: 86400000, // Expiration time, the default one day
-                    paths: auto, // or 'auto'
-                    placeholder: 'Search...',
-                    noData: 'No Results!',
-                },
+            hideOtherSidebarContent: true;
 
-                // Headline depth, 1 - 6
-                depth: 6,
+        };
 
-                hideOtherSidebarContent: true, // whether or not to hide other sidebar content
-
-                // To avoid search index collision
-                // between multiple websites under the same domain
-                namespace: 'website-1',
-            },
-            //  window.$docsify = {
-            //     toc: {
-            //         scope: '.markdown-section',
-            //         headings: 'h1, h2, h3, h4',
-            //         title: 'On this Page',
-            //     },
-            // },
-            window.$docsify = {
-                // ...
-                tabs: {
-                    persist: true, // default
-                    sync: true, // default
-                    theme: 'classic', // default
-                    tabComments: true, // default
-                    tabHeadings: true // default
-                }
-            };
+        window.$docsify = {
+            // ...
+            tabs: {
+                persist: true, // default
+                sync: true, // default
+                theme: 'classic', // default
+                tabComments: true, // default
+                tabHeadings: true // default
+            }
+        };
     </script>
     <script>
         window.$docsify = {
