@@ -38,3 +38,18 @@ Hover over a title for more information.
 - *[Your Stuff](YourStuff.md "basically, the things you own and carry about with you; Equipment/Gear")*
 
 !> **NOTE**<br>Entries in *italics* are incomplete or missing.
+
+## To-Do List
+
+In an effort to better organize my work, here's a to-do list for what I need to get done. Not all of this will be possible without some playtest work, however, so let's put that on the list as well.
+
+[ ] Basic Playtest
+[ ] Finish Article: [Traits.md](Traits.md) and [MetaTraits.md](MetaTraits.md) if it's needed
+[ ] Article: [Combat.md](Combat.md)
+[ ] Articles: [SpecialAbilities.md](SpecialAbilities.md) and related: [Energy.md](Energy.md)
+[ ] Article: [MarksPerks.md](MarksPerks.md)
+[ ] Article: [Fiat.md](Fiat.md)
+[ ] Article: [Stunts.md](Stunts.md)
+[ ] Article: [Wrinkles.md](Wrinkles.md)
+[ ] Article: [YourStuff.md](YourStuff.md)
+[ ] Article: [SessionZero.md](SessionZero.md) - low priority
