@@ -14,7 +14,7 @@ If, on the other hand, you say "I continue to parry, looking for an opening, the
 
 You don't need a long list of abilities to do things like inflict common sense [Conditions](Conditions.md) - you just have to describe things well. Use the environment your GM has described, and ask for more information if you need it. Knock people's heads into stuff for a quick Stun status (see [Statuses](#Statuses), below). Talk smack about your opponent's mother's pies to drive your opponent to Frenzy. Explain why your sword strike deserves more than one wound.
 
-In short - describe what you're doing and you can ask for a specific benefit, or the GM can assign one, or another player can suggest one. THe benefits can vary, but here are some samples:
+In short - describe what you're doing and you can ask for a specific benefit, or the GM can assign one, or another player can suggest one. The benefits can vary, but here are some samples:
 
 - **Extra Damage**: You deal an additional Wound of damage on a success, plus one more wound for each success past the first
 - **Inflict Condition**: Inflict a [Condition](Conditions.md) on an opponent; you'll usually need at least two successes, and you might not deal any damage
@@ -23,15 +23,29 @@ In short - describe what you're doing and you can ask for a specific benefit, or
 - **Maneuver**: Dramatically change your position on the battlefield - run a ways, charge someone, climb a tree...
 - **Perform a [Stunt](Stunts.md)**: Gain one or more dice for especially great descriptions or cool actions
 
-## Your Actions
+## Goals and Action Types
 
-Each round you get three actions by default. In unnamed, the definition of an Action is quite broad - it can mean running across a room to stab someone, 
+Each round you get three actions by default. In unnamed, the definition of an Action is quite broad - it can mean running across a room to stab someone, kicking open a door, or performing a complex spell. With an Action, you try to accomplish a Goal:
 
-### Offensive
+- *Offensive Goal*: You're trying to harm or impede your opponent.
+- *Defensive Goal*: You're trying to bolster your defenses, making yourself harder to harm
+- *Tactical Goal*: You're trying to improve your tactical position, maneuver around the battlefield, or support an ally
 
-### Defensive
+You use Actions to try to accomplish these goals, with each Action representing an attempt. You don't have to use all your actions on your turn (in fact, it's often better if you don't).
 
-### Tactical
+When you use an action on your turn, it's called an Action. When you use an action in response to something someone else did, it's called a Reaction. When you use an Action to try to prevent someone else from doing something, it's an Interrupt.
+
+### Actions
+
+### Reactions
+
+### Interrupts
+
+### Offensive Goals
+
+### Defensive Goals
+
+### Tactical Goals
 
 ### Non-combat actions in Combat
 
