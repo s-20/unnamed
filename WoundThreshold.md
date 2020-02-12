@@ -29,3 +29,15 @@ When a character takes Massive Damage, or their Wounds are equal to their Wound 
 Each round, at the end of your turn, you must make a Death Check by rolling dice equal to your Dying stack. Any Failures are added to the character's Dying stack.
 
 When the character's stack of Dying Conditions is equal to their Wound Threshold, they're gone, although they may be entitled to a Heroic Action; see [Death](Death.md) for more details.
+
+## Battered Track
+
+If you want a less lethal game, you can add a Battered Track. Each player gets 2 Battered levels per Wound. Whenever a player would take a Wound, they're Battered instead. Every 2 times they're Battered, they lose a Wound and lose one action on their next turn in [Combat](Combat.md).
+
+Certain things bypass the Battered track, depending on the campaign. Some Examples: 
+
+- In a mostly realistic campaign, getting shot might go directly to wounds. 
+- In a campaign where supernatural creatures battle each other in a secret gothic-punk society, perhaps the injuries inflicted by supernatural creatures go directly to wounds.
+- In a game where you're fighting faeires (or *are* faeries), cold iron might go direct to Wounds
+
+THe idea is that it gives you two different levels of injury to work with. In a superhero campaign, you might want to make the battered tracks 5 or more per Wound - even "super normals" like Batman and The Punisher can take a lot of punishment, and that's part of the fun!
