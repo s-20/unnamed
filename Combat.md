@@ -21,7 +21,8 @@ A Quick Engagement doesn't require a battle map, and is resolved with some quick
 3. **Everyone Rolls**: Player pull their dice pools together, and the GM rolls a number of dice based on the difficulty of the encounter (starting at 2 per player, up to 5 per player; anything bigger probably needs a Full Engagement).
    1. If the players get more successes than the GM, they win the encounter, describe their victory, and continue
    2. If the GM gets more successes, the players don't win; describe what happens, the GM's dice pool is reduced by 1 per player, then go back to Step 2
-   3. If one of the players rolls a Disaster (see [Core Rules](HBCore.md)), they loose [resources](YourStuff.md), take a [wound](WoundThreshold.md), or must Burn an Aspect - whatever is appropriate
+   3. If no one rolls any successes or there's a tie, something weird happens; an unexpected intervention, the conditions change, or anything else that makes things... well, not necessarily better or worse, just *different*.
+   4. If one of the players rolls a Disaster (see [Core Rules](HBCore.md)), they loose [resources](YourStuff.md), take a [wound](WoundThreshold.md), or must [Burn](Burn.md) a Characteristic (usually an [Aspect](Aspects.md) or [Trait](Traits.md)) - whatever is appropriate
 
    And that's it - once the players get more successes than their opponents, you move on. You can take as much time with descriptions and such as you want, and players can use [Special Abilities](SpecialAbilities.md) freely - they only lose resources or [Energy](Energy.md) if they throw a Disaster.
 
@@ -34,3 +35,37 @@ Full Engagements are for things like BBGs and their lieutenants or other bigger 
 The idea here is to make it so that everyone has something interesting to do every round, and to make every round engaging for every player. Teamwork, maneuvering, and tactics are all important.
 
 ### Full Engagement Chart
+
+A Full Engagement round follows the following structure:
+```plantuml
+
+@startuml
+
+start
+
+:Set scene;
+:Determine Initiative;
+repeat :Round Begins;
+  :Tactical Phase;
+  :Action Phase;
+  :Effect Phase;
+  :Round Ends;
+repeat while (Did somebody win?) is (no)
+->yes;
+:Resolution;
+
+stop
+
+@enduml
+
+```
+
+## Set Scene
+## Determine Initiative
+## Round Begins
+### Tactical Phase
+### Action Phase
+### Effect Phase
+## End of Round
+### Victory?
+## Resolution
