@@ -14,6 +14,10 @@
 - [Drama Dice](DramaDice.md) - a pool of dice available to all players to add pull for checks or alter reality
 - *[Energy](Energy.md) - special pools used to fuel some Special Abilities or for "extra effort".
 - *[Fiat](Fiat.md) - arbitrary changes to the scene initiated by the GM in the name of the story; adds [Drama Dice](DramaDice.md) to the pool
+- *[Game Master](GM.md)* - tips and special rules for GMs.
+  - *[NPCs](NPCs.md)* - the rules for Non Player Characters
+  - *[Menagerie](Menagerie.md)* - rules and tips for animals, monsters, and other such nonesense
+  - *[Hazards and Challenges](HazardsChallenges.md)* - Stuff to spice up a scene or general hazards
 - [Languages](Languages.md) - a brief section covering how languages are handled (and largely handwaved) by the Unnamed system.
 - *[Marks and Perks](MarksPerks.md) - special boons or banes gained during play that can be used in interesting ways
 - [Parameters](Parameters.md) - an outline of the campaign you're going to play, and a discussion of how sensitive topics will be handled (Incomplete, but won't update for a while since it's not vital to play test)
