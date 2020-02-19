@@ -81,7 +81,7 @@ Initiative for a group is usually determined by common sense, favoring the playe
 
 If you want to make it more random or divide up turns per player, players should pull dice for a roll. Instead of counting successes, however, you total the dice, with highest going first. The GM should roll the largest [dice pool](NPCs.md) among the NPCs.
 
-## Round Begins - The Phases
+## Round Begins
 
 A round is divided into four parts: Declaration, Pull Dice, Resolution, and End. During each phase. all players get one (or possibly more) Actions - things they can do. What a player can do depends on the phase:
 
