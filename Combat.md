@@ -86,7 +86,7 @@ If you want to make it more random or divide up turns per player, players should
 A round is divided into four parts: Declaration, Pull Dice, Resolution, and End. During each phase. all players get one (or possibly more) Actions - things they can do. What a player can do depends on the phase:
 
 - **Declaration**: Players declare their intents for the round, describing what they want to accomplish
-- **Pull Dice**: Players pull dice for the actions they intend to take. Players may only pull an individual resource once in a round unless they [Burn](Burn.md) it.
+- **Pull Dice**: Players pull dice for the actions they intend to take. Players may only pull an individual [Aspect](Aspects.md) or [Trait](Traits.md) once in a round unless they [Burn](Burn.md) it.
 - **Resolution**: Players and GM roll dice and compare results. This isn't a contest like the Quick Engagement; see below.
 - **End**: Based on Resolution, describe what happens and make sure everyone is where they need to be for the next round. End of Round effects resolve/end.
 
@@ -96,9 +96,9 @@ If, after the End Round step, there is no longer a battle to be had (all but one
 
 Each round represents five to ten seconds of time (sometimes longer). During declaration, you can generally say you're doing anything that can be accomplished within that timeframe.
 
-Character actions aren't divided into discrete actions as they are in many other games; instead, the players discuss their tactics and declare what they intend to do. As long as it's reasonable that the characters can do what they're trying to do in five to ten seconds, everything's fine.
+Character actions aren't divided into discrete actions as such; instead, the players discuss their tactics and declare what they intend to do. As long as it's reasonable that the characters can do what they're trying to do in five to ten seconds, everything's fine.
 
-**Example:** *Kara intents on providing covering fire for Jake while he tries to close with the vampire. Once Jake gets to the vampire, he wants to do a takedown move and attempt to stake him, while Kara turns her attention to providing suppressing fire to keep the vampire's minions away.*
+**Example:** *Jake wants to providing covering fire for Kara while she tries to close with the vampire. Once she gets to the vampire, Kara wants to do a takedown move and attempt to stake him, while Jake turns his attention to providing suppressing fire to keep the vampire's minions away.*
 
 #### Intent Guidelines
 
