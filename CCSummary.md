@@ -18,15 +18,16 @@ To create a character:
 start
 :Establish Campaign Parameters;
 :Define an Origin;
-:Select 2 Aspects;
+:Define 2 Aspects;
+:Define 1 to 3 [Challenges](Challenges.md);
 :Select 5 Traits;
 note right
 <b>Traits</b> can be //Stacked//
 Stacking indicates greater ability
 end note
-:Select 5 Skills;
+:Select 10 Skills;
 note left
-<b>Skills</b> can be //Stacked//
+<b>Skills</b> can be //Stacked// (up to 3)
 Stacking indicates more training or talent
 end note
 :Establish 5 Connections;
