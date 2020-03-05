@@ -58,4 +58,4 @@ You can also Burn an Aspect to reduce incoming damage or to end a [Condition](Co
 
 ## Character Creation: What's Next
 
-The next step in Character Creation is to select 5 [Traits](Traits.md).
+The next step in Character Creation is to define from 1 to 3 [Challenges](CHallenges.md).
