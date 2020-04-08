@@ -37,7 +37,7 @@ In a great many settings under a variety of circumstances, death isn't always th
 - Several transhuman sci-fi games have something along the lines of a "cortical stack" - essentially, your soul and experiences in removable form that can be placed in a new body when you die
 - In a similar fashion, many high-tech sci-fi settings can bring someone back from death if they get medical attention soon enough. In the movie The Fifth Element, all they need is a few cells (which is silly, but so's the rest of the movie)
 
-The Unnamed System doesn't provide rules for coming back from death, however. The default assumption is that death is the end. However, depending on your established [Parameters](Parameters.md), it may not be.
+The Unnamed System doesn't provide rules for coming back from death, however. The default assumption is that death is the end. Depending on your established [Parameters](Parameters.md), it may not be.
 
 That's cool, but it shouldn't be something covered by the mechanics of a game. Instead, it should be handled on a case-by-case or setting-by-setting thing.
 

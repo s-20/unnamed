@@ -30,14 +30,12 @@ Each round, at the end of your turn, you must make a Death Check by rolling dice
 
 When the character's stack of Dying Conditions is equal to their Wound Threshold, they're gone, although they may be entitled to a Heroic Action; see [Death](Death.md) for more details.
 
-## Battered Track
+## Option: Battered
 
-If you want a less lethal game, you can add a Battered Track. Each player gets 2 Battered levels per Wound. Whenever a player would take a Wound, they're Battered instead. Every 2 times they're Battered, they lose a Wound and lose one action on their next turn in [Combat](Combat.md).
+If you want a less lethal game, you can add a Battered Pool with 5 or 10 levels on it. When a character takes a wound, they can spend from their Battered pool to negate the wound. If a single source causes more than one wound, only one can be countered with the Battered Pool.
 
-Certain things bypass the Battered track, depending on the campaign. Some Examples: 
+Losing points from the Battered pool doesn't cause an ill effects, but may be used as a trigger for [Special Abilities](SpecialAbilities.md). Once your Battered pool is empty, you can no longer negate wounds with it, and all further damage adds to your Wound Stack.
 
-- In a mostly realistic campaign, getting shot might go directly to wounds. 
-- In a campaign where supernatural creatures battle each other in a secret gothic-punk society, perhaps the injuries inflicted by supernatural creatures go directly to wounds.
-- In a game where you're fighting faeires (or *are* faeries), cold iron might go direct to Wounds
+Some effects or events in game may bypass the battered pool. For instance falling in a vat of acid may cause damage directly to wounds. This should generally be avoided, however, allowing the player to spend Battered to negate some or all of the damage with good description (I grab the edge of the vat at the last second!).
 
-The idea is that it gives you two different levels of injury to work with. In a superhero campaign, you might want to make the battered tracks 5 or more per Wound - even "super normals" like Batman and The Punisher can take a lot of punishment, and that's part of the fun!
+Battered is an example of a Special Ability with a [Energy Pool](Energy.md). See [Special Abilities](SpecialAbilities.md) for more information about how these things are put together.
