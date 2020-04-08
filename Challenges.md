@@ -1,4 +1,4 @@
-# Challenges
+# Challenges - DRAFT
 
 Challenges are things that your character seeks to overcome, or difficulties they have to deal with on a day to day basis. All characters have Challenges.
 
@@ -10,14 +10,24 @@ You don't have to take a Challenge if you don't want one for your character - th
 
 ## Types of Challenges
 
-There are four types of Challenge:
+There are six types of Challenge:
 
-- **Compulsions**: A behavior or response that the character feels compelled to do; this covers addictive behaviors, obsessive-compulsive disorders, and similar problems.
+- **Opposition** - There is someone of not insignificant power that wants to stop you or see you dead. Or perhaps you have an entire Rogue's Gallery, or you're wanted by the authorities - whatever the case there are forces that exist to thwart you, imprison you, or kill you.
+- **Overriding Motivations**: These are goals that the character pursues despite possible physical/psychological harm, social consequences, or even risk of death. In short, they're things the character thinks are worth dying for - and perhaps more.
 - **Fears and Obsessions**: Something that the character is irrationally terrified of or obsessed with. Phobias and overwhelming goals can both qualify, as can things like extreme vows or codes of honor.
-- **Physical Disabilities**: Disabilities are things that present major challenges to day to day life. In order to qualify as a Challenge, it has to be severe - being paraplegic, having an absent sense (blindness, deafness, etc.), or other similar major difficulty.
-- **Psychological/Mood Disorders**: General anxiety, severe depression, schizophrenia, sociopathy, and other things qualify.
+- **Physical Disabilities**: Some physical disorder or disability that present major challenges to day to day life.
+- **Psychological/Mood Disorders**: General anxiety, severe depression, schizophrenia, sociopathy, obsessions and compulsions, use disorders, and other things qualify.
+- **Social Stigmas**: Depending on the [Parameters](Parameters.md) of your game, just existing as a certain type of person can be a major enough issue to qualify as a Challenge. Perhaps you're playing a Mutant in the Marvel Universe, or you're a psychic in a world where that sort of thing is outlawed. There are more realistic possibilities, but make sure everyone at the table is comfortable with what you're doing before you hit too close to home.
   
 ## Defining Challenges
+
+Challenges are selected and defined by the players with the help of the GM. Basically, as long as it poses a challenge for the character, it can be a Challenge. There are only a few rules:
+
+1. No player can be forced to play or otherwise deal with a Challenge they don't want or that makes them uncomfortable
+2. Similarly, no Challenge can be taken that makes another player or the GM uncomfortable. Literally anyone can veto anyone else's Challenge, or request a Fade To Black when it comes up.
+3. The Challenge must be significant. Although it probably won't come up every session, it should be possible for it to come up every session.
+
+And that's it. C
 
 ## Pulling Challenges
 
