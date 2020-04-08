@@ -35,7 +35,7 @@ In a great many settings under a variety of circumstances, death isn't always th
 - In the film Beerfest (spoiler alert), one character dies. At his funeral, his twin brother shows up, joins the gang, and insists on being called by his dead brother's nickname - effectively, the character came back!
 - The RPG Paranoia has a whole... thing about dying. It's all good, though - you've got a mostly-updated clone standing by, so no worries
 - Several transhuman sci-fi games have something along the lines of a "cortical stack" - essentially, your soul and experiences in removable form that can be placed in a new body when you die
-- In a similar fashion, many high-tech sci-fi settings can bring someone back from death if they get medical attention soon enough. In the movie The Sixth Sense, all they need is a few cells (which is silly, but so's the rest of the movie)
+- In a similar fashion, many high-tech sci-fi settings can bring someone back from death if they get medical attention soon enough. In the movie The Fifth Element, all they need is a few cells (which is silly, but so's the rest of the movie)
 
 The Unnamed System doesn't provide rules for coming back from death, however. The default assumption is that death is the end. However, depending on your established [Parameters](Parameters.md), it may not be.
 

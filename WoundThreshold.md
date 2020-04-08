@@ -40,4 +40,4 @@ Certain things bypass the Battered track, depending on the campaign. Some Exampl
 - In a campaign where supernatural creatures battle each other in a secret gothic-punk society, perhaps the injuries inflicted by supernatural creatures go directly to wounds.
 - In a game where you're fighting faeires (or *are* faeries), cold iron might go direct to Wounds
 
-THe idea is that it gives you two different levels of injury to work with. In a superhero campaign, you might want to make the battered tracks 5 or more per Wound - even "super normals" like Batman and The Punisher can take a lot of punishment, and that's part of the fun!
+The idea is that it gives you two different levels of injury to work with. In a superhero campaign, you might want to make the battered tracks 5 or more per Wound - even "super normals" like Batman and The Punisher can take a lot of punishment, and that's part of the fun!
