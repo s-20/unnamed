@@ -13,7 +13,7 @@ Hover over a title for more information.
 - [Aspects](Aspects.md "a Characteristic; something special about your character")
 - [Burn](Burn.md "pushing your character to their limits at a cost")
 - [Character Creation Summary](CCSummary.md "step-by-step character creation instructions")
-- *[Combat](Combat.md "rules for resolving violent onflict")*
+- *[Combat](Combat.md "rules for resolving violent conflict")*
 - [Complications](Complications.md "a Charactersitic; things that make a character's life... interesting")
 - [Conditions](Conditions.md "temporary things that affect a character in a specific way")
 - [Connections](Connections.md "a Characteristic; ways in which the character is linked to the world they're in")
