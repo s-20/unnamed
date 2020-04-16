@@ -19,7 +19,6 @@
   - *[Menagerie](Menagerie.md)* - rules and tips for animals, monsters, and other such nonesense
   - *[Hazards and Challenges](HazardsChallenges.md)* - Stuff to spice up a scene or general hazards
 - [Languages](Languages.md) - a brief section covering how languages are handled (and largely handwaved) by the Unnamed system.
-- *[Marks and Perks](MarksPerks.md) - special boons or banes gained during play that can be used in interesting ways
 - [Parameters](Parameters.md) - an outline of the campaign you're going to play, and a discussion of how sensitive topics will be handled (Incomplete, but won't update for a while since it's not vital to play test)
   - *[Session Zero](SessionZero.md) - the first session of the game, where Parameters are established and (usually) characters are made.
 - [Skills](Skills.md) - a Characteristic; things you know how to do, usually through training

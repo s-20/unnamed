@@ -6,7 +6,7 @@ Most conditions are backed up by game mechanics. More importantly, though, they 
 
 Conditions come in two categories - Positive and Negative. Some Conditions can also be stacked. The mechanical consequences of stacking Conditions vary, and not all conditions can be stacked.
 
-You can usually ignore a condition briefly by spending a [Perk](MarksPerks.md) or a [Drama Die](DramaDice.md). This usually means for one brief "action" outside of combat, or for one turn in combat. Not all Conditions can be ignored, and there may be consequences for ignoring one.
+You can usually ignore a condition briefly by spending a [Drama Die](DramaDice.md). This usually means for one brief "action" outside of combat, or for one turn in combat. Not all Conditions can be ignored, and there may be consequences for ignoring one.
 
 ## Positive Conditions
 

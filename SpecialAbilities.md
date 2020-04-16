@@ -26,7 +26,7 @@ Stick with the level of crunch your group is comfortable with - or, at the least
 
 ### Miracles (Divinity)
 
-### Serendipity (perks/marks)
+### Serendipity (Activate on a specific dice result)
 
 ### Enervation (take a Condition)
 

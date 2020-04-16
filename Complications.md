@@ -1,6 +1,6 @@
 # Complications
 
-Complications are the little things in a character's life that make it more... interesting. Complications are called into service to add complexity or intrigue to a plot, to connect the character to the world they're in, and to restore [Drama Dice](DramaDice.md) or gain [Perks](MarksPerks.md).
+Complications are the little things in a character's life that make it more... interesting. Complications are called into service to add complexity or intrigue to a plot, to connect the character to the world they're in, and to add [Drama Dice](DramaDice.md) to the pool.
 
 ## Gaining Complications
 
@@ -55,7 +55,7 @@ Characters don't have to be ruled by their complications, just that they can mak
 
 Other players and the GM can call your Complications into a scene as well; if you have an Adversary, the GM can work them into the plot. If you don't notice that your character is ignoring one of their phobias, another player can call it out.
 
-In any case, whenever one of your Complications makes things more difficult or adds to the story, 1 [Drama Die](DramaDice) is restored, or you gain a [Perk](MarksPerks.md).
+In any case, whenever one of your Complications makes things more difficult or adds to the story, 1 [Drama Die](DramaDice) is added to the pool.
 
 ## Pulling Complications
 

@@ -4,76 +4,68 @@ This page describes the core dice mechanics of the Unnamed System.
 
 ## Dice Basics
 
-The System uses dice pools composed of d6s to determine success and failure. Any even numbered roll counts as a **success**, while odd numbers do not. 
+The System uses dice pools composed of d6s to determine success and failure. Any even numbered roll counts as a **success**, while odd numbers do not.
 
-If the dice came from [Aspects](Aspects.md), a [Burned](Burn.md) [Trait](Traits.md) or [Connection](Connections.md), or a [Skill Specialty](Skills.md), then any result of 6 counts as 2 **successes**. 
+If the dice came from [Aspects](Aspects.md), then any result of 6 counts as 2 **successes**.
 
-Generally, you only need 1 **success** to do something. Especially difficult challenges or unusual circumstances might push the requirement to 2 or even higher. Any successes that you get beyond what you need mean you did really well. This means something specific in [Combat](Combat.md), and often has an effect on [Special Abilities](SpecialAbilities.md), but you usually just get to describe yourself being cool, finishing faster than expected, putting an extra flourish on things, or gaining a [Perk](MarksPerks.md).
+Generally, you only need 1 **success** to do something. Especially difficult challenges or unusual circumstances might push the requirement to 2 or even higher. Any successes that you get beyond what you need mean you did really well. This means something specific in [Combat](Combat.md), and often has an effect on [Special Abilities](SpecialAbilities.md), but you usually just get to describe yourself being cool, finishing faster than expected, putting an extra flourish on things, et cetera.
 
 Even if you have no **Successes**, you may still succeed in some small way, but with a drawback of some kind, depending on the situation. This is **Failing Forward**.
 
-Results of 1 are called **quirks**. If you have more **quirks** than successes, something strange or unexpected occurs along with however well you succeed; either you or the GM will describe what happens. 
+Results of 1 are called **quirks**. If you have more **quirks** than successes, something strange or unexpected occurs along with however well you succeed; either you or the GM will describe what happens.
 
 If you have **quirks** and no **successes**, you outright fail, and if you have nothing but **quirks**, then you fail and something really strange or bad happens (called a **twist**). You or the GM will come up with something interesting, and then move on.
 
 ## Pulling Dice
 
-In order to make a check, you gather your resources, adding whichever dice make sense to the pool. This is called "Pulling Dice".
+In order to make a check, you gather your resources, adding whichever **statistics** make sense to the pool. This is called **Pulling** the individual **statistic**, i.e. **Pulling a Trait** or **Pulling a Connection**, et al.
 
-Pulling Dice involves describing your action, including your [Aspects](Aspects.md), [Traits](Traits.md), and [Skills](Skills.md) in the description. For each Aspect you include, you add d8s equal to its stack. For each Trait or Skill you include, add d6s equal to their respective stack.
+Each statistic pulled adds dice to the check equal to its stack. Some Statistics can be [Burned](Burn.md) instead of just being pulled.
 
-Once you've described what you're trying to do and gathered your dice, you roll. Circumstances can sometimes reduce or increase your dice pool.
-
-## Degrees of Success
-
-If all you need is a quick pass/fail, then one success is enough. Otherwise, the following table describes how things work out.
-
-| Successes/Failures | Check Result | Description |
-| :------------------- | :-------------------: | :-------------------------------------------- |
-| All Failures | Disaster! | Something has gone horribly wrong. |
-| No successes, some Failures | Failure | You can't do it, for whatever reason. Depending on the task, you may or may not be able to try again. |
-|  No successes, no failures  | Marginal Failure | You failed, but you made progress. In what way? |
-| 1 Success | Success with a twist | You accomplished your goal, but it didn't run smoothly - what happened? |
-| 2 Successes | Success | You accomplish your goal. Kinda the most boring possible result. |
-| 3 or more Successes | Triumph! | You accomplish your goal, with style! The more successes, the better the results. |
+Which Statistics you pull for a particular Check are usually up to the player. While the GM might sometimes ask for something specific, they will more frequently provide a prompt for a check, or the Player can declare an action whenever they'd like. The player then decides the best way to resolve it. The GM then approves the check, sometimes asking for clarifications or suggesting changes.
 
 ### Check Example
 
 *Amina's character Jamie the Thief is trying to open a safe, and she wants to use his Nimble, Perceptive, and Clever Traits in combination with his Security skill.*
 
-*She says "I **put my ear to the safe and listen carefully** as I turn the dial with my **nimble** fingers. I'm **clever** enough to do this quickly, and **I know my way around safes**." She then throws 4d6 and gets 1, 4, 5, 6 - two successes and one Failure. The Failure cancels one of the successes, leaving her with only marginal success. Amina says "I got it, but it took twice as long as I thought it would."*
+*She says "I **put my ear to the safe and listen carefully** as I turn the dial with my **nimble** fingers. I'm **clever** enough to do this quickly, and **I know my way around safes**." She then throws 4d6 and gets 1, 4, 5, 6 - two successes - more than she needed! Amina says "I got it, and I'm so good I popped it in just a couple seconds!"*
 
 ## Modifiers
 
-In favorable circumstances, you might get a Bonus to your roll. A Bonus usually comes in the form of a d6 added to the roll.
+You can modify your rolls, either adding or removing dice, to reflect special circumstances or specific results you need to achieve. These Modifiers can add a die to your roll, or subtract a die from a roll.
 
-Penalties are handled by adding a Failure to the result of your check. Especially bad circumstances might add two Failures, but that's usually as far as it goes.
+Modifiers are primarily under player control, with the GM providing approval. The GM might throw a penalty at you, but typically if circumstances are especially difficult for you, the GM will require more than one success rather than steal a die from your roll.
 
-If the circumstances would call for both a bonus and a penalty, they cancel each other out.
+Other players or the GM can also award an extra die if your description is especially cool, the idea is especially interesting or fun, or if you do something especially in character or that adds significantly to the story.
 
-### Burn
+### Sample Modifiers
+
+Here are a few examples for modifiers, both positive and negative. These are just meant to get your mind working, and are not an exhaustive list.
+
+- **Positive Modifiers**
+  - I have access to really good tools, so I'll add a die
+  - I'm going to take my time to make sure I do it right; I'll add a die
+  - I'm attacking from the high ground, that should be good for a die
+- **Negative Modifiers**
+  - I know it's too dark to see, but maybe I can try to pick the lock by feel - I'll drop a die to try
+  - I need to get this done in a hurry, I'll drop a die to do it in half the time
+  - The tree is too skinny to hide behind, but maybe if I suck in my gut and roll 1 less die, he won't notice me
+
+### Drama Dice
+ 
+[Drama Dice](DramaDice.md) are a special shared expendable pool of dice the players have to add modifiers to their checks, and to do a variety of other things. A group's Drama Dice pool starts at 5 dice, and changes throughout the game. All players share the same Drama Dice pool.
+
+See the linked article for more information.
+
+## Burn
+
+You can **burn** an [Aspect](Aspects.md), [Trait](Traits.md), or [Connection](Connections.md) to push yourself. Essentially, the character puts their all into something, and is a bit worn out because of it.
+
+Burning a statistic means that any successes you roll for it are doubled. This means that if you roll an even number for any burned statistic, you get two successes, and if you roll a 6 for an Aspect, you get 4 successes.
+
+When a statistic is burned, its stack is temporarily reduced by 1. If its stack is reduced to 0, you can no longer pull that statistic until it recovers completely.
 
 **See [Burn](Burn.md) for more details**
-
-Sometimes you have to really push yourself to try to accomplish something. This is presented by "burning" an Aspect or Trait. Essentially, the character puts their all into something, and is a bit worn out because of it.
-
-The [Burn](Burn.md) article has more detail, but the short version is that burning a [Trait](Traits.md) means it provides d8s for your dice pool instead of d6s, while burning an [Aspect](Aspects.md) provides a free success in addition to the dice it already provides.
-
-When a Trait or Aspect is burned, it's stack is temporarily reduced by 1. You restore the characteristic with rest, relaxation, or some other kind of recuperation. If your character's a partier, they might need to go to a party for instance - whatever charges their batteries.
-
-### Stunts
-
-**For More Information**: [Stunts](Stunts.md)
-
-When making checks, especially good description merits a bonus. If you come up with an especially dramatic or cool way to describe what you're doing, you may be awarded a Stunt Die to add to your check.
-
-## Drama Dice
-
-**For More Information**: [Drama Dice](DramaDice.md)
-
-At the start of a campaign, a pool of Drama Dice is established. This is a pool of d6s equal to 2 for each player at the table, +2 per [Tier](Advancement.md). Any time a player is making a check, they may add one or two Drama Dice to that check.
-
-All player characters usually share the same pool of Drama Dice. Drama Dice replenish slowly on their own, but can be restored faster through good roleplay.
 
 ## What To Read Next
 

@@ -23,7 +23,6 @@ Hover over a title for more information.
 - *[Energy](Energy.md "a Characteristic, sort of; resource pools used to fuel Special Abilities")*
 - *[Fiat](Fiat.md "arbitrary changes to the scene initiated by the GM for plot purposes; replenishes the Drama Dice pool")*
 - [Languages](Languages.md "how languages work in the unnamed System")
-- *[Marks and Perks](MarksPerks.md "special pools characters recieve, typically through rolpeplay, like a personal Drama Dice pool but more powerful")*
 - [Origin](Origin.md "a Characteristic; a short description of the character that provides insight into their background and can be used to modify checks")
 - [Parameters](Parameters.md "setting the parameters of the game - genre, expectations, how sensative topics will be approached, and so on")
   - *[Session Zero](SessionZero.md "the first game session where characters are created and Parameters are established")*
@@ -49,7 +48,6 @@ In an effort to better organize my work, here's a to-do list for what I need to 
 - Article: [Combat.md](Combat.md)
 - Article: [SpecialAbilities.md](SpecialAbilities.md
   - related: [Energy.md](Energy.md)
-- Article: [MarksPerks.md](MarksPerks.md)
 - Article: [Fiat.md](Fiat.md)
 - Article: [Stunts.md](Stunts.md)
 - Article: [Wrinkles.md](Wrinkles.md)

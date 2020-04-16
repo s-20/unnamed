@@ -24,17 +24,13 @@ In addition, Aspects can be burned for two special effectS: damage reduction and
 
 ### Damage Reduction
 
-Any time you might take damage, you can burn an Aspect to reduce that damage. By default, doing so reduces the damage by half, rounding down to a minimum of 0.
-
-You must describe how you've avoided the damage, or else the GM can overrule the burn. If your description involves the Aspect directly, the GM may reduce the damage further, restore a [Drama Die](DramaDice.md), or give you a [Perk](MarksPerks.md).
+Any time you might take damage, you can burn an Aspect to reduce that damage. If you can work the burned Aspect into the a description of how you avoid the damage, it is reduced by 2. If you can't, that's okay, but the damage is only reduced by 1.
 
 ### Ending Conditions
 
 [Conditions](Conditions.md) are typically negative ongoing effects on your character; they might include bleeding, being on fire, being poisoned or diseased, et cetera. Most Conditions have a particular duration - five minutes, until you roll 5 successes using Body related traits, an hour, four days, whatever.
 
-If you've gone through half a Condition's duration, you can burn an Aspect to end it. If the Aspect is related to the recovery and you can describe it as such, that might be worth a [Drama Die](DramaDice.md) or a [Perk](MarksPerks.md), but a description is not generally necessary in this case.
-
-If the Condition doesn't have a duration, you can't burn your way out of it.
+You can burn an Aspect to end it. If the Aspect is related to the recovery and you can describe it as such, that might be worth a [Drama Die](DramaDice.md), but this isn't necessary.
 
 ## Burning Connections
 

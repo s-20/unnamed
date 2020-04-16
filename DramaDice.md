@@ -30,14 +30,6 @@ Using a Drama Die to affect a scene in this way can take many forms:
 
 Although the GM can overrule any scene-altering Drama Dice usage, they are encouraged to only do so under the rarest of circumstances, reserving veto power for when the request is impossible or disruptive to the game.
 
-## Replenishing Drama DIce
+## Gaining Drama Dice
 
-Drama Dice don't replenish very quickly on their own. Instead, Drama Dice are replenished based on events within the game. Drama Dice are replenished in the following ways:
-
-- One Drama Die is added to the pool at the start of each session
-- Any time the GM uses [Fiat](Fiat.md), a Drama Die is added to the pool
-- If a [Complication](Complications.md) makes a character's life more difficult, a Drama Die may be added if the difficulty is significant
-- If a Complication makes *everyone's* life more difficult, then a Drama Die is added to the pool
-- At the end of every session, players can convert their character's [Perks](MarksPerks.md) into Drama Dice if they so choose
-
-The Drama Dice pool cannot exceed its normal maximum (2 per player +2 per Tier).
+REWRITE
