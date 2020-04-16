@@ -4,9 +4,17 @@ This page describes the core dice mechanics of the Unnamed System.
 
 ## Dice Basics
 
-The System uses dice pools composed of d6s and d8s to determine success and failure. Any roll of 5 or higher is a **Success**. Any roll of 7 or higher **Bounces** - you count the success and then roll the die again.
+The System uses dice pools composed of d6s to determine success and failure. Any even numbered roll counts as a **success**, while odd numbers do not. 
 
-Any result of 1 counts as a **Failure**; failures and successes cancel each other out. If you have no successes and no failures, you kinda fail, but only barely and you do make progress. If you have more Failures than Successes, you fail at what you're doing. If you roll all Failures, then it's a **Disaster**.
+If the dice came from [Aspects](Aspects.md), a [Burned](Burn.md) [Trait](Traits.md) or [Connection](Connections.md), or a [Skill Specialty](Skills.md), then any result of 6 counts as 2 **successes**. 
+
+Generally, you only need 1 **success** to do something. Especially difficult challenges or unusual circumstances might push the requirement to 2 or even higher. Any successes that you get beyond what you need mean you did really well. This means something specific in [Combat](Combat.md), and often has an effect on [Special Abilities](SpecialAbilities.md), but you usually just get to describe yourself being cool, finishing faster than expected, putting an extra flourish on things, or gaining a [Perk](MarksPerks.md).
+
+Even if you have no **Successes**, you may still succeed in some small way, but with a drawback of some kind, depending on the situation. This is **Failing Forward**.
+
+Results of 1 are called **quirks**. If you have more **quirks** than successes, something strange or unexpected occurs along with however well you succeed; either you or the GM will describe what happens. 
+
+If you have **quirks** and no **successes**, you outright fail, and if you have nothing but **quirks**, then you fail and something really strange or bad happens (called a **twist**). You or the GM will come up with something interesting, and then move on.
 
 ## Pulling Dice
 
