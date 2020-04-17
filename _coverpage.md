@@ -16,3 +16,4 @@
 [The GitHub Page](https://github.com/s-20/unnamed)
 [Main Index](README.md)
 [Make a Character](CCSummary.md)
+[Character Sheet](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)

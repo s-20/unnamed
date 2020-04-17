@@ -8,3 +8,5 @@
 - [Character Creation](CCSummary.md)
   - [Advancement](Advancement.md)
   - [Adjustment Points](AdjustmentPoints.md)
+
+**[Character Sheet](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)**

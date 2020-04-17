@@ -1,10 +1,6 @@
 ## System Issues
 
 
-Up front about players being more in control of what they roll.
-
-Work on Skills page - apparently unclear
-
 ## Characters
 
 ### Hayley Santos
