@@ -44,4 +44,4 @@
 
 ## Character Creation: What's Next
 
-The next step in [Character Creation](CCSummary.md) is to select 5 [Skills](Skills.md).
+The next step in [Character Creation](CCSummary.md) is to select 10 [Skills](Skills.md).
