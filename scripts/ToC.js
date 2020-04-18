@@ -1,5 +1,5 @@
 var defaultOptions = {
-    headings: 'h1, h2, h3, h4',
+    headings: 'h1, h2, h3',
     scope: '.markdown-section',
 
     // To make work
