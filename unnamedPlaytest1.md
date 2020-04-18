@@ -1,5 +1,9 @@
+# unnamed Playtest1 Notes
+
 ## System Issues
 
+- Wizard's Dilemma - options overwhelming esp. for newbs
+- Descriptive rolls - take a look at that, linguistic gymnastics/repetitive
 
 ## Characters
 
