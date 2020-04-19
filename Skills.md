@@ -14,11 +14,11 @@ In addition, some of the [Special Ability](SpecialAbilities.md)  mechanics hook 
 
 ## Specialties
 
-A specialty is a very narrow part of a skill that you are particularly well versed. So if you have the Technology (Security) skill, you might  have a [Safecracking] Specialty. When you pull a Skill for a check that falls within the Specialty, you use d8s instead of d6s.
+A Specialty is a very narrow part of a skill that you are particularly well versed. So if a character has the Trade (Lawyer) skill, they might have a Maritime Law Specialty. Specialties are player defined, and they should be a much more narrow branch of a Skill Focus the character already has.
 
-A Skill Specialty is noted on your character sheet in square brackets. So, if you were an Artist who studied Sculpture with a specialization in the medium of Copper, you would write Artist (Sculpture) [Medium - Copper]. Then, whenever you tried to make, appraise, or evaluate a sculpture made from Copper, the dice pulled from your Skill stack would be d8s.
+When you pull a Skill for a check that falls within the Specialty, the successes for those dice are doubled.
 
-You can usually only have one Specialty per skill. Specialties are purchased exclusively with [Adjustment Points](AdjustmentPoints.md). Specialties are completely player-defined, but the GM can reject any specialty that is too broad.
+A character can only have one Specialty per skill. Specialties are purchased with [Adjustment Points](AdjustmentPoints.md) at a rate of 2 each. 
 
 ## Skill List
 

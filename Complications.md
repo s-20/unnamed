@@ -61,7 +61,7 @@ In any case, whenever one of your Complications makes things more difficult or a
 
 Some complications can actually provide you benefits. Loved Ones can be asked for favors like a [Connection](Connections.md) (although they may not be reliable unles they're also a Connection). An honor code might give you strength when it's put to the test. A shared disorder can be a way to open up a dialogue.
 
-When you find yourself in a situation like this, you can pull a Complication for a check, gaining a single d8 for the check. You cannot [Burn](Burn.md) a Complication.
+When you find yourself in a situation like this, you can pull a Complication for a check, gaining a die for the check. You cannot [Burn](Burn.md) a Complication.
 
 ## Character Creation: What's Next
 

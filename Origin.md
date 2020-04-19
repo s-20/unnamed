@@ -19,23 +19,15 @@ An Origin is between one and three sentences that, in brief, describes the core 
 
 ## Using Origins
 
-Origins aren't pulled into checks like other Characteristics. Instead, they modify the way you gather successes on rolls. This can be good, bad, or both, depending on the circumstances.
+When a character can bring the experiences of their origin to bear on a situation, they can claim special benefits on the check. In addition, there are certain extra things an Origin can do for a character:
 
-If a character's Origin would have a positive impact on the check, then when you roll, the dice bounce on a 6+ rather than a 7+. If the character's Origin would have a negative impact, then you count 1s and 2s as Failures instead of just 1s. Both of these can apply to the same check if there are ups and downs to the situation.
-
-### Origins and Drama Dice
-
-Origins also modify how [Drama Dice](DramaDice.md) work. When you pull Drama DIce for a check that has been modified as described above, you roll one additional die for each [Tier](Advancement.md) of your character. You only gain 1 bonus die per Tier, even if you pull more than one Drama Die for the check.
-
-?> *Example:*<br>A Tier 1 character pulling a Drama Die for something related to their Origin would roll 2 dice instead of 1; a Tier 2 character would roll 3 dice, and so on.
-
-Alternately, you may choose to use d8s instead of d6s when using Drama Dice.
-
-## Shifting Origin
-
-Because Origins can contain motivations, they can shift over time. Any time you gain a [Tier](Advancement.md), you can "shift" your origin if something in the game has happened that makes such a change appropriate. Perhaps you've succeeded in avenging someone and now your motives are different. Perhaps instead of being a college student, you're now a graduate.
-
-Whatever the case, you can shift your origin with GM approval whenever you spend an Advancement.
+- Origins may allow a check that the character couldn't normally make related to knowledge or cultural aspects of the origin
+- Origin can be "pulled" like a Trait, adding a die to the check
+- The successes for any [Drama Dice](DramaDice.md) added to a check related to the character's Origin are doubled
+- A Drama Die can be spent in a situation relating to a character's origin to gain one of the following benefits:
+  - Gain 2 stack in a special [Connection](Connections.md) related to the character's origin. This connection is strong, but it may be unreliable. The connection becomes unavailable after a time specified by the GM unless you spend [Adjustment Points](AdjustmentPoints.md) to make it permanent.
+  - Re-roll any Quirks rolled on a check that included a die from the character's Origin; continue to re-roll until no quirks remain.
+  - Add something to a scene related to the character's Origin that affects the plot in some way - invent a new Coming of Age ritual, add an ancient species enemy, add a historical detail to your Origin that's useful right now, and so on.
 
 ## Character Creation: What's Next
 

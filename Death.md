@@ -13,7 +13,7 @@ A character gains the Dying in three main ways - when they have Wounds equal to 
 The Dying Condition has the following effects:
 
 - The character gains the [Off Balance Condition](Conditions.md) if they don't already have it
-- Taking more then one action in a round increases the Dying conditions's stack by 1 for each action taken, but any dice they pull for that action are d8s
+- Taking more then one action in a round increases the Dying conditions's stack by 1 for each action taken
 - If the character does not receive first aid of some kind, they must make a Death Check at the end of their turn - see [Wound Threshold](WoundThreshold.md).
 
 If the character's Dying stack ever equals their Wound Threshold, that's it - they're beyond help, and are going to die. The character may die immediately, or they may get one final Heroic Action.
@@ -24,7 +24,9 @@ A dying character always gets a chance to utter last words - or even last paragr
 
 A Heroic Action should be taken very soon after the character's fate is sealed. In combat, it must be within two rounds of gaining their final stack in the Dying Condition; out of combat, it's a bit more relaxed - it should be very soon, but it should also be dramatically appropriate, so there's more latitude.
 
-Heroic Actions always at least partially succeed. If the action requires a Check, you always use d8s instead of d6s, and you ignore Failures (i.e. they don't cancel Successes, and cannot cause a Disaster; see [The Core Rules](HBCore.md)).
+Heroic Actions always at least partially succeed. Most of the time, these actions shouldn't require a check, they should simply succeed to a degree that is dramatically appropriate. This should provide a significant benefit to the character's allies, or perhaps even win the day.
+
+If a check *is* required, then any successes on the check are doubled, and the player must roll all quirks to fail.
 
 ## The Death Rant
 

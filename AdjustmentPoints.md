@@ -19,24 +19,19 @@ For 10 points, you can:
 - **Improve Wound Threshold**: Increase your Wound Threshold by 1. Characters are usually limited to 5 + [Tier x2](Advancement.md).
 - **Improve an Energy [Trait](Traits.md)**: Make an [Energy [Trait](Traits.md)](Energy[Trait](Traits.md)s.md) charge faster
 
-### 8 Adjustment Points
-
-If your campaign has [Special Abilities](SpecialAbilities.md), it costs 8 Adjustment points to gain an additional one, if it's available at all. All modifications to Special Abilities must be made with GM discussion and approval.
-
 ### 5 Adjustment Points
 
-For 5 Adjustment Points, you can: 
+For 5 Adjustment Points, you can:
 
-- **Improve a [Trait](Traits.md) or Skill**: Increase the stack of an existing [Trait](Traits.md) or Skill by 1. [Traits](Traits.md) are usually capped at a stack of 5, Skills at a stack of [3 + Tier](Advancement.md).
-- **Add a New [Trait](Traits.md)**: If it seems appropriate, you can add a new [Trait](Traits.md) with a stack of 1. New [Traits](Traits.md) should usually be gained after something happens in the story to trigger it.
+- **Improve a [Trait](Traits.md) or [Skill](Skills.md)**: Increase the stack of an existing Trait or Skill by 1, or add a new Skill or Trait.
 - **Expand a Special Ability**: If you have a [Special Ability](SpecialAbilities.md) with a list of sub-abilities, like Magic or Psychic Power, you can expand that power (gain new spells, for instance); doing so costs up to 5 Adjustment Points
 
 ### 2 Adjustment Points
 
 For 2 Adjustment Points, you can:
 
-- **Improve a Connection**: Increase the stack of a [Connection](Connections.md) by 1. After the game begins, there usually has to be an in-game justification for this improvement
-- **Gain a New Connection**: Add a new [Connection](Connections.md)
+- **Improve a [Connection](Connections.md)**: Increase the stack of a Connection by 1, or add a new Connection. After the game begins, there usually has to be an in-game justification for this improvement
+- **Gain a [Specialty](Skills.md)**: Gain a Specialty for a skill.
 
 ### 1 Adjustment Point
 
