@@ -4,29 +4,17 @@ Death is the big "Back to Character Creation" moment for most characters. It mea
 
 They are an Ex Character.
 
-## The Dying Condition
-
-When character is on the brink of death, they may gain the Dying [Condition](Conditions.md). The Dying Condition is usually reserved for [Combat](Combat.md) or similar intense short conflicts, but it can be thrown in whenever it might up the stakes.
-
-A character gains the Dying in three main ways - when they have Wounds equal to their [Wound Threshold](WoundThreshold.md), when they take [Massive Damage](WoundThreshold.md), or as a result of poison or similar effects.
-
-The Dying Condition has the following effects:
-
-- The character gains the [Off Balance Condition](Conditions.md) if they don't already have it
-- Taking more then one action in a round increases the Dying conditions's stack by 1 for each action taken
-- If the character does not receive first aid of some kind, they must make a Death Check at the end of their turn - see [Wound Threshold](WoundThreshold.md).
-
-If the character's Dying stack ever equals their Wound Threshold, that's it - they're beyond help, and are going to die. The character may die immediately, or they may get one final Heroic Action.
-
 ## Heroic Action
 
-A dying character always gets a chance to utter last words - or even last paragraphs, if dramatically appropriate. Alternately (or in addition, if it seems like fun), they may take one final action of some kind - arming the bomb as they collapse, throwing a dagger at the BBG, leaping in front of an ally to take the bullet, or whatever else occurs to you.
+A dying character always gets a chance to utter last words - or even last paragraphs, if dramatically appropriate.
 
-A Heroic Action should be taken very soon after the character's fate is sealed. In combat, it must be within two rounds of gaining their final stack in the Dying Condition; out of combat, it's a bit more relaxed - it should be very soon, but it should also be dramatically appropriate, so there's more latitude.
+Sometimes, they may take one final action of some kind - arming the bomb as they collapse, throwing a dagger at the Bad Guy, leaping in front of an ally to take the bullet, or whatever else occurs to you.
+
+A Heroic Action should be taken very soon after the character's fate is sealed. When the Dying action occurs is a bit relaxed - it should be very soon, but it should also be dramatically appropriate, so there's more latitude.
 
 Heroic Actions always at least partially succeed. Most of the time, these actions shouldn't require a check, they should simply succeed to a degree that is dramatically appropriate. This should provide a significant benefit to the character's allies, or perhaps even win the day.
 
-If a check *is* required, then any successes on the check are doubled, and the player must roll all quirks to fail.
+If a check *is* required, then any successes on the check are doubled. Since the character is dying anyway, there is absolutely no reason not to burn all Traits and Aspects pulled into the roll, so double those successes again - that is, 4 per even number rolled, and 8 if a 6 is rolled with an Aspect.
 
 ## The Death Rant
 
@@ -34,8 +22,8 @@ In a great many settings under a variety of circumstances, death isn't always th
 
 - In Dungeons & Dragons, spells like Raise Dead and Resurrection have almost trivialized character death
 - In superhero comics, coming back from the dead (often with new or improved powers!) is a trope so common as to be cliché
-- In the film Beerfest (spoiler alert), one character dies. At his funeral, his twin brother shows up, joins the gang, and insists on being called by his dead brother's nickname - effectively, the character came back!
-- The RPG Paranoia has a whole... thing about dying. It's all good, though - you've got a mostly-updated clone standing by, so no worries
+- In the film Beerfest (spoiler alert), one character dies. At his funeral, his twin brother shows up, joins the gang, and insists on being called by his dead brother's nickname.
+- The RPG Paranoia has a whole... thing about dying.
 - Several transhuman sci-fi games have something along the lines of a "cortical stack" - essentially, your soul and experiences in removable form that can be placed in a new body when you die
 - In a similar fashion, many high-tech sci-fi settings can bring someone back from death if they get medical attention soon enough. In the movie The Fifth Element, all they need is a few cells (which is silly, but so's the rest of the movie)
 

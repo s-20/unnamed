@@ -15,16 +15,14 @@ Each section below describes the costs and benefits for spending Adjustment Poin
 For 10 points, you can:
 
 - **Improve an Aspect**: Increase the Stack of an Aspect by 1.
-- **Add a New Aspect**: You can add an additional Aspect. Characters cannot have more Aspects than [Tier +1](Advancement.md).
-- **Improve Wound Threshold**: Increase your Wound Threshold by 1. Characters are usually limited to 5 + [Tier x2](Advancement.md).
-- **Improve an Energy [Trait](Traits.md)**: Make an [Energy [Trait](Traits.md)](Energy[Trait](Traits.md)s.md) charge faster
+- **Add a New Aspect**: You can add an additional Aspect.
+- **Improve Wound Threshold**: Increase your Wound Threshold by 1.
 
 ### 5 Adjustment Points
 
 For 5 Adjustment Points, you can:
 
 - **Improve a [Trait](Traits.md) or [Skill](Skills.md)**: Increase the stack of an existing Trait or Skill by 1, or add a new Skill or Trait.
-- **Expand a Special Ability**: If you have a [Special Ability](SpecialAbilities.md) with a list of sub-abilities, like Magic or Psychic Power, you can expand that power (gain new spells, for instance); doing so costs up to 5 Adjustment Points
 
 ### 2 Adjustment Points
 
@@ -49,15 +47,17 @@ You don't have to spend all of your Adjustment Points as soon as you get them. I
 
 Adjustment Points can be spent at any time to make little changes to your character. You can even spend them in the middle of a session, if you like!
 
-In session, you should justify the expenditure in some way, even if it's just an offhand comment ("Yeah, I've been studying Nambian history in my spare time"). Between sessions, you don't need to bother, but doing so might be worth a [Drama Die](DramaDice.md) to a generous GM.
+In session, you should justify the expenditure in some way, even if it's just an offhand comment ("Yeah, I've been studying Nambian history in my spare time").
 
 ### Bigger Purchases
 
-THis one is pretty self explanatory. You can hold onto Adjustment Points until you have enough to make the change you want to make. For example, if you have only 2 points, but you want to increase your Wound Threshold, you can save them until you get 8 more.
+This one is pretty self explanatory. You can hold onto Adjustment Points until you have enough to make the change you want to make. For example, if you have only 2 points, but you want to increase your Wound Threshold, you can save them until you get 8 more.
 
 ## Character Creation: What's Next
 
-At this stage in [Character Creation](CCSummary.md), you're more or less done. Finalize your [Wound Threshold](WoundThreshold) and any [Energy Pools](Energy.md) you might have, then fill in any quirks or peccadillos that help round out your character, and get ready to play!
+At this stage in [Character Creation](CCSummary.md), you're more or less done.
 
-- You might be interested in [Advancement](Advancement.md) next. 
-- Check the [Unnamed Index](UnnamedIndex.md) to review anything you missed.
+- Go over [The Core Rules](HBCore.md) or any other article you're not completely familiar with
+- You might be interested in [Advancement](Advancement.md) next
+- [Combat](Combat.md) might come in handy
+- Check the [Unnamed Index](UnnamedIndex.md) to review anything you missed

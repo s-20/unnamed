@@ -30,7 +30,7 @@ Burning your Bridges happens when you [Burn](Burn.md) a Connection to add to a r
 
 By burning a Connection, you've put a strain on the relationship. This might mean you need to buy a friend flowers, work overtime, or publish a new paper to repair your reputation with the Connection.
 
-If you Burn your stack down to 0 too often, however, things get tricky. If you burn a Connection to 0 more than once, and you roll a 1 with the d8 you gained from burning the Connection, you've called in one favor too many, and the Connection is permanently gone. You might be fired, lose a friend, get disowned, or any of a variety of things. If this happens, you'll have to work to get the Connection back, if it's even possible to do so.
+If you Burn your stack down to 0 too often, however, things get tricky. If you burn a Connection to 0 more than once, and you roll a quirk when burning the Connection, you've called in one favor too many, and the Connection is permanently gone. You might be fired, lose a friend, get disowned, or any of a variety of things. If this happens, you'll have to work to get the Connection back, if it's even possible to do so.
 
 Increasing the stack for the Connection resets this count. This doesn't apply to some Connections; for instance, "Fought Bravely at the Beaches at Normandy" isn't going to go away no matter how many times you burn it. In this case, you regain the Connection after a few hours, but cannot burn it again for a full in-game month (or longer at GM discretion).
 
@@ -41,16 +41,6 @@ Sometimes, your connections can be used against you. Having a Connection implies
 The GM may use any of your Connections as a plot hook. Your friend in the DOT might get kidnapped, or someone else who belonged to your unit in the war might need a favor.
 
 You can ignore this sort of thing, but doing so burns the Connection down to a stack of 0, with all the consequences described above. This can even make the character lose Event Connections and things you can't normally permanently lose - if word gets out that your character won't help his fellow veterans, they won't help you either.
-
-## Shared Connections
-
-It's a good idea (but not a requirement) for PCs to have Connections in common. This creates a connection between the characters, and brings the Connection in question more strongly into the setting. There is also a small mechanical advantage.
-
-If two characters have a Connection in common, and they both pull it towards the same task, they can make a single roll instead of rolling separately. You only use the highest stack to count dice, but a number of those dice equal to the lowest stack is rolled as d8s without burning the Connection.
-
-For example, let's say Jack is friends with Bob the Blacksmith (he has the Bob the Blacksmith is my Friend connection with a stack of 1), and Anya is Bob's daughter (she has Bob's Daughter with a stack of 2). Jack and Anya want Bob to forge swords for them, but they don't have any money, so they pull the Connection. Instead of making separate rolls, they go together.
-
-Anya has the highest stack, so they get two dice. Jack's lower stack of 1 means that one of those dice is a d8, so they roll 1d6 and 1d8. If Jack also had a stack of 2, they'd roll 2d8 instead. If Jack had a stack of 4, and Anya had a stack of 3, they'd roll 1d6 and 3d8 - and so on.
 
 ## Other PCs as Connections
 

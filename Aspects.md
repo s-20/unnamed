@@ -2,13 +2,11 @@
 
 **Selecting Aspects is Step 2 of [Character Creation](CCSummary.md)**
 
-Aspects represent central strengths of your character. They function like souped-up [Traits](Traits.md) - they're pulled into rolls and provide d8s instead of d6s for making checks.
+Aspects represent central strengths of your character. They function like souped-up [Traits](Traits.md) - they're pulled into rolls, and provide an extra success when you roll a 6.
 
-Unlike Traits and [Skills](Skills.md), Aspects aren't chosen from a list. Instead, they're player-defined and used to help describe the character as a person, and define their abilities.
+When [burned](Burn.md), Aspects provide double successes just like Traits. That means that any even numbers count as two successes, and any 6 counts as 4.
 
-Aspects can factor into [Special Abilities](SpecialAbilities.md), provide simulated Skills, and imply a great deal of background.
-
-Like [Traits](Traits.md) and [Skills](Skills.md), Aspects can be stacked. All characters have a minimum of two Aspects, however; you cannot just start with one Aspect that has a stack of 2.
+Aspects aren't chosen from a list; they're player-defined and used to help describe the character as a person, and define their abilities. Like [Traits](Traits.md) and [Skills](Skills.md), Aspects can be stacked. All characters have at least two different Aspects.
 
 ## Defining Aspects
 
@@ -49,12 +47,6 @@ At any point in a character's career, if it makes sense, the GM can approve an A
 Aspect Shifts don't generally involve an [Advancement](Advancement.md) or [Adjustment Points](AdjustmentPoints.md). Instead, the GM and the Player discuss the change, come to an agreement, and change the Aspect.
 
 If the shifting Aspect is part of a stack, it usually all changes at once, but it might split into more than one Aspect with the stack divided between them.
-
-## Burning Aspects
-
-When [burned](Burn.md), Aspects provide a free success on the check in addition to any d8s from the Aspect. Only one free success is provided regardless of the Aspect's stack. Burning the Aspect reduces its stack temporarily.
-
-You can also Burn an Aspect to reduce incoming damage or to end a [Condition](Conditions.md); see [Burn](Burn.md) for more details.
 
 ## Character Creation: What's Next
 

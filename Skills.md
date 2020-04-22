@@ -18,7 +18,7 @@ A Specialty is a very narrow part of a skill that you are particularly well vers
 
 When you pull a Skill for a check that falls within the Specialty, the successes for those dice are doubled.
 
-A character can only have one Specialty per skill. Specialties are purchased with [Adjustment Points](AdjustmentPoints.md) at a rate of 2 each. 
+A character can only have one Specialty per skill. Specialties are purchased with [Adjustment Points](AdjustmentPoints.md) at a rate of 2 each.
 
 ## Skill List
 
