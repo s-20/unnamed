@@ -1,9 +1,12 @@
 # unnamed Playtest1 Notes
 
+## Zombies for Next Game
+
 ## System Issues
 
 - Wizard's Dilemma - options overwhelming esp. for newbs
 - Descriptive rolls - take a look at that, linguistic gymnastics/repetitive
+- Aspects need to be better defined (too broad - neuro aphla/daintree)
 
 ## Characters
 
