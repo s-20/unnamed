@@ -1,34 +1,42 @@
 # Combat
 
-I'm going to be upfront with you - when it comes to RPG design, making combat fun is where I have the least confidence. Any and all ideas and feedback are welcome.
+Although designed for physical altercations, the combat system can be used to simulate other situations as well. Basically, any situation where tactics or an organized turn order would benefit play, you can haul out the combat system.
+
+In the rules outlined here, the focus is kept on the physical altercation stuff.
 
 ## General Principles
 
-The unnamed System uses a battle map for any full-scale combat. Minor skirmishes, on the other hand (any fight that should be resolved within a minute or so) are handled with an exchange of skill checks.
+The unnamed System uses a battle map for any full-scale combat. Minor skirmishes, on the other hand (any fight that should be resolved within a minute or so) are handled with an exchange of skill checks in the "theater of the mind" - that is, without maps an minis in your imaginations.
 
-This means that there are two kinds of combat - Descriptive or Quick Engagements and Full Engagements. Each use their own rules and are designed for different circumstances.
+This means that there are two kinds of combat - Descriptive or Quick descriptive ones called Skirmishes and full-on battles called Engagements. Each use their own rules and are designed for different circumstances.
 
-## Quick Engagement
+Each sort of combat and their most basic rules are described here. Both also have a more complete page of their own.
 
-In movies, comics, and anime, there are frequently scenes, usually when the heroes are running down a corridor, when they briefly exchange fire/clash swords/whatever with some low-level thugs, robot gun turrets, and so on. 
+## Skirmish
 
-These scenes provide a quick flash of action, but don't last long, and seldom result in injury to the protagonists. These are Quick Engagements.
+In movies, comics, and anime, there are frequently scenes, usually when the heroes are running down a corridor, when they briefly exchange fire/clash swords/whatever with some low-level thugs, robot gun turrets, and so on.
 
-A Quick Engagement doesn't require a battle map, and is resolved with some quick description a a couple throws of the dice, usually a single exchange between the players and their opponents. Use the following steps:
+These scenes provide a quick flash of action, but don't last long, and seldom result in injury to the protagonists. These are Skirmishes.
 
-1. **The GM sets the scene**: As you rush down the corridor, four turrets pop out of the ceiling and open fire!
-2. **The Players react**: "I throw myself to the ground!" "I dive behind Bob and fire from under his arm!" "I open up with my Gatling gun!"
-3. **Everyone Rolls**: Player pull their dice pools together, and the GM rolls a number of dice based on the difficulty of the encounter (starting at 2 per player, up to 5 per player; anything bigger probably needs a Full Engagement).
-   1. If the players get more successes than the GM, they win the encounter, describe their victory, and continue
-   2. If the GM gets more successes, the players don't win; describe what happens, the GM's dice pool is reduced by 1 per player, then go back to Step 2
-   3. If no one rolls any successes or there's a tie, something weird happens; an unexpected intervention, the conditions change, or anything else that makes things... well, not necessarily better or worse, just *different*.
-   4. If one of the players rolls a Disaster (see [Core Rules](HBCore.md)), they loose [resources](YourStuff.md), take a [wound](WoundThreshold.md), or must [Burn](Burn.md) a Characteristic (usually an [Aspect](Aspects.md) or [Trait](Traits.md)) - whatever is appropriate
+A Skirmish doesn't require a battle map, and is resolved with some quick description a a couple throws of the dice, usually a single exchange between the players and their opponents. Use the following steps:
 
-   And that's it - once the players get more successes than their opponents, you move on. You can take as much time with descriptions and such as you want, and players can use [Special Abilities](SpecialAbilities.md) freely - they only lose resources or [Energy](Energy.md) if they throw a Disaster.
+1. **The GM sets the scene**: The GM provides a quick description of what's going on, prompting action:
+   - *As you rush down the corridor, four turrets pop out of the ceiling and open fire!*
+2. **The Players react**: Each player takes a second to react, calling out their immediate reactions to the situation:
+   - *I throw myself to the ground!*
+   - *I dive behind Bob and fire from under his arm!*
+   - *I open up with my Gatling gun!*
+3. **Everyone Rolls**: Player pull their dice pools together, and the GM rolls a number of dice based on the difficulty of the encounter
+   - If the players get more successes than the GM, they win the encounter, describe their victory, and continue
+   - If the GM gets more successes, the GM's dice pool is reduced by an amount equal to the successes rolled by the Players and some of the players resources are depleted - someone runs out of ammo, someone gets hurt, someone loses [Energy](Energy.md), etc.; describe what happens and return to Step 2.
+   - If no one rolls any successes or there's a tie, the GM's dice pool is reduced by 2; go back to Step 2.
+   - If there are [Quirks](HBCore.md) in the roll, something odd might happen. If any one character or the GM get *a lot* of quirks, then something big might happen, provided it keeps the story moving and doesn't hurt the players too much.
+
+   And that's it - once the players get more successes than their opponents, you move on. You can take as much time with descriptions and such as you want, and players can use [Special Abilities](SpecialAbilities.md)/[Stuff](YourStuff.md) freely without [Energy](Energy.md) or other resource costs.
 
    Players can, of course, burn their Traits and so on if they like, but the whole idea is a quick, fun action scene where the players can show off a little with minimal risk on their way to something bigger - a big RP opportunity, or maybe a Full Engagement.
 
-## Full Engagement
+## Engagement
 
 Full Engagements are for things like BBGs and their lieutenants or other bigger events.
 

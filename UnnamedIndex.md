@@ -8,6 +8,8 @@
 - [Burn](Burn.md) - Contains a compilation of rules concerning Burn
 - [Character Creation Summary](CCSummary.md) - A step-by-step for character creation with reference links
 - *[Combat](Combat.md) - Conflict resolution when turn order matters, collectively called "Combat". Essentially a series of Checks.
+  - *[Skirmish Rules](Skirmish.md) - Quick battles resolved with simple skill checks; low stakes, no tactical map
+  - *[Engagement Rules](Engagement.md) - Full scaled combat with a tactical map, round structure, and higher stakes than a Skirmish
 - [Complications](Complications.md) - part of your character; things that make your life more difficult
 - [Conditions](Conditions.md) - (usually) temporary things that restrict your character, or give them some sort of bonus
 - [Connections](Connections.md) - part of your character; ways in which you are connected to the world around you
