@@ -18,4 +18,4 @@
 
 **[Character Sheet Download](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)**
 
-Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.visualstudio.com/) or [STackEdit](https://stackedit.io/)) to fill it out!
+Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.visualstudio.com/) or [StackEdit](https://stackedit.io/)) to fill it out!
