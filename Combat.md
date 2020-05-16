@@ -32,9 +32,11 @@ A Skirmish doesn't require a battle map, and is resolved with some quick descrip
    - If no one rolls any successes or there's a tie, the GM's dice pool is reduced by 2; go back to Step 2.
    - If there are [Quirks](HBCore.md) in the roll, something odd might happen. If any one character or the GM get *a lot* of quirks, then something big might happen, provided it keeps the story moving and doesn't hurt the players too much.
 
-   And that's it - once the players get more successes than their opponents, you move on. You can take as much time with descriptions and such as you want, and players can use [Special Abilities](SpecialAbilities.md)/[Stuff](YourStuff.md) freely without [Energy](Energy.md) or other resource costs.
+And that's it - once the players get more successes than their opponents, you move on. You can take as much time with descriptions and such as you want, and players can use [Special Abilities](SpecialAbilities.md)/[Stuff](YourStuff.md) freely without [Energy](Energy.md) or other resource costs.
 
-   Players can, of course, burn their Traits and so on if they like, but the whole idea is a quick, fun action scene where the players can show off a little with minimal risk on their way to something bigger - a big RP opportunity, or maybe a Full Engagement.
+Players can, of course, burn their Traits and so on if they like, but the whole idea is a quick, fun action scene where the players can show off a little with minimal risk on their way to something bigger - a big RP opportunity, or maybe an Engagement.
+
+For more details, see [Skirmish Rules](Skirmish.md)
 
 ## Engagement
 
@@ -47,11 +49,8 @@ The idea here is to make it so that everyone has something interesting to do eve
 A Full Engagement round follows the following structure:
 
 ```plantuml
-
 @startuml
-
 start
-
 :Set scene;
 :Determine Initiative;
 repeat :Round Begins;
@@ -62,11 +61,8 @@ repeat :Round Begins;
 repeat while (Is the fight over?) is (no)
 ->yes;
 :Resolution;
-
 stop
-
 @enduml
-
 ```
 
 ## Set Scene

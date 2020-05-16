@@ -9,7 +9,7 @@ Working for Hilton as transport/carrier pilot onboard brand new Saturn Based Res
 - Outstanding pilot
 - Renowned smuggler
 
-## Origin 
+## Origin
 
 Val Swader is an Outstanding pilot & Renowned smuggler from the Mars Colonies. Joined the underground with big dreams of fortune and has, so far, achieved those dreams. Hoping to add one more success story to their bracket before retiring young and wealthy.
 
