@@ -1,8 +1,8 @@
 # Traits
 
-Traits represent things where your character has exceptional ability. Even one stack in a Trait means you're good at it. Similarly, not having a Trait doesn't mean you're **weak** in that characteristic, just that you can't reliably pull it into your attempts at accomplishing things, or it's not something you can use well. FOr example, not having the Smart trait doesn't mean you're dumb.
+Traits represent things where your character has exceptional ability. Even one stack in a Trait means you're good at it. Similarly, not having a Trait doesn't mean you're **weak** in that characteristic, just that you can't reliably pull it into your attempts at accomplishing things, or it's not something you can use well. FOr example, not having the Clever trait doesn't mean you're dumb.
 
-Traits are divided into six groups: Physical, Mental, Social, Sensory, and Meta. Certain things or checks may key into a category of Traits rather than anything more specific. For instance, you might be able to [Burn](Burn.md) a Physical Trait to function in a high radiation zone, or a Sensory Trait to act in a [Surprise Round](Engagement.md).
+Traits are divided into four groups: Physical, Mental, Social, and Meta. Certain things or checks may key into a category of Traits rather than anything more specific.
 
 A well rounded character should have something from at least three categories, but there are no requirements.
 
@@ -11,8 +11,7 @@ A well rounded character should have something from at least three categories, b
 Physical Traits represent things related to bodily fitness. Things like physical power, nimbleness, and overall health or constitution.
 
 - **Strong**: Physical power; strong characters can lift heavier weights, carry a lot, and punch hard
-- **Agile**: Balance and co-ordination. Agile characters have a good sense of balance and might have acrobatic abilities
-- **Dexterous**: Eye-hand coordination and adroitness of touch. Dexterous characters are good with their hands (or tentacles or whatever) and have excellent fine motor control
+- **Agile**: Balance and co-ordination. Agile characters have a good sense of balance and might have acrobatic abilities. Agility also represents fine motor control and eye-hand coordination.
 - **Tough**: Physical resistance and overall endurance. Tough is the trait of athletes who need to hold out for a long time, from marathon runners to boxers
 - **Healthy**: Immune response and resistance to intoxication. Healthy characters can drink a lot, seldom get sick, and are poison resistant
 
@@ -20,27 +19,17 @@ Physical Traits represent things related to bodily fitness. Things like physical
 
 Mental Traits represent things related to mental health and acuteness. Things like willpower, cleverness, and creativity.
 
-- Smart
-- Determined
-- Creative
-- Sane
-- Quick-witted
+- **Clever**: Mental acuity and quickness; quick thinking and rational though are both aspects of being clever.
+- **Observant**: The ability to assess and process sensory input. Both the ability to notice things and knowing what that information means.
+- **Resolute**: Resolve, willpower, and mental fortitude.
+- **Erudite**: Education or general ability to retain information. An Erudite character has a lot of information at their fingertips, and has an excellent recall.
 
 ## Social Traits
 
-- Charismatic
-- Intimidating
-- Empathic
-- Captivating
-- Attractive
-
-## Sensory Traits
-
-Sensory traits indicate special acuity with particular senses. All of them are phrased as "Excellent ...", as in Excellent Vision, Excellent Hearing, and so on.
-
-Sensory Traits also cover being especially resistant to things that affect the senses. For example, "High Pain Tolerance" and "Flash Resistance" make good Sensory traits.
-
-Unlike other Trait categories, there is no single list of Sensory traits; instead, they are player defined to suit the specific needs of their character. Sensory Traits shouldn't be too broad (like Alert), but are otherwise up to the players.
+- **COnvincing**:
+- **Intimidating**:
+- **Empathic**:
+- **Captivating**:
 
 ## Meta Traits
 

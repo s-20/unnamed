@@ -2,6 +2,8 @@
 
 ## Zombies for Next Game
 
+- Kaiser's Zombies? - Zombies in the past, before there was a bunch of technology.
+
 ## System Issues
 
 - Wizard's Dilemma - options overwhelming esp. for newbs
@@ -24,6 +26,8 @@
 - Station Doctor
 
 ### Jeramiah (AI Inventor)
+
+- Alphabet
 
 ### Juniper (AI)
 
