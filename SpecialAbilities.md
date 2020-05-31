@@ -50,10 +50,6 @@ Often, the simpler or easier powers can just be things you add to what [Skills](
 
 (daily preparation)
 
-#### **Limited Use**
-
-(the 4e Method)
-
 <!-- tabs:end -->
 
 ## Character Creation: What's Next
