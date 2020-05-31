@@ -38,7 +38,7 @@ Often, the simpler or easier powers can just be things you add to what [Skills](
 
 (Divinity)
 
-#### **Serendipity** 
+#### **Serendipity**
 
 (Activate on a specific dice result)
 
