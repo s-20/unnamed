@@ -8,31 +8,53 @@ The Special Abilities system has a lot of moving parts so that you can make thin
 
 ## The Basics
 
+Special Abilities start with a overall description - three or fewer sentences that outline what the abilities are intended to accomlish.
+
 ### Entry Requirements
 
-## The Different Systems
-
-Most of the systems described in below all have their own articles (or will have, if I ever get around to writing them). Each is based on a different fundamental concept, starting with a simple adaptation of the Traits/Skills system and moving on from there.
+## Using the Abilities
 
 Stick with the level of crunch your group is comfortable with - or, at the least, that the GM and the player using the system are comfortable with. All of these are designed to feel different, but they all do similar things and can be adapted to a variety of purposes.
 
-### Traits and Skills
+<!-- tabs start -->
 
-### Energy Pool (accumulative or static resource pool)
+### **Traits and Skills**
 
-### Momentum (accumulation without expenditure)
+Often, the simpler or easier powers can just be things you add to what [Skills](Skills.md) and [Traits](Traits.md) can already do. This is especially useful for Features.
 
-### Overload (limit break)
+### **Energy Pool**
 
-### Miracles (Divinity)
+(accumulative or static resource pool)
 
-### Serendipity (Activate on a specific dice result)
+### **Momentum**
 
-### Enervation (take a Condition)
+(accumulation without expenditure)
 
-### Vancian (daily preparation)
+### **Overload**
 
-### Limited Use (the 4e Method)
+(limit break)
+
+### **Miracles**
+
+(Divinity)
+
+### **Serendipity** 
+
+(Activate on a specific dice result)
+
+### **Enervation**
+
+(take a Condition)
+
+### **Vancian**
+
+(daily preparation)
+
+### **Limited Use**
+
+(the 4e Method)
+
+<!-- tabs:end -->
 
 ## Character Creation: What's Next
 
