@@ -16,7 +16,7 @@ Special Abilities start with a overall description - three or fewer sentences th
 
 Stick with the level of crunch your group is comfortable with - or, at the least, that the GM and the player using the system are comfortable with. All of these are designed to feel different, but they all do similar things and can be adapted to a variety of purposes.
 
-<!-- tabs start -->
+<!-- tabs:start -->
 
 #### **Traits and Skills**
 
