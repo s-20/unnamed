@@ -18,39 +18,39 @@ Stick with the level of crunch your group is comfortable with - or, at the least
 
 <!-- tabs start -->
 
-### **Traits and Skills**
+#### **Traits and Skills**
 
 Often, the simpler or easier powers can just be things you add to what [Skills](Skills.md) and [Traits](Traits.md) can already do. This is especially useful for Features.
 
-### **Energy Pool**
+#### **Energy Pool**
 
 (accumulative or static resource pool)
 
-### **Momentum**
+#### **Momentum**
 
 (accumulation without expenditure)
 
-### **Overload**
+#### **Overload**
 
 (limit break)
 
-### **Miracles**
+#### **Miracles**
 
 (Divinity)
 
-### **Serendipity** 
+#### **Serendipity** 
 
 (Activate on a specific dice result)
 
-### **Enervation**
+#### **Enervation**
 
 (take a Condition)
 
-### **Vancian**
+#### **Vancian**
 
 (daily preparation)
 
-### **Limited Use**
+#### **Limited Use**
 
 (the 4e Method)
 
