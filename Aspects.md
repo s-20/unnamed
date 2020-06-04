@@ -1,22 +1,20 @@
 # Aspects
 
-**Selecting Aspects is Step 2 of [Character Creation](CCSummary.md)**
+!> Selecting Aspects is Step 2 of [Character Creation](CCSummary.md)
 
-Aspects represent central strengths of your character. They function like souped-up [Traits](Traits.md) - they're pulled into rolls, and provide an extra success when you roll a 6.
+Aspects represent central strengths of your character. They function like souped-up [Traits](Traits.md) - they're pulled into rolls, adding dice to a check. Unlike Traits, however, they can be pulled in under broader circumstances.
 
-When [burned](Burn.md), Aspects grant a free success, and grant successes at 1 result lower than the rest of the roll (i.e. if the roll is counting success at 4+, the Aspect dice count succes at 3+).
+When [burned](Burn.md), Aspects become Easy Dice, just like [Traits](Traits.md).
 
-Aspects aren't chosen from a list; they're player-defined and used to help describe the character as a person, and define their abilities. Like [Traits](Traits.md) and [Skills](Skills.md), Aspects can be stacked. 
+Aspects aren't chosen from a list; they're player-defined and used to help describe the character as a person, and define their abilities. Like [Traits](Traits.md) and [Skills](Skills.md), Aspects can be stacked.
 
 Characters being with 5 ranks of Aspects, and can have a [Stack](Stack.md) of up to 3 in any one Aspect. All characters have at least two different Aspects.
 
 ## Defining Aspects
 
-Aspects should be short phrases that are easy to understand. There really aren't any limits as to what they can be outside of those established in your [Parameters](Parameters.md), as long as they're not more than a few words long.
+Aspects should be short phrases that are easy to understand. Generally, it should be clear just by reading them what circumstances they should cover. They can imply groups of skills, a career, a general area of physical expertise, or a variety of other things.
 
-The word limitation exists for two reasons - to keep Aspects at-a-glance understandable, and to keep them from getting too specific. "Private Detective" is concise, paints a specific picture, and is easy to use.
-
-To define your Aspects, think about things you want your character to be able to do that are central to their [Origin](Origin.md). They can be broad or specific, as long as they're descriptive.
+An aspect should be at least two words long, and no more than four words. They are short descriptive phrases and not generally complete sentences. They cannot be so broad as to apply to every - or even most - rolls, but they should be more broad than a [trait](Traits.md) or [skill](Skills.md).
 
 ### Examples
 
@@ -34,7 +32,7 @@ To define your Aspects, think about things you want your character to be able to
 - Driven by Revenge
 - Fine Arts Major
 
-### Supporting Your Aspects
+## Supporting Your Aspects
 
 Whatever Aspects you choose, they don't exist in a vacuum. In order to make them more useful, you should build the rest of your character with your Aspects in mind.
 
