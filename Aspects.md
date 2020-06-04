@@ -4,9 +4,11 @@
 
 Aspects represent central strengths of your character. They function like souped-up [Traits](Traits.md) - they're pulled into rolls, and provide an extra success when you roll a 6.
 
-When [burned](Burn.md), Aspects provide double successes just like Traits. That means that any even numbers count as two successes, and any 6 counts as 4.
+When [burned](Burn.md), Aspects grant a free success, and grant successes at 1 result lower than the rest of the roll (i.e. if the roll is counting success at 4+, the Aspect dice count succes at 3+).
 
-Aspects aren't chosen from a list; they're player-defined and used to help describe the character as a person, and define their abilities. Like [Traits](Traits.md) and [Skills](Skills.md), Aspects can be stacked. All characters have at least two different Aspects.
+Aspects aren't chosen from a list; they're player-defined and used to help describe the character as a person, and define their abilities. Like [Traits](Traits.md) and [Skills](Skills.md), Aspects can be stacked. 
+
+Characters being with 5 ranks of Aspects, and can have a [Stack](Stack.md) of up to 3 in any one Aspect. All characters have at least two different Aspects.
 
 ## Defining Aspects
 

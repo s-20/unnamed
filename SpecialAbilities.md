@@ -2,77 +2,59 @@
 
 Special abilities are ways in which the characters can mess with how the world around them works in interesting and creative ways. They represent things like magic, psychic ability, super powers, and superhuman martial prowess.
 
-Not all campaigns will use Special Abilities. Those that do will probably not use all the things described in this section. It's possible to combine them all, but it makes for a lot of choices and headaches for groups in keeping track of rules.
+Not all campaigns will use Special Abilities.
 
-The Special Abilities system has a lot of moving parts so that you can make things feel mechanically different, which leads to a different feel in play, along with different things a character must do to perform their special attacks, defenses, or utilities.
+## Entry Requirements
+
+Depending on your Campaign, you may need to do certain things to gain access to Special Ablities. These things vary from campaign to campaign and ability to ability, and may include any of the following:
+
+- *Origin Requirement* - You may have to specify the source of the powers in your [Origin](Origin.md); this is almost always a requirement.
+- *Aspect Requirement* - You may have to dedicate an [Aspect](Aspects.md) to the Special Ability (resulting in Aspects like Psychic Ability, Cybernetically Enhanced, or Faerie Blooded).
+- *Trait Requirement* - You may need to take one or more stack in a particular [Trait](Traits.md) or [Metatrait](MetaTraits.md).
+- *Connection Requirement* - Some Special Abilities require justification through [Connections](Connections.md); this might mean a Temporal Connection (Present at the Blue Event), a Personal Connection (Sensei Shi, Master of the Flying Fist), or anything else that makes sense in context. This will usually require a stack above 1.
+- *Complication Requirement* - The Special Ability might require you to take one or more Complications. For example, in the Marvel 616, Stigma: Mutant would be required if you got your powers from being a Mutant.
+- *Adjustment Point Requirement* - Finally, you might have to dedicate some or all of your [Adjustment Points](AdjustmentPoints.md) to gaining access to Special Abilities. It's usually best to use one of the preceeding methods instead of this one, but this might be aprropriate for buying individual Spells (Exploits, see below) or similar small additions.
 
 ## The Basics
 
 Special Abilities start with a overall description - three or fewer sentences that outline what the abilities are intended to accomplish.
 
-### Entry Requirements
+Each Special Ability is made up of at least two major components, and may have more. The components of the Special Ability are:
 
-## Ability Activation
+1. **Sketch** - A brief outline of what the power is, where it comes from, and a summary of what you want it to do. This is comparable to a character's [Origin](Origin.md), but narrowed down to a special ability.
+2. **Features** - parts of the special ability that directly affect gameplay, but don't themselves require rolls (although they may modify the results of other rolls).
+3. **Exploits** - Discrete effects or groups of effects that draw from an [Energy Pool](Energy.md) of some kind. Exploits are limited use things, kind of like Spells and similar effects, that can be done quickly and may be useful in combat. Exploits may or may not require a check, depending on their individual setup.
+4. **Powers** - Powers are aspects of Special Abilities similar to Features, except they can be pulled directly into checks, or require checks to use. Powers can be [Burned](Burn.md) for extra effort just like [Traits](Traits.md).
+5. **Procedures** - Similar to Exploits, Porcedures are discrete effects or groups of effects that can be quite powerful, but require significantly more time than an Exploit, and do not normally require the use of [Energy](Energy.md). They may incur a *Loss*, however (see below).
+6. **Side Effects** - These are quirks, small or large, that accompany the use of the Special Ability. They can be funny, inconvenient, annoying, or downright dangerous.
+7. **Losses** - Some Special Abilities have costs other than [Energy](Energy.md) or just time. They may drain [Traits](Traits.md) or other characteristics, or inflict [Conditions](Conditions.md), or even inflict [Wounds](WoundThreshold.md).
+8. **Flaws** - Specific weaknesses or inabilities of a Special Ability, like being ineffective against the color yellow, getting shut down in the presence of a specific type of glowing green rock, or not working when your hands have been bound by a man.
 
-Different abilities run off of different "energy" - that is to say, different resource pools, reserves, or other ways of gathering power. Some are no different from using a skill, while others must be built to, or are draining to use.
-
-There are several different ways to go about this in the unnamed System. The options discussed in the tabs below cover a lot of ground but are not exhaustive.
+## Specifics
 
 <!-- tabs:start -->
 
-#### **Just Happens or Always On**
+### **Sketch**
 
-Some powers *just work*. For example, unless something weird is going on, Spider Man can lift a car, and knows when something bad is about to happen. He might need to make a check to react to his Spider-sense in time, or to determine what set it off - but he does notice when it goes off, and it is super reliable.
+### **Features
 
-Abilities like this may be Features or even Powers. Using them effectively may require a Skill check of some kind, but using them is either automatic or once on, it just happens. Spider-Man's Spider-sense is an excellent example, actually: it *almost always* goes off when he's in danger, so he's never not aware of it, but occasionally, he zigs when he should zag, or just fails to dodge effectively. So the information is free and always works (Venom or other interfearance notwithstanding), but what he does might require a check,
+### **Exploits**
 
-Abilities like this don't require a check - you just get the information, or you can just lift the car, etc. How you use it, however, may require a check.
+### **Powers**
 
-#### **Traits and Skills**
+### **Procedures**
 
-Often, the simpler or easier powers can just be things you add to what [Skills](Skills.md) and [Traits](Traits.md) can already do. This is especially useful for [Features](Features.md). You choose (or create) a skill that the ability is based on, and make a roll to use it. As usual, more successes is better. If you want the bonus a Focus provides, you need to take a Focus for the ability specifically. You can also choose the ability as your specialty.
+### **Side Effects**
 
-**Example**:
+### **Losses**
 
-> Bobbie has the Special Ability Spiritualist. Her player wants to be able to "consult the spirits" using her crystal ball as one of the abilities. The GM decides she can roll Occult in place of Academics as a Feature, and can also ask the spirits for more general information with an Occult check, treating the result as an Aid check for her next action.
+### **Flaws**
 
-This method can be combined with the methods listed in the other tabs. So, you can easily have a Momentum power that requires a skill check to use or to hit with, for example. This trigger can be added to an ability to help balance its use.
-
-#### **Energy Pool**
-
-You can call it whatever you want - Mana, Magic Points, Technique, Grit - you have a pool of points you spend to activate an ability. Generally, this pool is static, refilling when certain conditions are met - an hour's meditation, a night's sleep, prayer and supplication, or having a few too many beers - whatever it is, you do it, you get your Energy back.
-
-To use an energy pool, you have to define its size (10 by default), what refills it, and what (if anything) besides using it can drain it. For example, maybe crossing over a line of salt drains some of your Mana pool.
-
-When you use an Energy Pool powered ability, your pool is reduced by an amount equal to that ability's cost. So if you have a Mana of 10, and Fireball costs 2 points to cast, you have 8 Mana left.
-
-Energy is a common choice for spellcasting and psychic powers.
-
-#### **Momentum**
-
-(accumulation without expenditure)
-
-#### **Overload**
-
-(limit break)
-
-#### **Miracles**
-
-(Divinity)
-
-#### **Serendipity**
-
-(Activate on a specific dice result)
-
-#### **Enervation**
-
-(take a Condition)
-
-#### **Vancian**
-
-(daily preparation)
+### **Details**
 
 <!-- tabs:end -->
+
+## Ability Stunts
 
 ## Character Creation: What's Next
 

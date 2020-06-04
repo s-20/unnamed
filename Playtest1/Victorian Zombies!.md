@@ -17,7 +17,7 @@
    - Lady Bertha Spice (daughter, 12)
    - Lady Carissa Spice (daughter, 12)
  - The Spice Household
-   - Butler
+   - Butler (Wadsworth or Belvedere - sit on balls)
    - 4 Maids
    - Stabemaster
    - Stableboy
