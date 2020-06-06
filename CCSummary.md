@@ -5,7 +5,7 @@ To create a character:
 1. **Character Concept and Origin**: Come up with and discuss your character concept during [Session Zero](SessionZero.md). Determine your character's [Origin](Origin.md) now.
 2. **Aspects**: Take Five [Aspects](Aspects.md) that help define your character in a broad sense. You can take the same Aspect more than once, but you must have at least two different Aspects.
 3. **Traits**: Select 10 [Traits](Traits.md) that reflect your characters individual strengths; you can select the same Trait more than once, but cannot select the same Trait more than 4 times.
-4. **Skills**: Select 15 [Skills](Skills.md); You can select the same skill more than once to increase its [stack](Stack.md) up to 4, or to add a Focus.
+4. **Skills**: Select 10 [Skills](Skills.md); You can select the same skill more than once to increase its [stack](Stack.md) up to 4, or to add a Focus.
 5. **Connections**: Establish at least five and up to 10 [Connections](Connections.md); if you can share a connection with or have a connection to another player's character, so much the better. Connections cannot start with a [Stack](Stack.md) above 4.
 6. **Special Abilities**: If your campaign has them, you should discuss your [Special Ability](SpecialAbilities.md) with the GM and the other players. Each Special Ability is defined individually, so work together to make something everyone will enjoy having in the game.
 7. **Details**: Select several [Details](Details.md) to round out your character. You should take at least 3. Details do not stack.
@@ -23,7 +23,7 @@ note right
 <b>Traits</b> can be //Stacked// (up to 4)
 Stacking indicates greater ability
 end note
-:Take 15 Skills;
+:Take 10 Skills;
 note left
 <b>Skills</b> can be //Stacked// (up to 4)
 Stacking indicates more training or talent
