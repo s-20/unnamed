@@ -60,6 +60,10 @@ Each Sketch contains *one* source of power, however. to continue the Spider Man 
 
 ### **Features**
 
+A Feature is a discrete ability that affects gameplay and how your character affects the world they are in, but doesn't in itself require a roll to use. While features can modify rolls, or change how you can use [skills](Skills.md) or other abilities.
+
+Take, for a mundane example, a knife - it has the Sharp feature that allows it to cut. The knife is always sharp, and sharpness doesn't have to be turned on, but it has a dramatic impact on how it can be used.
+
 Features are parts of a Special Ability that just work. While features might affect what you can do with certain skills or other characteristics, they don't specifically require any checks to use.
 
 ?> *Examples: Super Strength, Wall Crawling, Super Agility**
