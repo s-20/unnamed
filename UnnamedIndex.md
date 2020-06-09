@@ -27,7 +27,7 @@
   - *[Session Zero](SessionZero.md) - the first session of the game, where Parameters are established and (usually) characters are made.
 - [Skills](Skills.md) - a Characteristic; things you know how to do, usually through training
 - *[Special Abilities](SpecialAbilities.md) - a Characteristic; abilities that go beyond human capabilities
-- *[Stunts](Stunts.md) - extra dice or effects gained from good description
+- [Stack](Stack.md) - a page explaining the game term "stack" and how stacks work in reference to dice pools.
 - *[Traits](Traits.md) - a part of your character; broad areas in which your character has exceptional ability
   - *[Meta Traits](MetaTraits.md) - special Traits that work differently from normal Traits
 - [Unnamed System Core Rules](HBCore.md) - Contains the core dice mechanics of the system (Complete. Sort of.)
