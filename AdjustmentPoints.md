@@ -1,8 +1,8 @@
 # Adjustment Points
 
-Adjustment Points are used to make modifications to a character, either during [Character Creation](CCSummary.md) or during [Advancement](Advancement.md).
+UNDER REVIEW
 
-During Character Creation, you are awarded 15 Adjustment Points to modify your character. You can gain additional points when you [Advance](Advancement.md)
+Adjustment Points are used to make modifications to a character during [Advancement](Advancement.md). Each session, one or more Adjustment Points is given to the group based on a consensus of the group. While there are no hard an fast rules for how many Adjustment Points the characte
 
 ## Making Adjustments
 

@@ -2,31 +2,68 @@
 
 As the campaign continues, your character will get better at things. This is primarily accomplished through Advancements.
 
-In addition to Advancements, characters can be improved through Awards. Awards are special improvements or modifications granted to a character during play due to the events of the story, usually due to circumstances in the game.
+In addition to Advancements, characters can be improved through Awards. Awards are special improvements or modifications granted to a character during play due to the events of the story due to circumstances in the game.
 
 ## Advancements
 
  Advancements are used to improve your character's abilities. Advancements don't have to be selected right away, but they can't be selected during play. Characters gain an Advancement every other session, with an extra one when some significant plot point is resolved.
 
-To spend an Advancement, select one option from the list below. Each option may only be selected once. Once you have selected 5 different options, however, the available list is reset.
+To spend an Advancement, select one option from the list below. Some options may only be taken under certain circumstances, or only so many times in a row.
 
-### Advancement Options
+<!-- tabs:start -->
 
-There are two different groups of Advancement Options - Common advancements, which are in every game, and Special Options, which may or may not be available in a particular game or for a particular character.
+### **Improve a Trait**
 
-- **Common Advancements** - these options are available in all campaigns by default
-  - Increase a [Trait](Traits.md) Stack by 1 or add a new Trait
-  - Increase a [Skill](Skills.md)'s Stack by 1 or add a new skill
-  - Increase an [Aspect](Aspects.md)'s Stack by 1
-  - Increase [Wound Threshold](WoundThreshold.md) by 1
-  - Gain 5 [Adjustment Points](AdjustmentPoints.md)
-- **Special Advancement** - these options may not always be available, depending on the campaign, the character, or even the particular Advancement
-  - Add an additional [Aspect](Aspects.md)
-  - Gain 10 [Adjustment Points](AdjustmentPoints.md)
-  - Improve a [Special Ability](SpecialAbilities.md)
-  - Improve a Special Ability's [Energy](Energy) pool or capacity
-  - Add 5 to the [Drama Dice](DramaDice.md) pool
+Increase the [Stack](Stack.md) of one [Trait](Traits.md) or [Meta-Trait](MetaTraits.md) by one. You may select any trait, provided you have used it since your last Trait advancement.
 
+Once a Trait reaches 5, it become more difficult to improve. Each Advancement is only worth 50% of an increase. If a Trait reaches 10, each Advancement only counts as 25% of an increase.
+
+Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
+
+### **Skill Advancements**
+
+Choose one of the following. You cannot choose the same option twice in a row for the same Skill.
+
+- Add 1 to the [Stack](Stack.md) of any [Skill](Skills.md) that you have used since your last Skill Advancement.
+- Add a Focus to a Skill you have used since your last Skill advancement Advancement; there must be an in-story reason for the addition.
+- Add a Specialty to a Focus you have used since your last Skill Advancement; there must be an in-story reason for the addition
+
+Once a Skill reaches 5, it become more difficult to improve. Each Advancement is only worth 50% of an increase. Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
+
+### **Improve an Aspect**
+
+Select an [Aspect](Aspects.md) you have used since your last Advancement. Improve its [Stack](Stack.md) by 1.
+
+Once an Aspect reaches 5, it become more difficult to improve. Each Advancement is only worth 50% of an increase. If an Aspect reaches 10, each Advancement only counts as 25% of an increase.
+
+Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
+
+### **Improve a Connection**
+
+Select one [Connection](Connections.md) other than a Personal Connection. Increase its stack by 1.
+
+Once a Connection reaches 5, it become more difficult to improve. Each Connection is only worth 50% of an increase. Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
+
+### **Add a Characteristic**
+
+Choose one of the following:
+
+- Add 1 Stack in a new [Trait](Traits.md)
+- Add 1 Stack in a new [Skill](Skills.md). You must use a Skill Advancement (see the Skill Advancements tab) to gain a Focus, however
+- Add 1 Stack in a new [Connection](Connections.md)
+- Add a new [Detail](Details.md)
+
+### **Special Advancements**
+
+The following options may not always be available, depending on the campaign [Parameters](Parameters.md), and may have varying effects. Select one of the following:
+
+- Improve [Wound Threshold](WoundThreshold.md) by 1
+- Add a Feature to a [Special Ability](SpecialAbilities.md)
+- Add one or more Exploits to a Special Ability; discuss with your Game Master how many would make sense based on the Sketch of the SA.
+- Improve a [Special Ability](SpecialAbilities.md)'s [Energy](Energy.md) pool. Again, the way the pool improves varies depending on the Special Ability; discuss this with your Game Master
+- Remove a [Complication](Complications.md)
+
+<!-- tabs:End -->
 ## Awards
 
 An Award is an improvement to the character gained through role play. Awards are how you improve [Connections](Connections.md), along with some [Special Abilities](SpecialAbilities.md).
