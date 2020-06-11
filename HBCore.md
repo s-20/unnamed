@@ -1,73 +1,61 @@
 # unnamed System Core Rules
 
-The unnamed System has a lot of moving parts, but everything builds off of a fairly simple set of rules. There are two primary conceits at work in the system: the Core Mechanics (representing how you use the crunch of the system) and the Operating Principles (the general idea behind how those rules are used).
+The unnamed System has a lot of moving parts, but everything builds off of a fairly simple set of rules. There are two primary conceits at work in the system: Resolution (representing how challenges are resolved and what the moving parts are) and Principles (the design precepts behind the Resolution, and *how* the moving parts move).
 
 ## Core Mechanics
 
-### The Dice
+unnamed uses dice pools composed of d6s to determine success and failure. Dice come in a few [types](DiceTypes.md), the most common of which are *Easy*, **Normal**, or ***Hard***: 
 
-The System uses dice pools composed of d6s to determine success and failure. Dice come in a few *types*, the most common of which are Easy, Normal, or Hard. Easy dice get a success on a 4+, normal dice get a Success on a 5+, and Hard dice get a success on a 6 only.
+- *Easy* dice count as a Success if you roll a 4 or more
+- **Normal** dice count as a Success if you roll 5 or more
+- ***Hard*** dice count as a Success only if you roll a 6
 
-There are also Half Dice, Simple Dice, [Drama Dice](DramaDice.md), and other special kinds. See [Dice Types](DiceTypes.md) for a full rundown.
+There are other types of Dice as well, but these three cover most situations. See [Dice Types](DiceTypes.md) for a full rundown.
 
-Generally, you only need 1 **success** to do something. Especially difficult challenges or unusual circumstances might push the requirement to 2 or even higher. Any successes that you get beyond what you need mean you did really well. This means something specific in [Combat](Combat.md), and often has an effect on [Special Abilities](SpecialAbilities.md), but you usually just get to describe yourself being cool, finishing faster than expected, putting an extra flourish on things, et cetera.
+### Success, Failure, and Quirks
 
-Even if you have no **Successes**, you may still succeed in some small way, but with a drawback of some kind, depending on the situation. This is **Failing Forward**.
+The difficulty of a task determines how many successes are needed to fully accomplish something, although progress is made with any attempt. For most tasks, a single success is enough, but other tasks might require as many as five, and some *ongoing tasks* or *teamwork tasks* might require even more.
 
-Results of 1 are called **quirks**. If you have more **quirks** than successes, something strange or unexpected occurs along with however well you succeed; either you or the GM will describe what happens.
+Even if you have no successes, however, you don't exactly fail. Every action pushes the story forward, and there are no "nope" moments in the unnamed system. A "failure" still has results, and unless you roll a [Quirk](Quirk.md), you've probably made progress toward your goal, or even accomplished it, although you might get less than optimal results, it might take longer than expected, or you might need help.
 
-If you have **quirks** and no **successes**, you outright fail, and if you have nothing but **quirks**, then you fail and something really strange or bad happens (called a **twist**). You or the GM will come up with something interesting, and then move on.
+By default, rolls of 1 are called [Quirks](Quirk.md). Quirks represent some sort of twist or unforeseen consequence. See the [Quirk](Quirk.md) article for more details, but basically rolling a quirk means that something unexpected might happen.
 
-### Pulling Characteristics
+If you have quirks and no successes, you might outright fail. If you have nothing *but* quirks, then something really strange or bad happens (called a *twist*). You can come up with your own negative consequence, or you can let the GM or one of the other players decide what happens.
 
-In order to make a check, you gather your resources, adding whichever **characteristics** make sense to the pool. This is called **Pulling** the individual **statistic**, i.e. **Pulling a Trait** or **Pulling a Connection**, et al.
+### Creating a Pool
 
-Each statistic pulled adds dice to the check equal to its stack. Some Statistics can be [Burned](Burn.md) instead of just being pulled.
+To figure out how many dice you should roll for a given check, you "pull" different [Characteristics](Characteristic.md). MOst Characteristics have a [Stack](Stack.md); you get **normal** dice for the check equal to the stack of the characteristic. If the characteristic doesn't have a stack, you may get one ***hard*** die, depending on the situation.
 
-Which Statistics you pull for a particular Check are usually up to the player. While the GM might sometimes ask for something specific, they will more frequently provide a prompt for a check, or the Player can declare an action whenever they'd like. The player then decides the best way to resolve it. The GM then approves the check, sometimes asking for clarifications or suggesting changes.
+Which Statistics you can pull for the roll is generally up to you, although the GM may request specific Characteristics depending on the roll, and circumstances often dictate or limit your choices.
 
-### Check Example
+You are limited in how many of each Characteristic you can pull. You can usually only use 1 [Aspect](Aspects.md), 1 [Trait](Traits.md), 1 [Skill](Skills.md), and 1 [Connection](Connections.md). Other characteristics may be added to or modify pools as well; see [Meta Traits](MetaTraits.md), [Details](Details.md), and [Complications](Complications.md).
 
-*Amina's character Jamie the Thief is trying to open a safe, and she wants to use his Nimble, Perceptive, and Clever Traits in combination with his Security skill.*
+You can improve your chances of success and even pull additional Characteristics by *burning* them, see [Burn](Burn.md).
 
-*She says "I **put my ear to the safe and listen carefully** as I turn the dial with my **nimble** fingers. I'm **clever** enough to do this quickly, and **I know my way around safes**." She then throws 4d6 and gets 1, 4, 5, 6 - two successes - more than she needed! Amina says "I got it, and I'm so good I popped it in just a couple seconds!"*
+## Principles
 
-## Modifiers
+unnamed has a few important operating assumptions, or *Principles*, of both design and use. These are as important as the actual mechanics of the game. Not only do they color how the rules are used, they had a direct impact on how the rules were designed.
 
-You can modify your rolls, either adding or removing dice, to reflect special circumstances or specific results you need to achieve. These Modifiers can add a die to your roll, or subtract a die from a roll.
+When paying an unnamed game, the following 6 Principles are important:
 
-Modifiers are primarily under player control, with the GM providing approval. The GM might throw a penalty at you, but typically if circumstances are especially difficult for you, the GM will require more than one success rather than steal a die from your roll.
-
-Other players or the GM can also award an extra die if your description is especially cool, the idea is especially interesting or fun, or if you do something especially in character or that adds significantly to the story.
-
-### Sample Modifiers
-
-Here are a few examples for modifiers, both positive and negative. These are just meant to get your mind working, and are not an exhaustive list.
-
-- **Positive Modifiers**
-  - I have access to really good tools, so I'll add a die
-  - I'm going to take my time to make sure I do it right; I'll add a die
-  - I'm attacking from the high ground, that should be good for a die
-- **Negative Modifiers**
-  - I know it's too dark to see, but maybe I can try to pick the lock by feel - I'll drop a die to try
-  - I need to get this done in a hurry, I'll drop a die to do it in half the time
-  - The tree is too skinny to hide behind, but maybe if I suck in my gut and roll 1 less die, he won't notice me
-
-### Drama Dice
- 
-[Drama Dice](DramaDice.md) are a special shared expendable pool of dice the players have to add modifiers to their checks, and to do a variety of other things. A group's Drama Dice pool starts at 5 dice, and changes throughout the game. All players share the same Drama Dice pool.
-
-See the linked article for more information.
-
-## Burn
-
-You can **burn** an [Aspect](Aspects.md), [Trait](Traits.md), or [Connection](Connections.md) to push yourself. Essentially, the character puts their all into something, and is a bit worn out because of it.
-
-Burning a statistic means that any successes you roll for it are doubled. This means that if you roll an even number for any burned statistic, you get two successes, and if you roll a 6 for an Aspect, you get 4 successes.
-
-When a statistic is burned, its stack is temporarily reduced by 1. If its stack is reduced to 0, you can no longer pull that statistic until it recovers completely.
-
-**See [Burn](Burn.md) for more details**
+1. **unnamed is *co-operative*, not *adversarial***
+   - This isn't a GM vs. Players style RPG. Not that there's anything wrong with that style of play, it's just not how unnamed is designed.
+   - Even Player versus Player can get a bit dicey because of *Principle 4* (see below).
+2. **Players should have narrative power**
+   - In a shared narrative experience, giving players more narrative control can make the story feel more about their characters; this is, in the eyes of unnamed, a good thing.
+   - This has the added benefit of making the GM's job a bit easier by distributing the creative burden a little more evenly.
+3. **Balance isn't *just* the System's job**
+   - Sure, a system needs to be balanced, but (especially in a universal system) perfect balance in a system is impossible. unnamed operates on the assumption that the group will work together to maintain a level of balance that makes their game enjoyable, whatever that means to the individual group. 
+   - This leads directly into -
+4. **Narrative Balance is more important than Mechanical Balance**
+   - In the Marvel universe, there is a group of heroes called The Avengers. This group contains both Thor and Hawkeye. Thor is the literal god of thunder. Hawkeye is pretty good with a bow. They are not, in any way shape or form, mechanically balanced, but they are both important to the narrative.
+   - It's more important that everyone has a chance to shine and pay the character they want to play than it is for all characters to be "balanced" or "equal".
+   - unnamed operates on the assumption that everyone is together to share a narrative experience, not outdo one another or break the system.
+   - Build the character you want, and then figure out how your normal-human-super-spy and the infinitely strong green ogre can contribute to the same battle.
+5. **You should be able to play what you want, not what the system lets you**
+   - A lot of the systems in unnamed are intentionally left open-ended. The [Special Ability rules](SpecialAbilities.md) are an excellent example. This is intended as a *feature*, not a *flaw*.
+   - While there are a lot of rules here, they're all meant to be flexible, hackable, and easily modified, while also being broad enough for you to tell the stories you want to tell.
+6. **Complex does not mean Deep, and vice-versa**
 
 ## What To Read Next
 
