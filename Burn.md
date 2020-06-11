@@ -1,22 +1,14 @@
 # Burn
 
-Burn represents extra effort - pushing an ability to the point that it is exhausting to achieve a better result. Burning usually doubles the number of successes gained from the dice rolled for the burned Characteristic at the cost of reducing that characteristic for a time. 
+Burn represents extra effort - pushing an ability to the point that it is exhausting to achieve a better result. Burning usually makes it easier to gather successes, but some abilities have special rules; this is especially true of [Meta-Traits](MetaTraits.md).
 
-Only [Aspects](Aspects.md), [Traits](Traits.md), and some [Connections](Connections.md) can be burned. Other characteristics cannot be used in this way, but may have their own success-doubling mechanics.
+You can Burn most [Characteristics](Characteristic.md) other than [Skills](Skills.md), although there are special rules for some of them.
 
 ## Burn Basics
 
-Essentially, when you Burn a characteristic, you temporarily reduce its effectiveness, or lose access to it altogether, in exchange for better possible result. This is usually reflected by doubling the successes gained from the dice that were burned.
+Essentially, when you Burn a characteristic, you temporarily reduce its effectiveness, or lose access to it altogether, in exchange for better possible result. The dice gained from the burned Characteristic are made [one step easier](DiceTypes.md).
 
-Whenever you Burn something, its stack is temporarily reduced by one. If the stack is reduced to zero, you no can no longer gain dice when pulling that characteristic. This lasts until you get a chance to rest, or until you otherwise have a chance to recover in some way.
-
-## Special Uses of Burn
-
-You can sometimes BUrn a characteristic for something other than a Check. Those special uses of burn are outlined below.
-
-- **Damage Reduction** - Whenever a character would receive a [Wound](WoundThreshold.md), you may burn an [Aspect](Aspects.md) to reduce the number of wounds received by 1. You may burn up to two Aspects in this way at a time.
-- **Suspend a Condition** - You can burn a [Trait](Traits.md) to suspend a [Condition](Conditions.md), ignoring it for a short time. This usually lasts long enough for the character to accomplish a single action or a short goal. Not all Conditions can be ignored in this way.
-- **Recover from a Condition** - You can burn an [Apsect](Aspects.md) to completely recover from some [Conditions](Conditions.md). Not all Conditions can be removed in this way.
+Whenever you Burn something, its stack is temporarily reduced by one. If the stack is reduced to zero, you no can no longer gain dice when pulling that characteristic. This lasts until you get a chance to rest, or until you otherwise have a chance to recover in some way. The more burned characteristics you have, the longer it will take for you to recover, but any significant amount of downtime is enough to recover everything.
 
 ## Burning Connections
 

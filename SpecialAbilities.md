@@ -70,11 +70,29 @@ Features are parts of a Special Ability that just work. While features might aff
 
 Features should be described in a single sentence. For example, say that you're making a psychic, and you want them to be able to see auras, allowing them to spot people who are in distress, better spot lies, and so on. You could describe the Feature like this:
 
-?> **Aura Sight**: Claire can see auras, allowing her to spot the supernatural and read moods, giving her bonus successes to detecting lies and similar lsituations.
+?> **Aura Sight**: Claire can see auras, allowing her to spot the supernatural and read moods. A check is required to get more than surface level information.
+
+It is important to note that Features are largely **passive**, even though they can sometimes be actively used. For example, Spider-Man's wall crawling is a Feature because it's just something he can do - it is to him what walking on the floor is to you or me. He can use it in creative ways (sticking to an enemy, for example) with a check, but the basic ability just works.
 
 ### **Exploits**
 
+Exploits represent things like spells, ki techniques, and so on. A given SA will usually have more than one Exploit, but it's not required. The point is that an Exploit requires an Energy Pool of some kind to power it.
+
+A SA that has Exploits often has several and may have a dozen or more. More powerful ones should have a higher cost, or can be modified with Procedures (see below) to help balance them out. The primary balancing factor of Exploits, however, is the Energy Pool.
+
+As explained in the [Energy](Energy.md) article, there are several different Energy Pools that each provide a different feel. Make sure to read that article in order to get a feel for all the options, but here are a few examples:
+
+?> **The Wizard's Spells** A player wants to play a wizard that has a lot of different useful spells at their disposal. They and the GM come up with a few broad options that can be treated as different spells (a Fire exploit that can do different things with Fire, a Guardian exploit that can provide a variety of different protective effects, et al), and decide that the power and scope of each spell will determine the cost (a single blast of fire from the fingertips costs less than a massive fireball). No specific spells are defined so that the Wizard always has a trick up their sleeve.
+
+?> **The Ninja's Tricks** A player wants her character to be a ninja kind of like the ones in the game Tenchu: Stealth Assassin. She wants a few Ninja magic effects - disappear from plain sight, substitute a log in their place to avoid a hit, and teleporting behind an opponent for an assassin's strike. She and the GM decide on a Momentum pool - Hide in PLain sight at 1 (allows her to move and hide as one action even when in full view), Substitution once per 2 Momentum, but never more than once in a round, and a Teleport at Momentum 4.
+
 ### **Powers**
+
+Powers are things that use their own dice and provide their own stack. They are similar to Features in that they can be used without a check when the character isn't under duress, or when going for the most baseline of effect. Anything more powerful, however, requires a Check. This Check is both an Activation (turning the power on) and a Success check.
+
+Powers can be Trait Dependent or Independent. A Trait Dependent Power doesn't have a Stack of its own and instead relies on a Trait's stack. The Power can be added to any check involving the trait as long as doing so makes some kind of sense, adding extra effects with extra successes.
+
+An Independent Power has its own stack, by default starting at 1 and improvable through [Advancements](Advancement.md) as though it were a Trait. When pulling the power for a check, it takes the place of a Trait, so you cannot also pull a Trait into the check (see the [Core Rules](HBCore.md)). However, when you [Burn](Burn.md) and Independent Power, you gain a free Success instead of easier dice.
 
 ### **Procedures**
 

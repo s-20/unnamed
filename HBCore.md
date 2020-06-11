@@ -1,12 +1,14 @@
-# Unnamed System Core Rules
+# unnamed System Core Rules
 
-This page describes the core dice mechanics of the Unnamed System.
+The unnamed System has a lot of moving parts, but everything builds off of a fairly simple set of rules. There are two primary conceits at work in the system: the Core Mechanics (representing how you use the crunch of the system) and the Operating Principles (the general idea behind how those rules are used).
 
-## Dice Basics
+## Core Mechanics
 
-The System uses dice pools composed of d6s to determine success and failure. Any even numbered roll counts as a **success**, while odd numbers do not.
+### The Dice
 
-If the dice came from [Aspects](Aspects.md), then any result of 6 counts as 2 **successes**.
+The System uses dice pools composed of d6s to determine success and failure. Dice come in a few *types*, the most common of which are Easy, Normal, or Hard. Easy dice get a success on a 4+, normal dice get a Success on a 5+, and Hard dice get a success on a 6 only.
+
+There are also Half Dice, Simple Dice, [Drama Dice](DramaDice.md), and other special kinds. See [Dice Types](DiceTypes.md) for a full rundown.
 
 Generally, you only need 1 **success** to do something. Especially difficult challenges or unusual circumstances might push the requirement to 2 or even higher. Any successes that you get beyond what you need mean you did really well. This means something specific in [Combat](Combat.md), and often has an effect on [Special Abilities](SpecialAbilities.md), but you usually just get to describe yourself being cool, finishing faster than expected, putting an extra flourish on things, et cetera.
 
@@ -16,9 +18,9 @@ Results of 1 are called **quirks**. If you have more **quirks** than successes, 
 
 If you have **quirks** and no **successes**, you outright fail, and if you have nothing but **quirks**, then you fail and something really strange or bad happens (called a **twist**). You or the GM will come up with something interesting, and then move on.
 
-## Pulling Dice
+### Pulling Characteristics
 
-In order to make a check, you gather your resources, adding whichever **statistics** make sense to the pool. This is called **Pulling** the individual **statistic**, i.e. **Pulling a Trait** or **Pulling a Connection**, et al.
+In order to make a check, you gather your resources, adding whichever **characteristics** make sense to the pool. This is called **Pulling** the individual **statistic**, i.e. **Pulling a Trait** or **Pulling a Connection**, et al.
 
 Each statistic pulled adds dice to the check equal to its stack. Some Statistics can be [Burned](Burn.md) instead of just being pulled.
 
