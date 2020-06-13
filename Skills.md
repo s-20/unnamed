@@ -18,7 +18,7 @@ A Specialty is a very narrow part of a skill that you are particularly well vers
 
 When you pull a Skill for a check that falls within the Specialty, the successes for those dice are doubled.
 
-A character can only have one Specialty per skill. Specialties are purchased with [Adjustment Points](AdjustmentPoints.md) at a rate of 2 each.
+A character can only have one Specialty per skill. Specialties are purchased with [Advancements](Advancement.md). During character creation, the character can take up to 2 Specialties in place of 2 skills.
 
 ## Skill List
 
@@ -46,9 +46,9 @@ There will probably eventually be a comprehensive list of foci for each skill; u
 | **Religion** | Apology<br>Individual faiths<br>Philosophy<br>etc. | The character is familiar with the practices and tenants of religions. |
 | **Science** | Biology<br>Chemistry<br>Physics<br>etc. | The character as training in scientific thought, especially in one field. Medical sciences are covered by the Medicine skill, and "Soft Sciences" (History, Sociology, etc.) are Academics. Mathematics, although not technically a science, falls under this category. |
 | **Technology** | Computers<br>Electronics<br>Security systems<br>et cetera | You are familiar with the use and perhaps construction of types of technology. |
-| **Thievery** | Lockpicking<br>Safe cracking<br>Stealth<br>etc. | The character is familiar with the general skillset of thieves and cat burglars.   |
-| **Trade** | Carpenter<br>Game designer<br>Lawyer<br>Pottery | The character is well versed in a particular trade or craft. |
+| **Thievery** | Lockpicking<br>Safe cracking<br>Stealth<br>etc. | The character is familiar with the general skillset of thieves and cat burglars. |
+| **Trade (Craft or Profesion)** | Carpenter<br>Blacksmith<br>Game designer<br>Lawyer<br>Merchant | The character is well versed in a particular trade or craft. |
 
 ## Character Creation: What's Next
 
-The next step in [Character Creation](CCSummary.md) is to select 5 [Connections](Connections.md).
+The next step in [Character Creation](CCSummary.md) is to select between 5 and 10 [Connections](Connections.md).

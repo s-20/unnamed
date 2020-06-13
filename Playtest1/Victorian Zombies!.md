@@ -27,7 +27,7 @@
 
 ### Antagonists
 
- - Alestair Crwoley, Necromancer (born 100 years ago rather than today)
+ - Alestair Crowley, Necromancer (born 100 years ago rather than today)
  - Allen Kardek, Spiritist
 
 October 12 1875. Lord Spice's Manor.

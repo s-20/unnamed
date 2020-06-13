@@ -64,6 +64,7 @@ The following options may not always be available, depending on the campaign [Pa
 - Remove a [Complication](Complications.md)
 
 <!-- tabs:End -->
+
 ## Awards
 
 An Award is an improvement to the character gained through role play. Awards are how you improve [Connections](Connections.md), along with some [Special Abilities](SpecialAbilities.md).
