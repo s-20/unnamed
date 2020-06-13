@@ -8,14 +8,14 @@
 
 ## [Aspects](https://s-20.github.io/unnamed/#/Aspects)
 
-- One
-- Two
+- Five to
+- Start
 
 ## [Traits](https://s-20.github.io/unnamed/#/Traits)
 
 - You
 - Get
-- Five
+- Ten
 - To
 - Start
 
@@ -36,24 +36,24 @@
 
 ## [Connections](https://s-20.github.io/unnamed/#/Connections)
 
-- You
-- Get
-- Five
-- To
-- Start
+- At least 5
+- Up to ten
 
 ## [Special Abilities](https://s-20.github.io/unnamed/#/SpecialAbilities)
 
-*We're not using these yet, this is a placeholder.
+### (Name of SA)
 
-### Energy
-
-*This is what you use to activate Special Abilities, this is a placeholder*
+- **Sketch**:
+- **Exploits**:
+  - *Energy Pool*:
+- **Powers**:
+- More Stuff
+- Copy and Paste for more SAs
 
 ## [Details](https://s-20.github.io/unnamed/#/Details)
 
 - You
-- Get
+- Get up to
 - Five
 - To
 - Start
