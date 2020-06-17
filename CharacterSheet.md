@@ -15,40 +15,55 @@
 
 - You
 - Get
-- Five
-- To
-- Start
-
-## [Skills](https://s-20.github.io/unnamed/#/Skills)
-
-- You
-  - Focus / *Specialization*
-- Get
-  - Focus
 - Ten
-  - Focus
 - To
-  - Focus
 - Start
-  - Focus
-- Each Gets a free Focus
-  - Focus
+
+## [Talents and Skills](https://s-20.github.io/unnamed/#/Skills)
+
+### Talents (select 2)
+
+- One
+- Two
+
+### Skills (15 Skill Points)
+
+- One
+- Two
+- Three
+- Four
+- Five
+- Minimum
+
+### Foci
+
+- Free associated
+- Focus with any Skill
+- with a Stack of 5
 
 ## [Connections](https://s-20.github.io/unnamed/#/Connections)
 
-- You
-- Get
-- Five
-- To
-- Start
+- Spend 10 Connection Points
+- To Buy At least
+- 3 Connections
 
 ## [Special Abilities](https://s-20.github.io/unnamed/#/SpecialAbilities)
 
-*We're not using these yet, this is a placeholder.
+**Ability Name**
+**Sketch**:
+**Features**:
+**Exploits**:
+**Powers**:
+**Procedures**:
+**Side Effects**:
+**Losses**:
+**Flaws**:
+**Details**:
 
 ### Energy
 
-*This is what you use to activate Special Abilities, this is a placeholder*
+- Pool 1
+- Pool 2
 
 ## [Details](https://s-20.github.io/unnamed/#/Details)
 

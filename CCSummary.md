@@ -4,9 +4,9 @@ To create a character:
 
 1. **Character Concept and Origin**: Come up with and discuss your character concept during [Session Zero](SessionZero.md). Determine your character's [Origin](Origin.md) now.
 2. **Aspects**: Take Five [Aspects](Aspects.md) that help define your character in a broad sense. You can take the same Aspect more than once, but you must have at least two different Aspects.
-3. **Traits**: Select 10 [Traits](Traits.md) that reflect your characters individual strengths; you can select the same Trait more than once, but cannot select the same Trait more than 4 times.
-4. **Skills**: Select 10 [Skills](Skills.md); You can select the same skill more than once to increase its [stack](Stack.md) up to 4, or to add a Focus.
-5. **Connections**: Establish at least five and up to 10 [Connections](Connections.md); if you can share a connection with or have a connection to another player's character, so much the better. Connections cannot start with a [Stack](Stack.md) above 4.
+3. **Traits**: Select 10 [Traits](Traits.md) that reflect your characters individual strengths; you can increase a Trait's [Stack](Stack.md) up to 5.
+4. **Talents and Skills**: Select 2 Talents and spend 15 [Skill](Skills.md) Points to buy stacks in Skills and Foci.
+5. **Connections**: Establish at least 3 different Connections using 10 Connection Points; if you can share a connection with or have a connection to another player's character, so much the better. Connections cannot start with a [Stack](Stack.md) above 5.
 6. **Special Abilities**: If your campaign has them, you should discuss your [Special Ability](SpecialAbilities.md) with the GM and the other players. Each Special Ability is defined individually, so work together to make something everyone will enjoy having in the game.
 7. **Details**: Select several [Details](Details.md) to round out your character. You should take at least 3. Details do not stack.
 8. **Complications**: Optionally, you may add [Complications](Complications.md) to the character. Although not required, these provide opportunities to gain [Perks](Perks.md), [Drama Dice](DramaDice.md), and bonus [Adjustment Points](AdjustmentPoints.md).
@@ -23,16 +23,18 @@ note right
 <b>Traits</b> can be //Stacked// (up to 4)
 Stacking indicates greater ability
 end note
-:Take 10 Skills;
+:Take 2 Talents;
 note left
-<b>Skills</b> can be //Stacked// (up to 4)
-Stacking indicates more training or talent
+<b>Talents</b> do not //Stack//
+You can trade 1 Talent for 5 Skill Points
+end note
+:Spend 15 //Skill Points//;
+note right
+<b>Skills</b> cost 1 point per //Stack// up to 5
 end note
 :Establish at least 5 Connections;
-note right
-<b>Connections</b> can be //Stacked// (up to 4)
-Stacking indicates a stronger
-relationship
+note left
+<b>Connections</b> //Stack// up to 5
 end note
 :Determine Special Abilities;
 note: Not availabe in all campaigns
