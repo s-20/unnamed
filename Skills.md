@@ -41,7 +41,7 @@ The following list isn't exhaustive, and is designed to be used in almost any ga
 | **Resolve** | Force of will and integrity. Resolve is a talent for keeping going no matter what, and for sticking to your beliefs, resisting coercion, and otherwise standing your ground. |
 | **Science** |A Talent with science means an intuitive understanding of scientific thought process and methodology. It also includes general science knowledge. |
 | **Technology** | This represents a talent with machines, devices, and other similar things. It includes computers and electronics in a modern setting. Technology applies to operation, engineering, repair, and any other clear application to all things mechanical, electronic, or similar. In some settings, this may include things like cybernetics or even genetics! |
-| **Trade (Profession)** | Trade represents skills used for making a living. THis includes professions, crafts, and labor work. It is a very broad talent, and dependong on your [Parameters](Parameters.md), you may wish to divide it up into things like Trade (Buisiness), Trade (Crafting), or Trade (Sex Work). |
+| **Trade** | Trade represents skills used for making a living. THis includes professions, crafts, and labor work. |
 | **Trivia** | Trivia is a special Talent that has no associated skills. When making a "knowledge" check (that is, a check to see if you know something), you can pull Trivia into any check that you don't have a skill for. This will either make the dice for the check one step easier as usual for a Talent, or it may make it possible for you to make the check at all, depending on how obscure the information is. |
 
 ## Skills

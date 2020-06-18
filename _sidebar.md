@@ -45,3 +45,4 @@ Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.vis
 - [Drama Dice](DramaDice.md) - a shared resource
 - [Parameters](Parameters.md) - Campaign Expectations
 - [Stack](Stack.md) - How Stacking works
+- [Synergy](Synergy.md) - taking advantage
