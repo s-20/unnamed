@@ -20,15 +20,9 @@ Once a Trait reaches 5, it become more difficult to improve. Each Advancement is
 
 Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
 
-### **Skill Advancements**
+### **Skill Points**
 
-Choose one of the following. You cannot choose the same option twice in a row for the same Skill.
-
-- Add 1 to the [Stack](Stack.md) of any [Skill](Skills.md) that you have used since your last Skill Advancement.
-- Add a Focus to a Skill you have used since your last Skill advancement Advancement; there must be an in-story reason for the addition.
-- Add a Specialty to a Focus you have used since your last Skill Advancement; there must be an in-story reason for the addition
-
-Once a Skill reaches 5, it become more difficult to improve. Each Advancement is only worth 50% of an increase. Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
+Gain 2 Skill Points; these can be spent as indicated in the [Skills](Skills.md) chapter. You may only purchase whole ranks of skills.
 
 ### **Improve an Aspect**
 
@@ -36,11 +30,11 @@ Select an [Aspect](Aspects.md) you have used since your last Advancement. Improv
 
 Once an Aspect reaches 5, it become more difficult to improve. Each Advancement is only worth 50% of an increase. If an Aspect reaches 10, each Advancement only counts as 25% of an increase.
 
-Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
+Fractional portions of a Stack only matter in the case of ties - they do not provide dice. You may not take this option twice in a row.
 
 ### **Improve a Connection**
 
-Select one [Connection](Connections.md) other than a Personal Connection. Increase its stack by 1.
+Select one [Connection](Connections.md) other than a Personal Connection (personal connections can only be improved through role play). Increase its stack by 1.
 
 Once a Connection reaches 5, it become more difficult to improve. Each Connection is only worth 50% of an increase. Fractional portions of a Stack only matter in the case of ties - they do not provide dice.
 
@@ -49,7 +43,6 @@ Once a Connection reaches 5, it become more difficult to improve. Each Connectio
 Choose one of the following:
 
 - Add 1 Stack in a new [Trait](Traits.md)
-- Add 1 Stack in a new [Skill](Skills.md). You must use a Skill Advancement (see the Skill Advancements tab) to gain a Focus, however
 - Add 1 Stack in a new [Connection](Connections.md)
 - Add a new [Detail](Details.md)
 
@@ -62,6 +55,7 @@ The following options may not always be available, depending on the campaign [Pa
 - Add one or more Exploits to a Special Ability; discuss with your Game Master how many would make sense based on the Sketch of the SA.
 - Improve a [Special Ability](SpecialAbilities.md)'s [Energy](Energy.md) pool. Again, the way the pool improves varies depending on the Special Ability; discuss this with your Game Master
 - Remove a [Complication](Complications.md)
+- Gain a new [Talent](Skills.md)
 
 <!-- tabs:End -->
 
@@ -89,16 +83,6 @@ You might get a Special Ability Award by using your power in a cool new way, bec
 
 ## Total Advancement
 
-If you like, you can keep track of the total number of Advancements (including Awards) characters have received. You can use this total as a gauge for how far the characters have come or how "powerful" they are. 
+Keeping track of your total Advancements isn't really needed, except in a long running game. In any game that lasts less than, say, ten sessions (give or take) doesn't need to bother with tacking, because the power levels aren't going to change significantly enough to matter.
 
-You can also use it to establish Echelons - checkpoints where something new becomes available or something special happens.
-
-### Echelons
-
-Echelons age gained after an arbitrary number of Advancements (including Awards). It could be every five Advancements, every 10, after the first two and then every seven thereafter - however you want to set it up; nothing is wrong as long as it applies equally to all characters.
-
-Upon reaching a new Echelon, characters either receive a special Award, or they gain access to new Advancement options; ideally, they'll get both. In addition, if a player starts up a new character, they start at the same echelon as the group average.
-
-What happens at a new Echelon is up to the individual group or GM, and should be established [Parameters](Parameters.md) discussed during Session 0. They can also be tacked on at any time, or held in a reserve by the GM as a surprise, but generally all the cards should be on the table.
-
-Echelons are an optional rule that can be used to gate off more powerful abilities for later in a long-running campaign.
+In a long running campaign, however, it can be useful 

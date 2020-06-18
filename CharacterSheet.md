@@ -68,7 +68,7 @@
 ## [Details](https://s-20.github.io/unnamed/#/Details)
 
 - You
-- Get
+- Get (up to)
 - Five
 - To
 - Start
@@ -82,6 +82,8 @@
 ## Stuff
 
 Things you carry around with you or otherwise own; just list big important stuff or stuff you want to rely on for modifier dice, plus weapons and armor.
+
+Stuff operates on a "Be Reasonable" system.
 
 ## [Advancements and Awards](https://s-20.github.io/unnamed/#/Advancement)
 
