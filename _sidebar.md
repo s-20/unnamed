@@ -20,9 +20,9 @@ Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.vis
 ----
 ## Alphabetical Index
 
-- [Advancement](Advancement.md) - Character improvement
-- [Basics, The](HBCore.md) - Core Mechanics
-- [Burn](Burn.md) - Extra effort
+- [Advancement](Advancement.md)
+- [Basics, The](HBCore.md)
+- [Burn](Burn.md)
 - [Characteristics](Characteristic.md)
 - [Character Creation](CCSummary.md)
   - [Aspects](Aspects.md)
@@ -37,12 +37,12 @@ Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.vis
     - *[Meta Traits](MetaTraits.md)
   - [Wound Threshold](WoundThreshold.md)
     - [Death](Death.md)
-- *[Your Stuff](YourStuff.md) - Equipment
-- *[Combat](Combat.md) - Conflict resolution
-  - *[Skirmish Rules](Skirmish.md) - Quick battles
-  - *[Engagement Rules](Engagement.md) - High stakes battles
-- [Conditions](Conditions.md) - Temporary effects
-- [Drama Dice](DramaDice.md) - a shared resource
-- [Parameters](Parameters.md) - Campaign Expectations
-- [Stack](Stack.md) - How Stacking works
-- [Synergy](Synergy.md) - taking advantage
+- *[Your Stuff](YourStuff.md)
+- *[Combat](Combat.md)
+  - *[Skirmish Rules](Skirmish.md)
+  - *[Engagement Rules](Engagement.md)
+- [Conditions](Conditions.md)
+- [Drama Dice](DramaDice.md)
+- [Parameters](Parameters.md)
+- [Stack](Stack.md)
+- [Synergy](Synergy.md)
