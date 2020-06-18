@@ -4,15 +4,12 @@
 
 [Github Project Page](https://github.com/s-20/unnamed)
 
-## Important Stuff
+## Vital Stuff
 
 - [Main Index](UnnamedIndex.md)
 - [Core Mechanics](HBCore.md)
-  - [Drama Dice](DramaDice.md)
-  - [Character Creation](CCSummary.md)
-    - [Character Sheet](Playtest1/PlaytestCharacterSheet.md)
-  - [Advancement](Advancement.md)
-  - [Adjustment Points](AdjustmentPoints.md)
+- [Drama Dice](DramaDice.md)
+- [Character Creation](CCSummary.md)
 
 ----
 
