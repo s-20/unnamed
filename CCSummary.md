@@ -20,7 +20,7 @@ start
 :Take 5 Aspects;
 :Take 10 Traits;
 note right
-<b>Traits</b> can be //Stacked// (up to 4)
+<b>Traits</b> can be //Stacked// (up to 5)
 Stacking indicates greater ability
 end note
 :Take 2 Talents;
