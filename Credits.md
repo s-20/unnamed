@@ -1,3 +1,5 @@
+![Credits](_media/undraw_game_world_0o6q.png)
+
 # Credits
 
 This page contains general thank-yous for those who support the game's development, and a place to provide credit for assets used in the game.
@@ -23,3 +25,4 @@ The following people have provided Playtest feedback. If you're playtesting the 
 There's not much art on this website, and all art present is either Public Domain or some other open license. That said, what little art there is was created by:
 
 - j.terranova (the dice image on the landing page for the site)
+- [unDraw](https://undraw.co/license)
