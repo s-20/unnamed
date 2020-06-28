@@ -24,5 +24,4 @@ The following people have provided Playtest feedback. If you're playtesting the 
 
 There's not much art on this website, and all art present is either Public Domain or some other open license. That said, what little art there is was created by:
 
-- j.terranova (the dice image on the landing page for the site)
-- [unDraw](https://undraw.co/license)
+- [unDraw](https://undraw.co/license) - basically all the icons. I chose these because of their (incredibly) permissive license and clean look. They are, of course, placeholders.
