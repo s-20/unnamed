@@ -92,7 +92,7 @@ Powers are things that use their own dice and provide their own stack. They are 
 
 Powers can be Trait Dependent or Independent. A Trait Dependent Power doesn't have a Stack of its own and instead relies on a Trait's stack. The Power can be added to any check involving the trait as long as doing so makes some kind of sense, adding extra effects with extra successes.
 
-An Independent Power has its own stack, by default starting at 1 and improvable through [Advancements](Advancement.md) as though it were a Trait. When pulling the power for a check, it takes the place of a Trait, so you cannot also pull a Trait into the check (see the [Core Rules](HBCore.md)). However, when you [Burn](Burn.md) and Independent Power, you gain a free Success instead of easier dice.
+An Independent Power has its own stack, by default starting at 1 and improvable through [Advancements](Advancement.md) as though it were a Trait. When pulling the power for a check, it takes the place of a Trait, so you cannot also pull a Trait into the check (see the [Core Rules](HBCore.md)). However, when you [Burn](Burn.md) an Independent Power, you gain a free Success instead of easier dice.
 
 ### **Procedures**
 

@@ -36,7 +36,7 @@ Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.vis
   - [Traits](Traits.md)
     - [Meta Traits](MetaTraits.md)
   - [Wound Threshold](WoundThreshold.md)
-- [Your Stuff](YourStuff.md)
+- [Your Stuff](Stuff.md)
 - [Combat](Combat.md)
   - [Skirmish Rules](Skirmish.md)
   - [Engagement Rules](Engagement.md)
@@ -46,3 +46,5 @@ Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.vis
 - [Parameters](Parameters.md)
 - [Stack](Stack.md)
 - [Synergy](Synergy.md)
+
+[Credits](Credits.md)

@@ -33,7 +33,7 @@
 - [Unnamed System Core Rules](HBCore.md) - Contains the core dice mechanics of the system (Complete. Sort of.)
 - [Wound Threshold](WoundThreshold.md) - a part of your character; how much harm you can sustain before unconsciousness or death
 - *[Wrinkles](Wrinkles.md) - difficulties or details added to a scene by the players because of their Details, Origins, Complications, Connections or other aspects of character
-- *[Your Stuff](YourStuff.md) - the Equipment article - getting stuff for your character and whatnot
+- *[Your Stuff](Stuff.md) - the Equipment article - getting stuff for your character and whatnot
 
 An asterisk (*) indicates that the page isn't complete. This may mean missing, or it may mean that there's an incomplete article or just some notes there. Either way, I'm working on it.
 

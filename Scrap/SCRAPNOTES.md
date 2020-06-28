@@ -10,7 +10,7 @@ Jesus Christ, dude, you don't have any craft skills.
 
 - Need to modify Burn.md CCSummary.md Characteristics.md to account for changes.
 - Skills are now what Focuses were
-- Focuses are what SPecialties were
+- Focuses are what Specialties were
 
 ## Synergy.md
 
