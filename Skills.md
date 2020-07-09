@@ -4,11 +4,11 @@ The unnamed System uses three levels of precision when dealing with things a cha
 
 - **Talents**: Broad areas of expertise where a character has natural ability or a broad base of information; you're just a bit better at all of these things than most people.
 - **Skills**: Narrower areas of training. Where Talents may represent natural ability, Skills (almost) always represent specific training, education, and/or practice.
-- **Focus**: Very specific things that a character knows about or knows how to do; they can be pulled like Skills, even for a check with the Skill they're attached to. Foci cannot provide [Synergy](Synergy.md), however.
+- **Focus**: Very specific things that a character knows about or knows how to do; they can be pulled like Skills, even for a check with the Skill they're attached to.
 
 Each level of precision is selected individually during character creation. You can have a Skill you don't have a Talent for, and even a Focus without an associated Skill or Talent.
 
-Talents, SKills, and Foci are pulled for checks just like [Traits](Traits.md), except that they can't be [Burned](Burn.md) for extra effort (but see the *[Burned Out Condition](Conditions.md)*). You may be able to burn them for a [Special Ability](SpecialAbilities.md) cost, however.
+Talents, SKills, and Foci are pulled for checks just like [Traits](Traits.md), except that they can't be [Burned](Burn.md) for extra effort (but see the [Burned Out Condition](Conditions.md)).
 
 ## Talents
 
@@ -20,7 +20,7 @@ You may only pull one Talent into a given check, even if you have more than one 
 
 ### Starting Characters - Talents
 
-New characters start with two Talents. You can trade one or both of these starting Talents for 5 Skills each. Gaining new Talents is difficult; see [Advancement](Advancement.md) for more details.
+New characters start with two Talents. Gaining new Talents is difficult if not outright impossible; see [Advancement](Advancement.md) for more details.
 
 ### Talent List
 
@@ -30,8 +30,8 @@ The following list isn't exhaustive, and is designed to be used in almost any ga
 | :--- | :--- |
 | **Athletics** | The character is athletically inclined. How this manifests is largely up to you, but the character probably enjoys participating in physical activities like sports, running, swimming, and so on. This Talent can be pulled for things involving physical fitness or prowess - jumping, climbing, etc. - that are not directly attacking someone or defending one's self in combat. |
 | **Charisma** | The character is talented in social situations, and tends to leave an impression wherever they go. Charisma can be pulled for most social checks that involve direct interaction. |
-| **Combat, Close** | Close Combat represents an ability to handle oneself when close to enemies. This means things like boxing, martial arts, and most melee weapons, but it also means using a gun at point blank range and properly wearing and using armor. |
-| **Combat, Distant** | Distant Combat represents attacking things from  more than 10 feet away, regardless of how you do it. It also involves things like dodging missiles, properly using cover, and providing covering fire. |
+| **Combat, Close** | Close Combat represents an ability to handle oneself when close to enemies. This means things like boxing, martial arts, and most melee weapons, but it also means using a gun at point blank range and properly wearing and using armor. This talent can be applied to any attack or defense checks made against opponents at [Close Range](Combat.md) or nearer. |
+| **Combat, Distant** | Distant Combat represents attacking things from  more than 10 feet away, regardless of how you do it. It also involves things like dodging missiles, properly using cover, and providing covering fire. This talent can ususally be applied to attack or defense checks made against opponents outside of [Close Range](Combat.md) |
 | **Erudition** | This represents a talent for education, research, and other liberal arts interests. History, languages, memorization, and culture all fall under this category. Erudite individuals usually have a higher education of some sort, although some are autodidacts. |
 | **Expression** | This represents artistic talent and the ability to effectively express one's self. Expression includes things like paining or other visual arts, dance, writing, oratory, debate, and so on. |
 | **Lore** | This talent represents a breadth of knowledge about a variety of subjects that aren't easily categorized in other areas. Lore is for things like folklore, religion, local knowledge (the layout and hotspots of a particular city, for instance), and so on. Depending on your [Parameters](Parameters.md), you may want to divide this Talent into, for instance, Lore (Planes), Lore (Folklore), Lore (City Name), and so on. |
@@ -40,9 +40,9 @@ The following list isn't exhaustive, and is designed to be used in almost any ga
 | **Occult** | Occult is a talent with Things Man Wasn't Meant To Know. Occult is about magic, demons, monsters, psychic ability, and forbidden lore. It also covers a knowledge of cults and their practices. Occult is a talent for all things supernatural as well.
 | **Resolve** | Force of will and integrity. Resolve is a talent for keeping going no matter what, and for sticking to your beliefs, resisting coercion, and otherwise standing your ground. |
 | **Science** |A Talent with science means an intuitive understanding of scientific thought process and methodology. It also includes general science knowledge. |
-| **Technology** | This represents a talent with machines, devices, and other similar things. It includes computers and electronics in a modern setting. Technology applies to operation, engineering, repair, and any other clear application to all things mechanical, electronic, or similar. In some settings, this may include things like cybernetics or even genetics! |
-| **Trade** | Trade represents skills used for making a living. THis includes professions, crafts, and labor work. |
-| **Trivia** | Trivia is a special Talent that has no associated skills. When making a "knowledge" check (that is, a check to see if you know something), you can pull Trivia into any check that you don't have a skill for. This will either make the dice for the check one step easier as usual for a Talent, or it may make it possible for you to make the check at all, depending on how obscure the information is. |
+| **Technology** | This represents a talent with machines, devices, and other similar things. It includes computers and electronics in a modern setting. Technology applies to operation, engineering, repair, and any other clear application to all things mechanical, electronic, or similar. |
+| **Trade** (Craft/Profession) | Trade represents skills used for making a living. THis includes professions, crafts, and labor work. Working with your hands or otherwise at a day-to-day job. It includes things like housekeeping, crafting, law practice, and being a merchant, just for a start.  |
+| **Trivia** | Trivia is a special Talent that has no associated skills. When making a "knowledge" check (that is, a check to see if you know something), you can pull Trivia into any check that you don't have a skill for. This will either make the dice for the check one step easier as usual for a Talent, or it may make it possible for you to make the check at all, depending on how obscure the information is. You can usually only use Trivia once per scene. |
 
 ## Skills
 
@@ -56,7 +56,7 @@ The skills listed below aren't exhaustive. They merely represent the most common
 
 ### Skill List
 
-Skills are divided into Talent Groups. Nearly every time you pull a Skill, you will also be able to pull the associated Talent if you have it.
+Skills are divided into Talent Groups. You can usually pull the Talent for the group (if you have it) when you use the skill, but not if you're using it for something outside the talent's purview. For example, if you were using the Sports skill to recall a team's stats for the 07 season, you couldn't pull the Athletics talent - but you might be able to pull Erudition!
 
 <!-- tabs:start -->
 
@@ -64,26 +64,43 @@ Skills are divided into Talent Groups. Nearly every time you pull a Skill, you w
 
 | **Skill** | Description | Possible Foci |
 | :--- | :--- | :---
+| **Acrobatics** | |
+| **Endurance** | |
+| **Jumping** | |
+| **Running** | |
+| **Sport** | |
 
 #### **Charisma Skills**
 
 | **Skill** | Description | Possible Foci |
 | :--- | :--- | :---
+| **Diplomacy** | |
+| **Beguile**
+| **Inspire** | |
+| **Instigate** | |
 
 #### **Close Combat Skills**
 
 | **Skill** | Description | Possible Foci |
 | :--- | :--- | :---
+| **Dodge** | |
+| **Unarmed** | |
+| ***Weapon Skills*** | |
 
 #### **Distant Combat Skills**
 
 | **Skill** | Description | Possible Foci |
 | :--- | :--- | :---
+| **Evade** | |
+| ***Weapon Skills** | |
 
 #### **Erudition Skills**
 
 | **Skill** | Description | Possible Foci |
 | :--- | :--- | :---
+| **Academics** | | |
+| **Social Science** | |
+| **SOmething ELse** | |
 
 #### **Expression Skills**
 
