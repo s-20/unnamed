@@ -20,7 +20,9 @@ You may only pull one Talent into a given check, even if you have more than one 
 
 ### Starting Characters - Talents
 
-New characters start with two Talents. Gaining new Talents is difficult if not outright impossible; see [Advancement](Advancement.md) for more details.
+New characters start with two Talents. Gaining additional Talents is difficult, but not impossible. See [Advancement](Advancement.md).
+
+Talents can usually be chosen from the list below. If you want a alent for something not presented, but of similar scope, to what you see below, discuss it with the group and your GM. As with most things, the Talent List in the [unnamed System](unnamedName.md) is flexible (especially during playtest).
 
 ### Talent List
 
@@ -28,21 +30,21 @@ The following list isn't exhaustive, and is designed to be used in almost any ga
 
 | **Talent** | Description |
 | :--- | :--- |
-| **Athletics** | The character is athletically inclined. How this manifests is largely up to you, but the character probably enjoys participating in physical activities like sports, running, swimming, and so on. This Talent can be pulled for things involving physical fitness or prowess - jumping, climbing, etc. - that are not directly attacking someone or defending one's self in combat. |
-| **Charisma** | The character is talented in social situations, and tends to leave an impression wherever they go. Charisma can be pulled for most social checks that involve direct interaction. |
-| **Combat, Close** | Close Combat represents an ability to handle oneself when close to enemies. This means things like boxing, martial arts, and most melee weapons, but it also means using a gun at point blank range and properly wearing and using armor. This talent can be applied to any attack or defense checks made against opponents at [Close Range](Combat.md) or nearer. |
-| **Combat, Distant** | Distant Combat represents attacking things from  more than 10 feet away, regardless of how you do it. It also involves things like dodging missiles, properly using cover, and providing covering fire. This talent can ususally be applied to attack or defense checks made against opponents outside of [Close Range](Combat.md) |
-| **Erudition** | This represents a talent for education, research, and other liberal arts interests. History, languages, memorization, and culture all fall under this category. Erudite individuals usually have a higher education of some sort, although some are autodidacts. |
-| **Expression** | This represents artistic talent and the ability to effectively express one's self. Expression includes things like paining or other visual arts, dance, writing, oratory, debate, and so on. |
-| **Lore** | This talent represents a breadth of knowledge about a variety of subjects that aren't easily categorized in other areas. Lore is for things like folklore, religion, local knowledge (the layout and hotspots of a particular city, for instance), and so on. Depending on your [Parameters](Parameters.md), you may want to divide this Talent into, for instance, Lore (Planes), Lore (Folklore), Lore (City Name), and so on. |
-| **Nature** | Nature is all about... well, nature. The world outside of sentient/sapient creatures is the natural world. Nature covers things like dealing with animals, wilderness survival, and navigation. It's all about how you interact with the natural world. |
-| **Obfuscation** | Obfuscation is a talent for hiding things from notice or being deceptive or surreptitious. Bluffs, most things involving thievery, stealth, and camouflage all fall within this Talent. |
-| **Occult** | Occult is a talent with Things Man Wasn't Meant To Know. Occult is about magic, demons, monsters, psychic ability, and forbidden lore. It also covers a knowledge of cults and their practices. Occult is a talent for all things supernatural as well.
-| **Resolve** | Force of will and integrity. Resolve is a talent for keeping going no matter what, and for sticking to your beliefs, resisting coercion, and otherwise standing your ground. |
-| **Science** |A Talent with science means an intuitive understanding of scientific thought process and methodology. It also includes general science knowledge. |
-| **Technology** | This represents a talent with machines, devices, and other similar things. It includes computers and electronics in a modern setting. Technology applies to operation, engineering, repair, and any other clear application to all things mechanical, electronic, or similar. |
-| **Trade** (Craft/Profession) | Trade represents skills used for making a living. THis includes professions, crafts, and labor work. Working with your hands or otherwise at a day-to-day job. It includes things like housekeeping, crafting, law practice, and being a merchant, just for a start.  |
-| **Trivia** | Trivia is a special Talent that has no associated skills. When making a "knowledge" check (that is, a check to see if you know something), you can pull Trivia into any check that you don't have a skill for. This will either make the dice for the check one step easier as usual for a Talent, or it may make it possible for you to make the check at all, depending on how obscure the information is. You can usually only use Trivia once per scene. |
+| **Artistic** | This represents artistic or creative expression - things like paining or other visual arts, dance, writing, and so on. Any form of free and creative expression can qualify, depending on the circumstances. |
+| **Athletic** | The character is athletically inclined. How this manifests is largely up to you, but the character probably enjoys participating in physical activities like sports, running, swimming, and so on. This Talent can be pulled for things involving physical fitness or prowess - jumping, climbing, etc. - that are not directly attacking someone or defending one's self in combat. |
+| **Close Combatant** | Close Combat represents an ability to handle oneself when close to enemies. This means things like boxing, martial arts, and most melee weapons, but it also means using a gun at point blank range and properly wearing and using armor. This talent can be applied to any attack or defense checks made against opponents at [Close Range](Combat.md) or nearer. |
+| **Distant Combatant** | Distant Combat represents attacking things from  more than 10 feet away, regardless of how you do it. It also involves things like dodging missiles, properly using cover, and providing covering fire. This talent can ususally be applied to attack or defense checks made against opponents outside of [Close Range](Combat.md) |
+| **Erudite** | This represents a talent for education, research, and other liberal arts interests. History, languages, memorization, and culture all fall under this category. Erudite individuals usually have a higher education of some sort, although some are autodidacts. |
+| **Eutierric** | Eutierria is a sense of wonder, peace, and connection with the natural world, so Eutierric would be a person who was connected to nature. Eutierric covers things like dealing with animals, wilderness survival, and navigation. It's all about how you interact with the natural world. |
+| **Experient** | This talent represents a breadth of knowledge learned through experience and tradition. This means things like folklore, traditional crafting methods, cultural traditions, and even being streetwise. |
+| **Obfuscatory** | Obfuscation is a talent for hiding things from notice or being deceptive or surreptitious. Bluffs, most things involving thievery, stealth, and camouflage all fall within this Talent. |
+| **Occultic** | Occultic means a talent with Things Man Wasn't Meant To Know and other "hidden" lore. Occultic is about magic, demons, monsters, psychic ability, and forbidden lore. It also covers a knowledge of cults and their practices. |
+| **Professional** (Craft/Trade) | Professionals are talented with skills used for making a living. This includes actual professions, along with crafts, labor work, and even some artistic things like graphic design; basically, working with your hands or otherwise at a day-to-day job. It includes things like housekeeping, crafting, law practice, and being a merchant, just for a start.  |
+| **Resolute** | Force of will and integrity. Resolve is a talent for keeping going no matter what, and for sticking to your beliefs, resisting coercion, and otherwise standing your ground. |
+| **Scientific** | The Scientific talent means an intuitive understanding of scientific thought process and methodology, and can be applied to most "sciency" skills like Arachnology, Botany, or Physics. |
+| **Socialite** | The character is talented in social situations, and tends to leave an impression wherever they go. Charisma can be pulled for most social checks that involve direct interaction. |
+| **Technologist** | This represents a talent with machines, devices, and other similar things. It includes computers and electronics in a modern setting. Technologist applies to operation, engineering, repair, and any other clear application to all things mechanical, electronic, or similar. |
+| **Trivia** | Trivia is a special Talent that has no associated skills. When making a "knowledge" check (that is, a check to see if you know something), you can pull Trivia into any check that you don't have a skill for. This will either make the dice for the check one step easier as usual for a Talent, or it may make it possible for you to make the check at all, depending on how obscure the information is. You may be limited in how often you can use Trivia in a given scene - usually by someone in your game group saying "Okay, bud, that's enough." |
 
 ## Skills
 
@@ -52,120 +54,127 @@ Skills [Stack](Stack.md) normally, and provide dice when pulled for a check. You
 
 Skills are all associated with a particular Talent. You don't need to take the talent in order to put ranks in the skill, but having the talent will almost always make the skill more effective.
 
-The skills listed below aren't exhaustive. They merely represent the most common skills for most games. You might have additional Skills for [Special Abilities](SpecialAbilities.md), or if you don't see what you're looking for here, you can just make one up.
+### Talent Association
 
-### Skill List
+Each tab below pairs several example skills with a Talent from the list above. This isn't an exhaustive list, and players are invited to make their own skills, using the examples here as inspiration. The main thing to keep in mind about Skills is that they are more specific than Talents, but not as precise as a Focus (below).
 
-Skills are divided into Talent Groups. You can usually pull the Talent for the group (if you have it) when you use the skill, but not if you're using it for something outside the talent's purview. For example, if you were using the Sports skill to recall a team's stats for the 07 season, you couldn't pull the Athletics talent - but you might be able to pull Erudition!
+Just because a Skill is associated with a Talent doesn't mean it has to be used with  that talent, or that the associated talent is automatically pulled for any check involving that skill.
+
+The grouping is mostly a convenience - the *Swordsmanship* skill will *usually* be used with *Close Combatant*, so that's how it's grouped. However, if you're haggling over a sword, that's not *Close Combatant* talent, that's *Profession* - but you can still use *Swordsmanship* for it, because your knowledge of swords would help you haggle. Of course, even better would be to pull *Profession* and use the *Merchant* skill, then claim [Synergy](Synergy.md) with *Swordsmanship*!
+
+### Sample Skills
 
 <!-- tabs:start -->
 
-#### **Athletics Skills**
+#### **Artistic**
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
-| **Acrobatics** | |
-| **Endurance** | |
-| **Jumping** | |
-| **Running** | |
-| **Sport** | |
+Artistic skills represent artistic expression, so there's a lot of latitude here. Dance, Painting, Sculpture, Writing, and Acting are all excellent ideas.
 
-#### **Charisma Skills**
+A Focus that fell within this category would be a more specific version of one of these skills - instead of Dance, it could be Ballet, instead of Acting it could be Kabuki, and instead of Sculpture, it could be a style (Cubist Sculpture) or  medium, (Bronze sculpting).
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
-| **Diplomacy** | |
-| **Beguile**
-| **Inspire** | |
-| **Instigate** | |
+#### **Athletic**
 
-#### **Close Combat Skills**
+Anything dealing with moderate to intense physical activity works here. Sport is an obvious possibility. Jumping, Running, Swimming, Acrobatics, or Strength Training work as well.
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
-| **Dodge** | |
-| **Unarmed** | |
-| ***Weapon Skills*** | |
+Athletic Foci could include specific sports (Rugyby, Football, Gridiron, Pole Vault), or more specific versions of the above - Sprinting or Marathon in stead of Running, for example.
 
-#### **Distant Combat Skills**
+#### **Close Combatant**
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
-| **Evade** | |
-| ***Weapon Skills** | |
+Most Close Combatant skills represent a group of weapons or combat style - Swordsmanship, Brawl, Grapple, Axes, Polearms, and so on.
 
-#### **Erudition Skills**
+Close Combat includes a special skill - Dodge. Dodge is used to avoid being hit in close combat (any attack originating within 10'), and can also be used for any quick get-out-of-the-way thing like ducking under a bridge on top of a speeding train.
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
-| **Academics** | | |
-| **Social Science** | |
-| **SOmething ELse** | |
+Close Combatant Foci could include  Short Sword, a specific martial art, or My Ancestral Weapon.
 
-#### **Expression Skills**
+#### **Distant Combatant**
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+Most Distant Combatant skills represent a group of weapons or combat style - Firearms, Archery, Thrower Weapons (Slings, Atl-Atl, etc.), Thrown Weapons, and so on.
 
-#### **Lore Skills**
+Distant Combat includes a special skill - Evade. Evade is used to avoid being hit in distant combat (any attack originating more than 10' away) Evade is also used to dive for cover or tumble away from an area effect like an explosion. 80s action heroes have a high Evade skill.
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+Distant Combatant Foci could include Shotgun, Javalin, Playing Cards, or My Ancestral Weapon.
 
-#### **Nature Skills**
+#### **Erudite**
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+Skills grouped under Erudite usually require reading, research, and memorization. Some soft sciences (like History) belong here, as do most Humanities (Linguistics, Literature, Art Appreciation). Basically, if it could make you sound pretentious but probably not get you a job, it belongs here.
 
-#### **Obfuscation Skills**
+Foci are generally just specializations within a field - Protolinguaitics, Art History, Italian Literature, and so on.
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+#### **Eutierric**
 
-#### **Occult Skills**
+Eutierric skills are those that related dirctly to nature, but aren't specifically sciences. Animal handling/husbandry, herbology, navigation, and other interactions with the natural world all count.
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+Which isn't to say that Eutierric can't be applied to scientific skills - if you're not Scientific, Eutierric can certainly be pulled for Botany or Zoology checks.
 
-#### **Resolve Skills**
+Like most other Talents, Eutierric foci are more specific versions of the skills - Dog Training, Stellar Navigation, and herbal toxicology, for instance.
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+#### **Experient**
 
-#### **Science Skills**
+This Talent can cover a lot of ground, or be taken out of a given campaign completely, depending on your [Parameters](Parameters.md). These skills are things you pick up along the way through experience, or things that your absorb from cultural adaptation. Things like Streetwise, Cultural Lore, Folklore, and other wise-old-sage type skills belong here.
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+Sample Foci might be lore or knowledge of a specific city (Chicago Lore), knowledge of a specific culture or subculture (Furry Culture), and so on.
 
-#### **Technology Skills**
+#### **Obfuscatory**
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+Being Obfucatory means that you are excellent at presenting things as being other than they are, This includes skills like Deception, Fast-Talk, Hide, Sneak, and Politics. Most of the stuff one associates with thievery falls into this category as well, along with things like Disguise or Forgery.
 
-#### **Trade (Profession) Skills**
+#### **Occultic**
 
-| **Skill** | Description | Possible Foci |
-| :--- | :--- | :---
+Occultic skills vary from campaign to campaign, because what constitutes hidden lore changes from campaign to campaign. Roughly speaking, though, this would include things like Magic, Psychic Ability/Psionics, and Things Man Was Not Meant To Know (or Mythos Lore, if you want to be succinct).
+
+In games that use magic or psychic powers, skills related to those abilities might be placed under Occultic, or they might get their own talents, depending on your [Parameters](Parameters.md).
+
+#### **Professional**
+
+Basically, if it's a Job, a Career, or a Craft, it is a Professional skill. Lawyer, Blacksmith, Wheelwright, Basket Weaver, Exotic Dancer, Courtesan, Geisha, Feudal Lord - all Professional SKills.
+
+Depending on your game, Professional Foci might be insignificant enough to count as [Details](Details.md). For example, unless you're playing a game at sea, being a Maritime Lawyer isn't much more than a curiosity (unless you're a Bluth, which is a whole different story). Otherwise, they're like all other Foci.
+
+#### **Resolute**
+
+Resolute skills provide more specific resistances to outside influence. A few good examples include Courage, Integrity, Honor, Disease or Toxin Resistance, and Magic Resistance.
+
+Foci for Resolute might be Venom Resistance, Resistance to a specific school of magic, Honesty (that is, the ability to avoid being forced into a lie), and so on.
+
+#### **Scientific**
+
+Sciences are the obvious choice for Scientific skills - basically, anything ending in -ology. Zoology, Botany, Psychology, Anthropology, Xenology, and so on. Professional medical skills belong here to - Medical Doctor, Nurse, Medical Lab Technician, et al. First Aid, on the other hand, is more of a Experient skill.
+
+Foci are more narrow scientific specialties - for example, Anesthesiologist, Abberant Psychology, Cetacean Mammalogy, and Electroencephalographic Technologist. Note that depending on your campaign, some of these skills might be better categorized under Technology.
+
+#### **Socialite**
+
+Socialite skills are about getting people to get along, getting along with people, gathering information, and making compromises. Diplomacy, Etiquette, Sex Appeal, Carousing, Interrogate/Interview, and similar things are good sample skills.
+
+Socialite Foci are usually related to specific social situations. For example, Court Intrigue, Thief's Guild Code of Conduct, and American University Customs.
+
+#### **Technologist**
+
+Because what constitutes "technical" can vary, so can the purview of this talent. However, generally speaking, if it involved machines, electronics, engines/motors, or anything similar, then it's a Technologist skill. Computers, Engineering (usually of a specific type, i.e. Mechanical, Civil, Electronic, Etc.), Architecture, Inventing, et al.
+
+Generally, Foci need to be  more specific than an Engineering specialty, since those are (by default) individual skills. So a more focused version of Civil Engineer might be Urban Planner, and a more focused version of Computers might be Computer Programming or Video Games.
 
 #### **Trivia Skills**
 
-Trivia has no associated skills; see the Trivia Talent description above. Trivia can't have associated Foci, either.
+Trivia has no associated skills; see the Trivia Talent description above. Trivia can't have associated Foci, either, although in a way it's sort of like having a nearly unlimited supply of no-stack Foci.
 
 <!-- tabs:end -->
 
-### Custom Skills
+### Special Skills
 
-As previously mentioned, the skill list above isn't exhaustive. You might want something different for any of a number of reasons. A given Setting might have skills that others don't. Some [Special Abilities](SpecialAbilities.md) use custom skills as well. Or maybe you just don't like what's listed and want something different.
+A given Setting might have specifc skills that others don't. Some [Special Abilities](SpecialAbilities.md) use custom skills, and some skills can have special uses, like the *Dodge* and *Evade* skills described under the two *Combatant* talents.
 
-Whatever the case, making a new skill is simple enough. Using the above list as a guideline, just name a new Skill. The Skill needs an associated Talent, and should be about as specific as the ones listed above.
+Such special skills can be established as needed, but if they are going to be a major point of the campaign, they should at least be discussed when establishing [Parameters](Parameters.md).
 
-Sometimes it's as simple as renaming a skill to something else. Don't like Acrobatics? How about Gymnastics or Tumbling instead? Don't like Subterfuge? How about Deceit? As long as it's a synonym, it's probably okay. Just make sure everyone knows what's going on - someone else might prefer Gymnastics as well! Because the unnamed System leaves a lot of things up to individual interpretation, however, changes like this can have an effect on the mechanics of the game.
+Adding special rules to skills can be a fun way to expand their usefulness, but it can also have the opposite effect - the skill may start being seen as *just for that one thing*. This is why skills that have specific mechanical uses should be established as separate skills, so that the sort of skills described here can keep their more flexible feel.
 
 ### Starting Characters - Skills
 
-Starting characters get 15 Skill Points, with each Point able to buy 1 [Stack](Stack.md) in a skill. By default, each character must take at least 5 different Skills. Increasing a Skill's Stack above 5 is much more difficult, and costs double Skill Points (so increasing a Skill's Stack from 5 to 6 would cost 2 points); the cost doubles again at a Stack of 10 (to 4:1), and again at 15 (8:1) - and so on. Skills shouldn't be above 5 on a starting character except under very special or unusual circumstances.
+Starting characters get 15 Skill Points, with each Point able to buy 1 [Stack](Stack.md) in a skill. By default, each character must take at least 5 different Skills.
 
-When a Skill's stack reaches 5, you get a free stack of a related Focus. You get an additional free stack in a related focus at 10, and every 5 more stack thereafter. Skill points can also be used to also used to buy Foci individually; see below.
+Increasing a Skill's Stack above 5 is much more difficult. The cost doubles after a Stack of 5 (so 5 to 6 costs 2 Skill Points), and then doubles again after 10 (so 10 to 11 is 4 Skill Points). Skills are hard capped at 20.
+
+When a Skill's stack reaches 5, you get a free stack of a related Focus.
 
 ## Foci
 
@@ -181,13 +190,17 @@ When defining a character's Foci, try to make them as specific and narrow as mak
 
 Alternately, a Focus could be attached to a specific item (Grandfather's Sword, My Custom Cyberdeck, etc.). If you lose the item, you may lose access to the Focus until you find some way to replace what you've lost (a new custom cyberdeck that takes thousands of credits and months of tweaking to set up, tracking down the sword's dwarven maker to craft another, etc.).
 
-In the skill list above, examples of foci are given for each skill. Use these as a guideline.
+In the skill list above, examples of foci are given for each talent group.
 
 ### Starting Characters - Foci
 
-As indicated above, any Skill with a [Stack](Stack.md) of 5 or higher gets a free Focus with a Stack of 1. In addition, you can use Skill Points to buy additional stacks of Foci at a 1:2 rate (one Skill Point will get you 2 stack of Foci). You may spend up to 4 Skill Points in this manner.
+As indicated above, any Skill with a [Stack](Stack.md) of 5 or higher gets a free Focus with a Stack of 1. 
 
-Starting characters can't have a stack above 2 in any given focus.
+In addition, you can use Skill Points to buy additional stacks of Foci at a 1:2 rate (one Skill Point will get you 2 stack of Foci). You may spend up to 5 Skill Points in this manner.
+
+Once a Foci reaches a Stack of 5, it becomes much more difficult to improve, and the cost doubles (to 1 Skill Point per Stack). This cost doubles again to 2 per 1 Stack after 10.
+
+Foci are hard capped at 15, just like Skills.
 
 ## Character Creation: What's Next
 
