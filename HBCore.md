@@ -12,7 +12,9 @@ unnamed uses dice pools composed of d6s to determine success and failure. Dice c
 
 There are other types of Dice as well, but these three cover most situations. See [Dice Types](DiceTypes.md) for a full rundown.
 
-### Success, Failure, and Quirks
+In addition, to rolling for successes, there are also [Overkill](Overkill.md) rules for if you have a *silly* number of dice. This is designed to prevent what I call **Shadowrun Syndrome**. Rolling a lot of dice is fun, but it can also be tedious and excessive.
+
+### Success, Failure, Quirks, and Overkill
 
 The difficulty of a task determines how many successes are needed to fully accomplish something, although progress is made with any attempt. For most tasks, a single success is enough, but other tasks might require as many as five, and some *ongoing tasks* or *teamwork tasks* might require even more.
 
@@ -20,11 +22,11 @@ Even if you have no successes, however, you don't exactly fail. Every action pus
 
 By default, rolls of 1 are called [Quirks](Quirk.md). Quirks represent some sort of twist or unforeseen consequence. See the [Quirk](Quirk.md) article for more details, but basically rolling a quirk means that something unexpected might happen.
 
-If you have quirks and no successes, you might outright fail. If you have nothing *but* quirks, then something really strange or bad happens (called a *twist*). You can come up with your own negative consequence, or you can let the GM or one of the other players decide what happens.
+[Overkill](Overkill.md) rules can kick in whenever you have 5 or more dice to roll. At its most basic, you can trade 5 dice for 1 guaranteed Success. See the [Overkill](Overkill.md) article for more details, however.
 
 ### Creating a Pool
 
-To figure out how many dice you should roll for a given check, you "pull" different [Characteristics](Characteristic.md). MOst Characteristics have a [Stack](Stack.md); you get **normal** dice for the check equal to the stack of the characteristic. If the characteristic doesn't have a stack, you may get one ***hard*** die, depending on the situation.
+To figure out how many dice you should roll for a given check, you "pull" different [Characteristics](Characteristic.md). Most Characteristics have a [Stack](Stack.md); you get **normal** dice for the check equal to the stack of the characteristic. If the characteristic doesn't have a stack, you may get one ***hard*** die, depending on the situation.
 
 Which Statistics you can pull for the roll is generally up to you, although the GM may request specific Characteristics depending on the roll, and circumstances often dictate or limit your choices.
 

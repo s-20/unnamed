@@ -8,36 +8,27 @@
 
 ## [Aspects](https://s-20.github.io/unnamed/#/Aspects)
 
-- Five to
-- Start
+Five stacks in at least 2 Aspects
 
 ## [Traits](https://s-20.github.io/unnamed/#/Traits)
 
-- You
-- Get
-- Ten
-- To
-- Start
+Ten stack in at least 3 different Traits
+
+## [Talents](https://s-20.github.io/unnamed/#/Skills)
+
+You get two!
 
 ## [Skills](https://s-20.github.io/unnamed/#/Skills)
 
-- You
-  - Focus / *Specialization*
-- Get
-  - Focus
-- Ten
-  - Focus
-- To
-  - Focus
-- Start
-  - Focus
-- Each Gets a free Focus
-  - Focus
+15 SKill Points for at least 5 Skills, no more than 5 stack in any one skill at start. Skill stacks cost 1 point each.
+
+Foci can be purchased at 2 Stack for 1 Skill point, no more than 4 in any one Focus to start
 
 ## [Connections](https://s-20.github.io/unnamed/#/Connections)
 
 - At least 5
-- Up to ten
+- More if it
+- Makes sense
 
 ## [Special Abilities](https://s-20.github.io/unnamed/#/SpecialAbilities)
 
@@ -45,7 +36,7 @@
 
 - **Sketch**:
 - **Exploits**:
-  - *Energy Pool*:
+  - *Energy*:
 - **Powers**:
 - More Stuff
 - Copy and Paste for more SAs
@@ -55,8 +46,6 @@
 - You
 - Get up to
 - Five
-- To
-- Start
 
 ## [Complications](https://s-20.github.io/unnamed/#/Complications)
 
