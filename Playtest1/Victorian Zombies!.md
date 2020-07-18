@@ -3,7 +3,6 @@
 ## Principle Players
 
 - Pat - Gadgeteer - roll to gather "energy", spend to finish device
-- Daintree - Swordsmith/Soldier - Delivering Sword; magic sword; uses charges, in tune with the spirit of the blade
 - Waffles - Fortune teller/Spiritist; skill checks for information from the Spirit World; coax spirits to help epyromancy 
 
 ### Protagonists
