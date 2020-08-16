@@ -46,14 +46,13 @@ Unless you decide otherwise, your character is considered fluent and literate in
 
 ## Holding Off
 
-
 As previously noted, if you can't come up with all your details right away, that's not a big deal. They can be filled in as they come up.
 
 This works best in a game that's going to last several sessions at least, but you can just claim a detail (again, up to five total) when a situation demands it. Remembering the guidelines above, with the one change that it can actually be *very* useful to the specific situation when it comes up.
 
 The added Detail must *make sense*. You can't just throw random little things in to get you out of trouble. It needs to have some reasonable explanation within the context of you background, other Details, Skills, or established events.
 
-For instance, the player controlling Wesley in the Princess Bride could have claimed the Iocane Powder detail right when they needed it to win the battle of the brains. He had been training - hard - to return to Buttercup, was a master strategist, and was quite knowledgeable in how to kill people - it as reasonable to believe that he might do something like develop an immunity to a poison in case something like this came up.
+For instance, the player controlling Wesley in the Princess Bride could have claimed the iocane powder detail right when they needed it to win the battle of the brains. He had been training - hard - to return to Buttercup, was a master strategist, and was quite knowledgeable in how to kill people - it as reasonable to believe that he might do something like develop an immunity to a poison in case something like this came up.
 
 ## New Details
 
@@ -63,7 +62,7 @@ You can gain new details at any time during play. Like a [Connection](Connection
 
 Details can be used in a variety of ways. They are sort of like every characteristic taken to a microscopic level. You can pull them like Skills or Traits into the rare check where they're appropriate, or they can provide passive benefits.
 
-If you pull a Detail, it provides a Die just like a 1 Stack [Skill](Skills.md). Details cannot be [Stacked](Stack.md), but they can provide passive effects, or even grant automatic success with a task if it seems approrpriate.
+If you pull a Detail, it provides a Die just like a 1 Stack [Skill](Skills.md). Details cannot be [Stacked](Stack.md), but they can provide passive effects, or even grant automatic success with a task if it seems appropriate.
 
 ## Character Creation: What's Next
 

@@ -30,3 +30,4 @@ Spice Manor is a day's ride from Cambridge
  - Allen Kardek, Spiritist
 
 October 12 1875. Lord Spice's Manor.
+
