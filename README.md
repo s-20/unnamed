@@ -12,7 +12,7 @@ Hover over a title for more information.
 
 - [Adjustment Points](AdjustmentPoints.md "one of the tools used to build and advance a character")
 - [Advancement](Advancement.md "improving the character through experience")
-- [Aspects](Aspects.md "a Characteristic; something special about your character")
+- [Aspects](Aspects.md "a Characteristic; something special about your character; comparable to Class and/or Heritage")
 - [Burn](Burn.md "pushing your character to their limits at a cost")
 - [Character Creation Summary](CCSummary.md "step-by-step character creation instructions")
 - *[Combat](Combat.md "rules for resolving violent conflict")*

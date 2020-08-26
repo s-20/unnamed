@@ -2,18 +2,19 @@
 
 ![logo](_media/icon.png)
 
-
 # The unnamed System <small>alpha 0.1</small>
 
 > A Flexible Role Playing System
 
 - Medium-weight rules
-  - Simple dice pools
+  - d6 dice pools
   - Descriptive Characters
-- Easy GMing
-- Basically ready for Playtest! Sorta!
+- Streamlined GMing
+- Basically ready for Playtest!
+  - Not really, but the framework's there
+  - Under *heavy*, if sporadic, construction
 
 [The GitHub Page](https://github.com/s-20/unnamed)
 [Main Index](README.md)
 [Make a Character](CCSummary.md)
-[Character Sheet](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)
+[Character Sheet - WIP](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)

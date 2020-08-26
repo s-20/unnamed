@@ -6,8 +6,8 @@ These are the notes for the Supers game that I plan to use as a playtest for my 
 
 - We're going to build our own Supers universe
   - The actual plan is for it to intersect with New Defenders-verse, but that's late-game stuff (something about Nacht and Iron Cross, probably during World War II)
-- Basically anything is on the table, power wise, with the following caveats:
-  - You are a college student. You age is irrelevant, but you go to Copper Mountain Community College (CMCC), and you live on campus.
+- Core Stuff:
+  - You are a college student. You age is irrelevant, but you are a full time student at Copper Mountain Community College (CMCC), and you live on campus.
     - CMCC is located in Cobre, Arizona - long ago a mining town, now the recently named Capitol City of Arizona, and the fastest growing city in the country
     - Population comparable to Denver (with similar amenities)
   - There have never been Super Powers in your world before, as far as you know. You are a First Generation Super.

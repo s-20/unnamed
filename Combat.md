@@ -121,6 +121,6 @@ Once intent is declared, players pull the dice pools they'll need for the round.
 
 ## End of Round
 
-### Victory?
+### Victory
 
 ## Resolution

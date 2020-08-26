@@ -1,5 +1,3 @@
-# HB Game Scrapsheet and Notes
+# HB Game Scrap-sheet and Notes
 
-
-## Symbols
-✓
+Various stuff I need to save for later.

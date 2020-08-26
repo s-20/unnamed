@@ -4,25 +4,26 @@ The unnamed System has a lot of moving parts, but everything builds off of a fai
 
 ## Core Mechanics
 
-unnamed uses dice pools composed of d6s to determine success and failure. Dice come in a few [types](DiceTypes.md), the most common of which are *Easy*, **Normal**, or ***Hard***: 
+unnamed uses dice pools composed of d6s to determine success and failure. Dice come in a few [types](DiceTypes.md), but most of the time, you will be counting successes on a result of 6.
 
-- *Easy* dice count as a Success if you roll a 4 or more
-- **Normal** dice count as a Success if you roll 5 or more
-- ***Hard*** dice count as a Success only if you roll a 6
+If your character is particularly good at something, they might roll Talented instead, because the task is relatively easy for them. With a Talented roll, count a success on a 5 or higher.
 
-There are other types of Dice as well, but these three cover most situations. See [Dice Types](DiceTypes.md) for a full rundown.
+If you gather more than 5 dice into a check, you go into [Overkill](Overkill.md) rules.
 
-In addition, to rolling for successes, there are also [Overkill](Overkill.md) rules for if you have a *silly* number of dice. This is designed to prevent what I call **Shadowrun Syndrome**. Rolling a lot of dice is fun, but it can also be tedious and excessive.
+### Difficulty and Failing Forward
 
-### Success, Failure, Quirks, and Overkill
+The difficulty of a task is defined by the number of successes needed for the task to be accomplished the way you want it to be done. This ranges from 1 (easy tasks) to 5 (very hard).
 
-The difficulty of a task determines how many successes are needed to fully accomplish something, although progress is made with any attempt. For most tasks, a single success is enough, but other tasks might require as many as five, and some *ongoing tasks* or *teamwork tasks* might require even more.
+An *Ongoing Task* or a *Teamwork Task* handle difficulty slightly differently, and have special rules, but successes are counted in the same way; see [Special Tasks](SpecialTasks.md).
 
-Even if you have no successes, however, you don't exactly fail. Every action pushes the story forward, and there are no "nope" moments in the unnamed system. A "failure" still has results, and unless you roll a [Quirk](Quirk.md), you've probably made progress toward your goal, or even accomplished it, although you might get less than optimal results, it might take longer than expected, or you might need help.
+Just because you didn't get the difficulty doesn't mean you failed, however. Most of the time, you will "fail forward" instead: you accomplish your goal, but with some sort of caveat or twist. Your task may take longer, or your workmanship may be shoddy, or you might get hurt in the process - anything is possible, and it will seldom be in your favor. If nothing else, you may succeed, but take a [Mark](Marks.md) going forward.
 
-By default, rolls of 1 are called [Quirks](Quirk.md). Quirks represent some sort of twist or unforeseen consequence. See the [Quirk](Quirk.md) article for more details, but basically rolling a quirk means that something unexpected might happen.
+You can only really *fail* if two criteria are met:
 
-[Overkill](Overkill.md) rules can kick in whenever you have 5 or more dice to roll. At its most basic, you can trade 5 dice for 1 guaranteed Success. See the [Overkill](Overkill.md) article for more details, however.
+1. You rolled no successes and had 4 or fewer dice in your pool
+2. Failing won't bring the story to a standstill
+
+
 
 ### Creating a Pool
 
@@ -47,7 +48,7 @@ When paying an unnamed game, the following 6 Principles are important:
    - In a shared narrative experience, giving players more narrative control can make the story feel more about their characters; this is, in the eyes of unnamed, a good thing.
    - This has the added benefit of making the GM's job a bit easier by distributing the creative burden a little more evenly.
 3. **Balance isn't *just* the System's job**
-   - Sure, a system needs to be balanced, but (especially in a universal system) perfect balance in a system is impossible. unnamed operates on the assumption that the group will work together to maintain a level of balance that makes their game enjoyable, whatever that means to the individual group. 
+   - Sure, a system needs to be balanced, but (especially in a universal system) perfect balance in a system is impossible. unnamed operates on the assumption that the group will work together to maintain a level of balance that makes their game enjoyable, whatever that means to the individual group.
    - This leads directly into -
 4. **Narrative Balance is more important than Mechanical Balance**
    - In the Marvel universe, there is a group of heroes called The Avengers. This group contains both Thor and Hawkeye. Thor is the literal god of thunder. Hawkeye is pretty good with a bow. They are not, in any way shape or form, mechanically balanced, but they are both important to the narrative.
