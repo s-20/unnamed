@@ -2,21 +2,17 @@
 
 Drama Dice are a shared pool of dice that players can use to accomplish goals or influence scenes. They are something of a "meta mechanic"; although they can be thought of as luck or extra effort - and, in fact, are used that way at times - what they really are is a tool to give players more control over their character's fates and the story.
 
-Each campaign starts with a number of Drama Dice equal to 2 + 1 for each player. The total pool of Drama Dice increases as characters [Advance](Advancement.md), with a final limit of 10 dice. All of the dice in the pool are d6s.
+By default, a game starts with a Drama Dice pool equal to twice the number of players.
 
 ## Pulling Drama Dice
 
-At any time, a player can pull up to two Drama Dice into a check. These dice are rolled and counted for Successes/Failure normally. In this way, Drama DIce function as flashes of inspiration, luck, or any arbitrary improvement in circumstance.
+At any time, a player can pull Drama Dice into a check. These dice are rolled and counted for Successes normally. In this way, Drama Dice function as flashes of inspiration, luck, bizarrely specific knowledge, or any arbitrary improvement in circumstance. You can pull as many dice as you'd like, but remember: the Drama Dice are a *shared resource pool*, so dice you take won't be available for other players.
 
-This can used for checks where the character doesn't have any characteristics they can pull into the check, allowing them a chance to do something they have no idea how to do.
+This can used for checks where the character doesn't have any [Characteristics](Characteristic.md) they can pull into the check, allowing them a chance to do something they have no idea how to do.
 
-## Spending Drama Dice
+## Burning Drama Dice
 
-Players may also spend Drama Dice to try to affect a scene. When using a Drama Die in this way, the player describes the change they want to make, and then rolls the die. On any result of 4+, everything proceeds as planned.
-
-On a 1 to 3, what the player described still happens, but with a twist that makes it more complicated, interesting, or perhaps a bit less helpful than the player would have hoped.
-
-Using a Drama Die to affect a scene in this way can take many forms:
+Players may also Burn Drama Dice to try to affect a scene. When using a Drama Die in this way, the player describes the change they want to make, and the die is removed from the pool. Using a Drama Die to affect a scene in this way can take many forms:
 
 - It can allow the player to describe a brief flashback of them anticipating the situation and preparing for it
   - *Of course I have a pocket knife. They always tie you up.*
@@ -28,8 +24,14 @@ Using a Drama Die to affect a scene in this way can take many forms:
   - *Suddenly the light bulb flashes and goes out!*
 - And so on
 
-Although the GM can overrule any scene-altering Drama Dice usage, they are encouraged to only do so under the rarest of circumstances, reserving veto power for when the request is impossible or disruptive to the game.
+The changes must be limited in scope, and cannot cause a massive disruption of the narrative or directly harm characters or NPCs. Changes can only add to a scene, and should have immediate effect.
 
 ## Gaining Drama Dice
 
-REWRITE
+At the start of each session, the Drama Dice pool is increased to 1 per player if it is below that total. Beyond that, there are several ways to add dice to the pool:
+
+- Any time a character receives a Perk, they can increase the Drama Dice pool instead
+- Any time a PC takes a Wound, add a die to the Drama Dice pool
+- Any time a player rolls more than 3 successes on a single check, add 1 die to the Drama Dice pool. If they roll more than 5 successes, add two dice
+
+Regardless of the above, the Drama Dice pool cannot be larger than 2x the number of players.

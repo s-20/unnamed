@@ -2,46 +2,32 @@
 
 To create a character:
 
-1. **Character Concept and Origin**: Come up with and discuss your character concept during [Session Zero](SessionZero.md). Determine your character's [Origin](Origin.md) now.
-2. **Aspects**: Take Five [Aspects](Aspects.md) that help define your character in a broad sense. You can take the same Aspect more than once, but you must have at least two different Aspects.
-3. **Traits**: Select 10 [Traits](Traits.md) that reflect your characters individual strengths; you can increase a Trait's [Stack](Stack.md) up to 5.
-4. **Talents and Skills**: Select 2 Talents and spend 15 [Skill](Skills.md) Points to buy stacks in Skills and Foci.
-5. **Connections**: Establish at least 4 different Connections using 10 Connection Points; if you can share a connection with or have a connection to another player's character, so much the better. Connections cannot start with a [Stack](Stack.md) above 5.
-6. **Special Abilities**: If your campaign has them, you should discuss your [Special Ability](SpecialAbilities.md) with the GM and the other players. Each Special Ability is defined individually, so work together to make something everyone will enjoy having in the game.
-7. **Details**: Select several [Details](Details.md) to round out your character. You should take at least 3, and can have as many as five. Details do not stack.
-8. **Complications**: Optionally, you may add [Complications](Complications.md) to the character. Although not required, these provide opportunities to gain [Perks](Perks.md), [Drama Dice](DramaDice.md), and bonus [Adjustment Points](AdjustmentPoints.md).
-9.  **Final Notes** - *Before Session 1*: Finalize your character's background and expand on it as far as you'd like; make sure you share it with the GM. It doesn't have to be a novel - a paragraph or two is plenty. Tell players whose characters have connections to your character stuff they should know about your character. Make sure you haven't forgotten anything. Have fun!
+1. **Character Concept and Aspects**: Come up with and discuss your character concept during [Session Zero](SessionZero.md). Select two different [Aspects](Aspects.md) related to this concept.
+2. **Baseline Characteristics**: Distribute 15 ranks between [Traits](Traits.md), [Skills](Skills.md), and [Connections](Connections.md). You cannot have more than 3 [Stack](Stack.md) in any one [Characteristic](Characteristic.md) at this point, and you must spend at least 3 ranks in Traits. If you have a Stack of 3 in a Skill, select a free [Focus](Foci.md).
+3. **Knacks**: If your campaign has them, you should discuss your [Knack](Knacks.md) with the GM and the other players. Each Special Ability is defined individually, so work together to make something everyone will enjoy having in the game.
+4. **Snags (optional)**: Add [Snags](Snags.md) to the character.
+5. **Adjustment**: At this point, you gain 5 [Improvements](Improvement.md) to use as you like
 
 ```plantuml
 @startuml
 start
 :Establish Campaign Parameters;
-:Define an Origin;
-:Take 5 Aspects;
-:Take 10 Traits;
+:Take 2 different Aspects;
+:Divide 15 ranks between certain Characteristics;
 note right
-<b>Traits</b> can be //Stacked// (up to 5)
-Stacking indicates greater ability
+<b>Characteristics</b> can be //Stacked// up to 3
+At least 3 ranks <b>must</b> go into <b>Traits,/b.
 end note
-:Take 2 Talents;
 note left
-<b>Talents</b> do not //Stack//
-You can trade 1 Talent for 5 Skill Points
+The <b>Characteristics</b> are:
+<b>Traits</b> - core abilities of the character
+<b>Skills</b> - things a character knows how to do well
+<b>Connections</b> - people, places, and things
+that tie the character to the world
 end note
-:Spend 15 //Skill Points//;
-note right
-<b>Skills</b> cost 1 point per //Stack// up to 5
-end note
-:Establish at least 5 Connections;
-note left
-<b>Connections</b> //Stack// up to 5
-end note
-:Determine Special Abilities;
+:Determine Knacks;
 note: Not availabe in all campaigns
-:Select Details;
-://Optional//: Take Complications;
-:Set Wound Threshold and Energy Pools;
-:Flesh out background;
+://Optional//: Take Snags;
 :Tell other players what they need to know;
 :Have Fun!;
 @enduml

@@ -73,3 +73,15 @@ There will probably eventually be a comprehensive list of foci for each skill; u
 | **Technology** | Computers<br>Electronics<br>Security systems<br>et cetera | You are familiar with the use and perhaps construction of types of technology. |
 | **Thievery** | Lockpicking<br>Safe cracking<br>Stealth<br>etc. | The character is familiar with the general skillset of thieves and cat burglars. |
 | **Trade (Craft or Profesion)** | Carpenter<br>Blacksmith<br>Game designer<br>Lawyer<br>Merchant | The character is well versed in a particular trade or craft. |
+
+____
+
+ 	#ac70ff
+
+     #52FFBD
+
+     hsl(157,100%)
+
+     #AC70FF
+
+     265
