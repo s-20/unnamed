@@ -1,6 +1,6 @@
 # Foci
 
-Foci are highly specialized versions of Skills. Although you can take them as standalone [Characteristics], they are most commonly gained as a bonus for having a [Stack](Stack.md) of 3 or more in a single [Skill](Skills.md).
+Foci are highly specialized versions of [Skills](Skills.md). Although you can take them as standalone [Characteristics](Characteristic.md), they are most commonly gained as a bonus for having a [Stack](Stack.md) of 3 or more in a single [Skill](Skills.md).
 
 ## Using Foci
 
@@ -12,7 +12,7 @@ You can gain a Focus in three ways: as a Bonus for improving a Skill to a [Stack
 
 ### Bonus Foci
 
-If you increase a [Skill](Skills.md)'s Stack to 3, you gain a free Focus for that Skill.This happens automatically regardless of when the Skill's stack improves - during character creation, as an in-game [Award](Award.md), or through [Improvement](Improvement.md).
+If you increase a [Skill](Skills.md)'s Stack to 3, you gain a free Focus for that Skill. This happens automatically regardless of when the Skill's stack improves - during character creation, as an in-game [Award](Award.md), or through [Improvement](Improvement.md).
 
 Bonus Foci must be a directly related subset of the skill that gave you the bonus. For example, if you reach a Stack of 3 with the Close Combat skill, then Longsword is an acceptable focus, but Crossbow is not.
 

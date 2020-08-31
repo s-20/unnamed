@@ -12,9 +12,8 @@
 - Streamlined GMing
 - Basically ready for Playtest!
   - Not really, but the framework's there
-  - Under *heavy*, if sporadic, construction
+  - Under **heavy**, if sporadic, construction
 
 [The GitHub Page](https://github.com/s-20/unnamed)
-[Main Index](README.md)
-[Make a Character](CCSummary.md)
-[Character Sheet - WIP](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)
+[Core Rules](HBCore.md)
+[Character Creation](CCSummary.md)

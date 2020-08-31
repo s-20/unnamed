@@ -12,6 +12,6 @@ Connection Awards are fast and loose because Connections cannot usually be impro
 
 ## Focus Awards
 
-Sometimes a character can proove that they're good a a very particular thing just by doing it well multiple times. If a character does basically the same thing three or more times and gets three or more successes each time, it may be appropriate to give them a Focus Award.
+Sometimes a character can prove that they're good a a very particular thing just by doing it well multiple times. If a character does basically the same thing three or more times and gets three or more successes each time, it may be appropriate to give them a Focus Award.
 
 A Focus Award is identical to any other Focus.

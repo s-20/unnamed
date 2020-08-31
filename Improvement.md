@@ -15,8 +15,6 @@ The following guidelines are, therefore, a *suggestion*. Customize the awards to
 - One Improvement for completing a major co-operative goal
 - Two Improvements for completing a major Story Arc
 
-The one Improvement per session award can be safely ignored if the campaign is going to be a long one. This helps keep things from getting a bit too advanced too fast.
-
 ## Using Improvements
 
 Improvements are primarily used to - you guessed it - *Improve* a character, but that is not their only use. Improvements can also be used to buy [Perks](Perks.md) or restore [Drama Dice](DramaDice.md) at the start of a game session.
@@ -28,20 +26,21 @@ The primary use for Improvements is to advance a character, improving their [Cha
 Different Advancements have different Improvement costs:
 
 - 1 Improvement
-  - Gain a Detail
-  - Restore a damaged Connection by 1
+  - Gain a [Detail](Details.md)
+  - Restore a damaged [Connection](Connections.md) by 1
 - 3 Improvements
-  - Gain 1 stack in a new Trait or Skill
-  - Gain a Focus for a Skill with a stack of 3 or higher
+  - Gain 1 [stack](Stack.md) in a new [Trait](Traits.md) or [Skill](Skills.md)
+  - Gain a [Focus](Foci.md) for a Skill with a [stack](Stack.md) of 3 or higher
 - 5 Improvements
-  - Increase the Stack of a Trait or Skill with a total below 5 by 1
-  - Gain a Focus regardless of the stack (or existence) of a related Skill.
+  - Increase the Stack of a [Trait](Traits.md) or [Skill](Skills.md) with a total below 5 by 1
+  - Gain a [Focus](Foci.md) regardless of the [stack](Stack.md) (or existence) of a related Skill.
+  - Add a third Aspect during Character Creation
 - 10 Improvements
   - Gain an additional Aspect
 - Variable Cost
-  - Improve a Trait or Skill beyond a stack of 5: a number of improvements equal to the new stack size (so to improve from 6 to 7 would cost 7 Improvements)
+  - Improve a [Trait](Traits.md) or [Skill](Skills.md) beyond a [stack](Stack.md) of 5: a number of improvements equal to the new [stack](Stack.md) size (so to improve from 6 to 7 would cost 7 Improvements)
 
-If your character has an [Energy] Pool or Resource of some kind, you may also be able to improve it directly. This depends on the [Special Abilities](SpecialAbilities.md) in question and how they're being handled in a campaign, and should be tailored to the ability.
+If your character has an [Energy](Energy.md) Pool or Resource of some kind, you may also be able to improve it directly. This depends on the [Knack](Knacks.md) in question and how they're being handled in a campaign, and should be tailored to the ability.
 
 ### Buying Perks and Drama Dice
 
