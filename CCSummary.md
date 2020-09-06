@@ -19,7 +19,7 @@ note right
 At least 3 ranks <b>must</b> go into <b>Traits,/b.
 end note
 note left
-CHoose from these Characteristics:
+Choose from these Characteristics:
 <b>Traits</b> - core abilities of the character
 <b>Skills</b> - things a character knows how to do well
 <b>Connections</b> - people, places, and things
