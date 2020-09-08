@@ -19,13 +19,6 @@
 - To
 - Start
 
-## [Talents and Skills](https://s-20.github.io/unnamed/#/Skills)
-
-### Talents (select 2)
-
-- One
-- Two
-
 ### Skills (15 Skill Points)
 
 - One
