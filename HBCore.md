@@ -12,7 +12,7 @@ Sometimes things can go oddly, or the unexpected can crop up. If you roll more 1
 
 Mechanically speaking, characters in unnamed are made up of Characteristics. The four Primary characteristics are [Aspects](Aspects.md), [Traits](Traits.md), [Skills](Skills.md), and [Connections](Connections.md). When you use a Characteristic in a check, it is called "Pulling" the characteristic.
 
-!> The Supporting Cast of a game (the NPCs, in other words) don't usually have Characteristics. Instead, they have an [Action Pool](NPC_ActionPool.md), one or more [Talents](NPC_Talents.md), and maybe a [Special Ability](SpecialAbilities.md).
+> The Supporting Cast of a game (the NPCs, in other words) don't usually have Characteristics. Instead, they have an [Action Pool](NPC_ActionPool.md), one or more [Talents](NPC_Talents.md), and some [Stuff](Stuff.md).
 
 ### Aspects
 
@@ -50,7 +50,7 @@ More importantly, however, they open up role playing opportunities and options t
 There are a few other characteristics, listed below with links to their more complete descriptions.
 
 - **[Wound Threshold](WoundThreshold.md)**: Your character's capacity to survive physical trauma without falling unconscious or otherwise being mostly or completely incapacitated. By default, this value is 3.
-- **[Details](Details.md)**: Little things about the character that can come in handy in the rare occasion that they come up, usually worth extra [Effort](Effort.md)
+- **[Details](Details.md)**: Little things about the character that can come in handy in the rare occasion that they come up.
 - **[Tangles](Tangles.md)**: Things that make the character's life more difficult, although they can sometimes help you out in a strange way. Used primarily to regain [Drama Dice](DramaDice.md).
 - **[Stuff](Stuff.md)**: Things you always (or usually) have on you, things you rely on to ply your trade, and things that give you special bonuses of some kind.
 

@@ -13,4 +13,3 @@
 [GitHub Page](https://github.com/s-20/unnamed)
 [Core Rules](HBCore.md)
 [Character Creation](CCSummary.md)
-[Find Me](https://wheretofind.me/@s20)
