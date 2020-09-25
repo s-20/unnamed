@@ -1,8 +1,8 @@
 # Drama Dice
 
-Drama Dice are a shared pool of dice that players can use to accomplish goals or influence scenes. They are something of a "meta mechanic"; although they can be thought of as luck or extra effort - and, in fact, are used that way at times - what they really are is a tool to give players more control over their character's fates and the story.
+Drama Dice are a shared pool of dice that players can use to accomplish goals or influence scenes. They are something of a "meta mechanic"; although they can be thought of as luck or extra effort, what they really are is a tool to give players more control over their character's fates and the story.
 
-By default, a game starts with a Drama Dice pool equal to twice the number of players.
+By default, a game starts with a Drama Dice pool equal to 2 per person in the Game Group - players and GM.
 
 ## Pulling Drama Dice
 
@@ -28,10 +28,11 @@ The changes must be limited in scope, and cannot cause a massive disruption of t
 
 ## Gaining Drama Dice
 
-At the start of each session, the Drama Dice pool is increased to 1 per player if it is below that total. Beyond that, there are several ways to add dice to the pool:
+At the start of each session, the Drama Dice pool is increased by 2, up to the total number of people in the Game Group. Beyond that, there are several ways to add dice to the pool:
 
-- Any time a character receives a Perk, they can increase the Drama Dice pool instead
-- Any time a PC takes a Wound, add a die to the Drama Dice pool
-- Any time a player rolls more than 3 successes on a single check, add 1 die to the Drama Dice pool. If they roll more than 5 successes, add two dice
+- Any time a character receives a [Perk](Perks.md), they can increase the drama dice pool by 1 instead
+- Any time a PC takes a [Wound](WoundThreshold.md), add a die to the Drama Dice pool
+- If the pool is below 5, [Synergy](Synergy.md) can restore drama dice
+- Exceptional Role-play, cool actions, or something that advances the story significantly adds one or more dice to the pool
 
 Regardless of the above, the Drama Dice pool cannot be larger than 2x the number of players.

@@ -2,11 +2,11 @@
 
 The unnamed system is a Tabletop Role Playing Game (TTRPG) designed to be adaptable to nearly any genera of play. The idea is to establish a core system of rules that can then expanded as needed to cover genre conventions, but is playable nearly anywhere out of the box.
 
-The system itself is based on collecting d6 dice into Dice Pools, rolling those pools, and counting "[Effort](Effort.md)" - usually dice results of 5 or 6. The more [Effort](Effort.md) you get from a roll, the greater your success, and the more control you have over the outcome.
+The system itself is based on collecting d6 dice into Dice Pools, rolling those pools, and counting *[Effort](Effort.md)* - usually dice results of 5 or 6. More Effort is better.
 
-Sometimes things are difficult, and require a Minimum [Effort](Effort.md) - that is, a certain amount of [Effort](Effort.md) - before you can call what you did completely successful, although all checks yield results of some kind.
+Sometimes things are difficult, and require more than one Effort before you can call what you did completely successful, although all checks yield results of some kind. The Difficulty of a check (which a player may or may not know) tells you how much Effort you need to gather to completely succeed. The Difficulty is usually from 1 to 3, but may be as high as 5 or more in some games.
 
-Sometimes things can go oddly, or the unexpected can crop up. If you roll more 1s (called "Quirks") than you do [Effort](Effort.md), something strange or perhaps even harmful happens. If all your dice come up Quirks, then something happens to make your situation more difficult, and you fail at what you're doing unless that would impede the story. The actual *result* is up to the player, however - things went **very** wrong - but how?
+Sometimes things can go oddly, or the unexpected can crop up. If you roll more 1s (called *[Quirks](Quirks.md))* than you do [Effort](Effort.md), something strange or perhaps even harmful happens. If all your dice come up Quirks, then something happens to make your situation more difficult, and you fail at what you're doing unless that would impede the story. The actual *result* is up to the player, however - things went awry - but how?
 
 ## Characteristics
 
@@ -18,19 +18,25 @@ Mechanically speaking, characters in unnamed are made up of Characteristics. The
 
 Aspects are short phrases, usually limited to three words, that describe some major aspect of your character. A few examples might be "Damn Good Pilot", "Retired Police Detective", or "Elven Spellsinger". Aspects are used to cover things like professions, major talents, ancestry, and other such things that imply a wide range of expertise. An Aspect can be pulled into any check it seems to apply to.
 
-When you can pull an Aspect into a check, it does not provide dice. Instead, you can re-roll any Quirks that come up, with the new roll replacing the old one.
+An Aspect provides [Synergy](Synergy.md) to checks. You can also [Burn](Burn.md) an Aspect to add it to a check that already has an Aspect, granting more Synergy.
 
-### Traits and Skills
+### Traits
 
-[Traits](Traits.md) and [Skills](Skills.md) provide Dice for the pool. For example, if you have a Strength [Trait](Trait.md) of 2 and a Melee Combat [Skill](Skills.md) of 2, you could pull them both for a "power attack" and gain 4 dice for the check.
+[Traits](Traits.md) represent general areas of talent and baseline abilities. Specifically, it represents places where the character is especially talented; even 1 rank in a Trait is exceptional ability. If you pull a Trait for a check, you gain dice for the roll equal to your current ranks in that Trait.
 
-Although you can normally only use one Characteristic of each type, you can add an additional Characteristic to a check by [Burning it](Burn.md) - this provides additional dice, but at a cost.
+Although you can normally only pull one Trait in a Check, you can add an additional Trait to a check by [Burning](Burn.md) it.
+
+### Skills
+
+[Skills](Skills.md) represent areas of training and learned abilities or lore. Although ranks in a skill can represent a certain degree of natural talent, ranks generally indicate intentional training in that area. If you pull a SKill into a check, you gain dice equal to your ranks in the Skill.
+
+You can only pull one Skill into a check, and you cannot normally [Burn](Burn.md) skills. If you have 5 ranks in a useful related skill, however, you can claim [Synergy](Synergy.md).
 
 #### Foci
 
 [Foci](Foci.md) are a subset of [Skill](Skills.md)s; essentially, while [Skills](Skills.md) are broad and cover a lot of ground, a [Focus](Foci.md) is very specific. For example, while there is an Athletics [Skill](Skills.md) that covers all sorts of physical activity, a character might have a [Focus](Foci.md) in a particular sport.
 
-A [Focus](Foci.md) is pulled like any other characteristic, but it does not add dice. Instead, if you pull a [Focus](Foci.md) into a check, you gain [Effort](Effort.md) to your result if you roll at least one [Effort](Effort.md).
+Foci aren't exactly *pulled* into a check. Instead, they provide [Synergy](Synergy.md) for a check when they apply to the situation.
 
 ### Connections
 

@@ -8,17 +8,17 @@ There are four Meta-traits defined here, but Game Groups are encouraged to come 
 
 ## Lucky
 
-Some people are occasionally just lucky. They get through things not due to skill or natural ability, but because the winds of fate are at their backs. Of course, relying on luck can also backfire impressively. Luck can be pulled into any roll regardless of circumstance, and without explanation.
+Some people are occasionally just lucky. They get through things not due to skill or natural ability, but because the winds of fate are at their backs. Of course, relying on luck can also backfire impressively. Luck cannot be pulled and must be [Burned](Burn.md), but can be burned for any check at any time for any reason - or no reason at all. It can even be burned for a check where you've already burned another [Characteristic](Characteristic.md).
 
-For any check using Luck, quirks cancel successes at a one-for-one rate, and a failed check is a spectacular failure. You should describe how your luck turns against you in some impressive way. If it's your Turn in [Combat](Combat.md), your turn is over and you lose all remaining actions.
+For any check using Luck, you get a Quirk on a 1 or 2. If you don't get at least one Effort, you should describe how your luck turns against you in some impressive way. If it's your Turn in [Combat](Combat.md), your turn is over and you lose all remaining actions.
 
 ## Daredevil
 
 It happens all the time in the movies - that crazy character that runs charging into a hail of bullets, but comes out unscathed. A great example of this is Wyatt Erp in the movie Tombstone (and, at least according to legend, in real life) - in one scene, he walks out into a lake, completely surrounded, and guns down all his attackers without taking a single hit.
 
-The Daredevil trait can be pulled on any check where you deliberately put yourself into danger; if you're playing it safe in any way, like using cover, or there being a net below the tightrope, or you're wearing armor, you can't use the trait.
+The Daredevil trait can be pulled on any check where you deliberately put yourself into danger; if you're playing it safe in any way, like using cover, or there being a net below the tightrope, and so on, you can't use the trait.
 
-In order to pull Daredevil, you have to [Burn](Burn.md) it - your luck can't last forever! You don't gain the normal benefits of Burning a Trait, however - your ranks in Daredevil just go down.
+YOu cannot pull Daredevil, it can only be [Burned](Burn.md) - your luck can't last forever! You can Burn Daredevil even if you've burned another Characteristic for the check.
 
 ## Genre Savvy
 
@@ -30,6 +30,10 @@ You can use Genre Savvy whenever being genre savvy would be helpful, but you hav
 
 ## Dilettante
 
-You've picked up a lot of small, oddly specific skills and abilities over the course of your life. Once per scene, you can [Burn](Burn.md) Dilettante to gain dice equal to it's rank. Sometime in the past, you read about or experienced something similar, and can bring your knowledge to bear. Unlike other Traits, Dilettante doesn't recover from Burn after a scene. Instead, it recovers after a Story Arc - the GM lets you know when you get it back, but basically, the Trait recovers once you've completed a major story point.
+You've picked up a lot of small, oddly specific skills and abilities over the course of your life. You can [Burn](Burn.md) Dilettante to gain dice equal to it's rank. Sometime in the past, you read about or experienced something similar, and can bring your knowledge to bear.
 
-Have fun describing how you came across such a specific ability, but the planets will never align this way again, and you can't use this Trait twice for the same thing. Something, however small, is different next time, and makes your knowledge on the topic useless - unless, of course, you burn the trait again!.
+You must pull a [Trait](Traits.md) to use Dilettante in a check. You cannot pull a [Skill](Skills.md)  however - the Dilettante Trait takes the place of the Skill Characteristic in the check. If you wish, however, you can Burn an additional Trait or Aspect for the check.
+
+Dilettante can't be chosen to recover between scenes; it recovers after a Story Arc. The GM lets you know when you get it back, but basically, the Trait recovers completely once you've completed a major story point.
+
+Have fun describing how you came across such a specific ability, but the planets will never align this way again, and you can't use this Trait twice for the same thing. Something, however small, is different next time, and makes your knowledge on the topic useless - unless, of course, you burn the trait again!
