@@ -32,11 +32,11 @@ Special Effects have special uses in Combat. Depending on your weapon or how you
 
 ## Quirks
 
-[Quirks](Quirk.md) are little things that happen that make your efforts either less effective, or cause wrinkles in your plans. Any dice result of 1 counts as a Quirk (and sometimes higher values count as well). Quirks are normally ignored unless your Quirks exceed your Effort.
+[Quirks](Quirks.md) are little things that happen that make your efforts either less effective, or cause wrinkles in your plans. Any dice result of 1 counts as a Quirk (and sometimes higher values count as well). Quirks are normally ignored unless your Quirks exceed your Effort.
 
 ## What to Read Next
 
-- [Quirks](Quirk.md) explains what happens when you roll too many 1s.
+- [Quirks](Quirks.md) explains what happens when you roll too many 1s.
 - [Drama Dice](DramaDice.md) are a shared pool of dice that can be used in a variety of ways
 - [Combat](Combat.md) is referenced in this article a few times and is pretty important in some games
 - [Special Abilities](SpecialAbilities.md) can sometimes run off of extra Effort

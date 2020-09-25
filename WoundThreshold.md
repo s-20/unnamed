@@ -30,7 +30,7 @@ When you would take a Wound (unless it's unavoidable), you make a Wound Threshol
 
 Depending on how severe the incoming harm is, the check might be made with [Hard Dice](DiceTypes.md). If you get at least 1 success, you don't take the Wound. Reduce anything pulled into the check by 1 (as though you had Burned it) whether you succeed or not.
 
-You don't always get off without consequences, though - you may have a penalty or be somewhat disabled going forward, depending on what was going to hurt you. This could cost you a [Move](Combat.md) on your next turn, reduce a [Trait](Traits.md) because you got a bit battered, or some other effect. Rolling [Quirks](Quirk.md) increases the chance of having some sort of minor consequence like this.
+You don't always get off without consequences, though - you may have a penalty or be somewhat disabled going forward, depending on what was going to hurt you. This could cost you a [Move](Combat.md) on your next turn, reduce a [Trait](Traits.md) because you got a bit battered, or some other effect. Rolling [Quirks](Quirks.md) increases the chance of having some sort of minor consequence like this.
 
 ## Wound Consequences
 
