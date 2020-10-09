@@ -1,6 +1,6 @@
 # Origin
 
-**Origin is part of Step 1 of [Character Creation](CCSummary.md)**
+**Origin has been rolled into Aspects; if you're on this page, it's a mistake!**
 
 A Character's Origin is, at its most basic, a character summary. Character creation choices should flow organically from the Origin when at all possible.
 
@@ -25,7 +25,6 @@ When a character can bring the experiences of their origin to bear on a situatio
 - Origin can be "pulled" like a Trait, adding a die to the check
 - The successes for any [Drama Dice](DramaDice.md) added to a check related to the character's Origin are doubled
 - A Drama Die can be spent in a situation relating to a character's origin to gain one of the following benefits:
-  - Gain 2 stack in a special [Connection](Connections.md) related to the character's origin. This connection is strong, but it may be unreliable. The connection becomes unavailable after a time specified by the GM unless you spend [Adjustment Points](AdjustmentPoints.md) to make it permanent.
   - Re-roll any Quirks rolled on a check that included a die from the character's Origin; continue to re-roll until no quirks remain.
   - Add something to a scene related to the character's Origin that affects the plot in some way - invent a new Coming of Age ritual, add an ancient species enemy, add a historical detail to your Origin that's useful right now, and so on.
 

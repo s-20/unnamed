@@ -2,7 +2,7 @@
 
 ![logo](_media/icon.png)
 
-# an unnamed Flexible Roleplaying System <small>alpha 0.1</small>
+# an unnamed Flexible Roleplaying System <small>alpha 0.5</small>
 
 > Under **heavy**, if sporadic, construction
 

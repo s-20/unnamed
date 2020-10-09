@@ -15,7 +15,6 @@ Depending on your Campaign, you may need to do certain things to gain access to 
 - *Trait Requirement* - You may need to take one or more stack in a particular [Trait](Traits.md) or [Metatrait](MetaTraits.md).
 - *Connection Requirement* - Some Special Abilities require justification through [Connections](Connections.md); this might mean a Temporal Connection (Present at the Blue Event), a Personal Connection (Sensei Shi, Master of the Flying Fist), or anything else that makes sense in context. This will usually require a stack above 1.
 - *Complication Requirement* - The Special Ability might require you to take one or more Complications. For example, in the Marvel 616, Stigma: Mutant would be required if you got your powers from being a Mutant.
-- *Adjustment Point Requirement* - Finally, you might have to dedicate some or all of your [Adjustment Points](AdjustmentPoints.md) to gaining access to Special Abilities. It's usually best to use one of the preceeding methods instead of this one, but this might be aprropriate for buying individual Spells (Exploits, see below) or similar small additions.
 
 ## How Many do I Get?
 

@@ -8,11 +8,9 @@ Basically, Connections are important.
 
 ## Building Connections
 
-During [character creation](CharacterCreation.md), you get 4 free Connections, and you can buy more with Adjustment Points. You can use these connections to create four individual connections, or stack them for stronger ties.
+During [character creation](CharacterCreation.md), you can use the Build Points to buy Connections. These connections to create four individual connections. Connections are player defined, drawn from their character's background. There are a few general types (see Types of Connection, below), but they all boil down to a short phrase or sentence describing someone, something or some event in the world that the character has ties to.
 
-Connections are player defined, drawn from their character's background. There are a few general types (see Types of Connection, below), but they all boil down to a short phrase or sentence describing someone, something or some event in the world that the character has ties to.
-
-While [Creating your Character](CharacterCreation.md), you are asked to come up with 4 Connections. Technically, you can stack these, taking the same connection twice, but having more connections means a richer character. Connections should occur to you while you're coming up with your character's background.
+While you aren't required to take *any* connections, it's a good idea to Have at least a few. Having connections you share with other characters in the game can also facilitate both startup and continuing role play.
 
 ### During Game
 

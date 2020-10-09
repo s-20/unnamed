@@ -1,7 +1,5 @@
 # Aspects
 
-!> Selecting Aspects is Step 2 of [Character Creation](CCSummary.md)
-
 Aspects represent central strengths of your character. Whenever an Aspect applies to a check, it provides [Synergy](Synergy.md). If an Aspect has more than one rank, it provides that much Synergy. Unlike other [Characteristics](Characteristic.md), you can apply more than one Aspect to a check without using [Burn](Burn.md).
 
 Aspects aren't chosen from a list; they're player-defined and used to help describe the character as a person, and define their abilities. They can be used to reflect a character's heritage in games where there are options other than human, and can also be used as prerequisites for [Special Abilities(SpecialABilities.md). Although Aspects start with only one rank, they can be improved with experience.
@@ -9,8 +7,6 @@ Aspects aren't chosen from a list; they're player-defined and used to help descr
 Characters usually begin with 2 Aspects, and can have up to 3 ranks in any one Aspect. All characters have at least two different Aspects. Whatever Aspects you choose, they don't exist in a vacuum. In order to make them more useful, you should build the rest of your character with your Aspects in mind.
 
 If you're Utterly Charming, you should probably have some social skills, and should think about your [Connections](Connections.md). If you're a Practiced Thief, you should probably have the Skills to back that up.
-
-
 
 ## Defining Aspects
 
@@ -39,9 +35,11 @@ Sometimes things change over the course of a character's lifetime. People get ol
 
 At any point in a character's career, if it makes sense, the GM can approve an Aspect Shift. If this happens, it changes to a different but thematically similar Aspect. Practiced Thief might become Security Consultant; Fine Arts Major might become Has an MFA in Poetry.
 
-Aspect Shifts don't generally involve mechanical [Advancement](Advancement.md). Instead, the GM and the Player discuss the change, come to an agreement, and change the Aspect.
-
 If the shifting Aspect has more than one rank, it can all change at once, or it can be split into more than one Aspect with the ranks divided between them.
+
+## Burning Aspects
+
+Aspects don't usually need to be burned - you just apply whichever ones work. However, you can burn Aspects to avoid [Wounds](WoundThreshold.md), if they apply to the situation in some way.
 
 ## Character Creation: What's Next
 

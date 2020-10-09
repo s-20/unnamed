@@ -4,17 +4,9 @@ Complications are the little things in a character's life that make it more... i
 
 ## Gaining Complications
 
-Generally, Complications can be added to a character in two ways - either as part of character creation or through game play as part of the story.
+Generally, Complications can be added to a character in two ways - either as part of character creation or through game play as part of the story. Complications added during character creation are part of a character's history. Whether recent developments or things present since birth, they've had an effect on the character already.
 
-During character creation, you can add up to 5 Complications to a character, and most should have at least two. The first two Complications provide 2 [Adjustment Points](AdjustmentPoints.md) each, and the next three provide 1 Adjustment point each.
-
-Complications added during character creation are part of a character's history. Whether recent developments or things present since birth, they've had an effect on the character already.
-
-### Complications Gained in Play
-
-Bad things often happen to characters in role playing games. These bad things are usually shrugged off, or fade with some rest or magic or whatever. Sometimes, however, they have more lasting effect.
-
-During the game, things can happen to a character that leave lasting scars, be they physical or psychic. These are reflected in new Complications. One [Adjustment Point](AdjustmentPoints.md) is added whenever a character gets a new Complication.
+Complications gained during the game (after the inital adjustment period) are caused by events *in* game. Trauma can add a new phobia or PTSD, for example. However the Complications are gained, they operate the same way.
 
 ## Making Complications
 
@@ -62,7 +54,3 @@ In any case, whenever one of your Complications makes things more difficult or a
 Some complications can actually provide you benefits. Loved Ones can be asked for favors like a [Connection](Connections.md) (although they may not be reliable unles they're also a Connection). An honor code might give you strength when it's put to the test. A shared disorder can be a way to open up a dialogue.
 
 When you find yourself in a situation like this, you can pull a Complication for a check, gaining a die for the check. You cannot [Burn](Burn.md) a Complication.
-
-## Character Creation: What's Next
-
-For the next step in [Character Creation](CCSummary.md), you get 15 [Adjustment Points](AdjustmentPoints.md) to round out your character. These are added to any you already have.

@@ -2,7 +2,6 @@
 
 **[We have character sheets now!](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)** - DL the page and edit with any text or markdown editor!
 
-- [Adjustment Points](AdjustmentPoints.md) - one of the tools used to build and advance a character
 - [Advancement](Advancement.md) - improving the character through experience
 - [Aspects](Aspects.md) - a part of your character; something special about your character, or a focus of their concept; kind of like an extra-powerful Trait
 - [Burn](Burn.md) - Contains a compilation of rules concerning Burn
