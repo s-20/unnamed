@@ -2,9 +2,7 @@
 
 The unnamed system is a Tabletop Role Playing Game (TTRPG) designed to be adaptable to nearly any genera of play. The idea is to establish a core system of rules that can then expanded as needed to cover genre conventions, but is playable nearly anywhere out of the box.
 
-The system itself is based on collecting d6 dice into Dice Pools, rolling those pools, and counting *[Effort](Effort.md)* - usually dice results of 5 or 6. More Effort is better.
-
-Sometimes things are difficult, and require more than one Effort before you can call what you did completely successful, although all checks yield results of some kind. The Difficulty of a check (which a player may or may not know) tells you how much Effort you need to gather to completely succeed. The Difficulty is usually from 1 to 3, but may be as high as 5 or more in some games.
+The system itself is based on collecting d6 dice into Dice Pools, rolling those pools, and counting *[Effort](Effort.md)* - usually dice results of 5 or 6. Generally, one Effort is enough, but more Effort is better. The Difficulty of a check (which a player may or may not know) tells you how much Effort you need to gather to completely succeed. Difficulty can range from the default of 1 on up, but any check yields results of some kind, even if it's just a [Drama Die](DramaDice.md).
 
 Sometimes things can go oddly, or the unexpected can crop up. If you roll more 1s (called *[Quirks](Quirks.md))* than you do [Effort](Effort.md), something strange or perhaps even harmful happens. If all your dice come up Quirks, then something happens to make your situation more difficult, and you fail at what you're doing unless that would impede the story. The actual *result* is up to the player, however - things went awry - but how?
 

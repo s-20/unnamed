@@ -2,13 +2,13 @@
 
 Drama Dice are a shared pool of dice that players can use to accomplish goals or influence scenes. They are something of a "meta mechanic"; although they can be thought of as luck or extra effort, what they really are is a tool to give players more control over their character's fates and the story.
 
-By default, a game starts with a Drama Dice pool equal to 2 per person in the Game Group - players and GM.
+By default, a game starts with a Drama Dice pool equal to the number of players in the group.
 
 ## Pulling Drama Dice
 
-At any time, a player can pull Drama Dice into a check. These dice are rolled and counted for Successes normally. In this way, Drama Dice function as flashes of inspiration, luck, bizarrely specific knowledge, or any arbitrary improvement in circumstance. You can pull as many dice as you'd like, but remember: the Drama Dice are a *shared resource pool*, so dice you take won't be available for other players.
+At any time, a player can pull Drama Dice into a check. These dice are rolled and counted for Successes normally. In this way, Drama Dice function as flashes of inspiration, luck, bizarrely specific knowledge, or any arbitrary improvement in circumstance. This can used for checks where the character doesn't have any [Characteristics](Characteristic.md) they can pull into the check, allowing them a chance to do something they have no idea how to do by “lucking” into success.
 
-This can used for checks where the character doesn't have any [Characteristics](Characteristic.md) they can pull into the check, allowing them a chance to do something they have no idea how to do.
+Unlike [Characteristics](Characteristics.md), pulled Drama Dice are removed from the pool. For any given check, you can only pull one Drama Die, plus one if you have at least one rank of [Lucky](MetaTraits.md), but other players can pull a similar number of dice *for you* to add to the check. In fact, other players can pull dice to add to your check *even if you don’t pull any*.
 
 ## Burning Drama Dice
 
@@ -28,10 +28,10 @@ The changes must be limited in scope, and cannot cause a massive disruption of t
 
 ## Gaining Drama Dice
 
-At the start of each session, the Drama Dice pool is increased by 2, up to the total number of people in the Game Group. Beyond that, there are several ways to add dice to the pool:
+At the start of each session, the Drama Dice pool is reset to the number of players.
 
-- Any time a character receives a [Perk](Perks.md), they can increase the drama dice pool by 1 instead
-- Any time a PC takes a [Wound](WoundThreshold.md), add a die to the Drama Dice pool
+- If you roll no [Effort](Effort.md) on a check, add a die to the Drama Dice pool
+- Any time a PC takes a [Wound](WoundThreshold.md), add dice to the Drama Pool equal to that PC's current total Wounds.
 - If the pool is below 5, [Synergy](Synergy.md) can restore drama dice
 - Exceptional Role-play, cool actions, or something that advances the story significantly adds one or more dice to the pool
 

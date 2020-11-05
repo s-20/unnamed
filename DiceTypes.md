@@ -2,18 +2,6 @@
 
 The unnamed System uses a simple shorthand to tell you how your dice will work in a given roll. Most of the time, you're just rolling dice, or Normal Dice. For these rolls, you count any result of 5 or 6 as a success. The other dice are outlined below.
 
-## Simple Dice, Easy Dice, Hard Dice
-
-Simple dice work like normal dice, except you count a success on any result of 3+.
-
-Easy Dice work like normal dice, except you count a success on any result of 4+.
-
-Hard dice work like normal dice, except you count a success only on a result of 6.
-
-## Half Dice
-
-Half dice may be Simple, Easy, Normal, or Hard. Each success you get on Half dice only counts as one half of a success. You need at least on whole success before any count.
-
 ## Drama Dice
 
 [Drama Dice](DramaDice.md) are fully described in their own article. Drama Dice are a special pool of dice shared by the players and used to make modifications to checks, to add or change the scene in some way, and for other purposes.
