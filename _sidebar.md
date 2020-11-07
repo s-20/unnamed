@@ -7,7 +7,7 @@
 ## Vital Stuff
 
 - [Core Mechanics](HBCore.md)
-- [Character Creation](CCSummary.md)
+- [Character Creation](CharacterCreation.md)
 - [To-Do](To-Do.md)
 
 ----
