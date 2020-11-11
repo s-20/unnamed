@@ -54,7 +54,6 @@ The following options may not always be available, depending on the campaign [Pa
 - Add a Feature to a [Special Ability](SpecialAbilities.md)
 - Add one or more Exploits to a Special Ability; discuss with your Game Master how many would make sense based on the Sketch of the SA.
 - Improve a [Special Ability](SpecialAbilities.md)'s [Energy](Energy.md) pool. Again, the way the pool improves varies depending on the Special Ability; discuss this with your Game Master
-- Remove a [Complication](Complications.md)
 - Gain a new [Talent](Skills.md)
 
 <!-- tabs:End -->

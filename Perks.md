@@ -1,6 +1,6 @@
 # Perks
 
-Perks are special rewards gained for good roleplaying, primarily from facing your [Complications](Complications.md) or making sacrifices for your group. Perks are a powerful meta-tool that you can use to affect the story in your character's favor.
+Perks are special rewards gained for good role playing, primarily from facing your [Tangles](Tangles.md) or making sacrifices for your group. Perks are a powerful meta-tool that you can use to affect the story in your character's favor.
 
 ## Using Perks
 

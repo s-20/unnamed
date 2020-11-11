@@ -18,12 +18,12 @@ Parameters also establish tone, which is vital in generating a character concept
 
 ## Choose Characteristics
 
-Once you have a concept and perhaps some guided (or unguided) character history, you need to choose your Characteristics. These are the primary mechanical choices you make for your character that form the backbone of your character. CHaracteristics in unnamed are *descriptive* - that is to say, reading the characteristics on a sheet shoud readily give you an idea of what the character is about.
+Once you have a concept and perhaps some guided (or unguided) character history, you need to choose your Characteristics. These are the primary mechanical choices you make for your character that form the backbone of your character. Characteristics in unnamed are *descriptive* - that is to say, reading the characteristics on a sheet should readily give you an idea of what the character is about.
 
 There are four main Characteristics in a character:
 
-- [Aspects](Aspects.md) - major things that define your character in broad strokes and are tied into their identiy - both how they percieve themselves and how they are percieved by others.
-- [Traits](Traits.md) - Broad talents or abilites, like how strong, fast, or charismatic a character is.
+- [Aspects](Aspects.md) - major things that define your character in broad strokes and are tied into their identiy - both how they perceive themselves and how they are perceived by others.
+- [Traits](Traits.md) - Broad talents or abilities, like how strong, fast, or charismatic a character is.
 - [Skills](Skills.md) - Things a character knows how to do, through natural talent or training.
 - [Connections](Connections.md) - Ways in which the character is tied to the world around them - people they know and care about (or hate), significant events they were involved in or present for, organizations they belong to (or aspire to belong to), and so on.
 
@@ -31,7 +31,7 @@ There are also a few other Characteristics that we’ll be discussing later:
 
 - [Special Abilities](SpecialAbilities.md) - Typically superhuman abilities the character can exploit during the game, like super powers, magical training, psychic ability, or cybernetic implants. Not all games will use Special Abilities.
 - [Details](Details.md) - Little things that can be helpful or harmful to a character when they show up, but aren’t generally significant to their day to day life. Character’s don’t *need* Details, but they can help flesh out some concepts.
-- [Complications](Complications.md) - Things about a character that make their life more difficult. Complications can also come in hand upon occasion, however. Complications are a way to replenish [Drama Dice](DramaDice.md), but they aren’t required for every character.
+- [Tangles](Tangles.md) - Things about a character that make their life more difficult. Tangles can also come in handy upon occasion.
 - [Wound Threshold](WoundThreshold.md) - The character’s ability to survive injury. Although all characters use WOund Thresholds, they don’t actually change much from character to character most of the time.
 - [Energy](Energy.md) - A character’s connection to the sources of “energy” in a setting; Energy is a subset of SPecial Abilities. If you’re not using Special Abilities, you probably don’t need to worry about Energy.
 
@@ -39,9 +39,9 @@ A starting character gets two Aspects, and a pool of 20 Ranks to divide among Tr
 
 ### Aspects
 
-Aspects are specific to each character. It’s a short phrase, usually less than five words, describing major areas of experties, concepts, or other things important to a character. Some examples might include *Damn Good Pilot*, *Elfish Bladesinger*, *Smuggler with Connections*, *Professor of Archaeology at Miskatonic Collage in Arkham*, or *Genetically Enhanced Supersoldier*. In other game systems, Aspects might be represented by Character Classes, “Races”, Heritage, or other similar broad concepts.
+Aspects are specific to each character. It’s a short phrase, usually less than five words, describing major areas of expertise, concepts, or other things important to a character. Some examples might include *Damn Good Pilot*, *Elfish Bladesinger*, *Smuggler with Connections*, *Professor of Archaeology at Miskatonic Collage in Arkham*, or *Genetically Enhanced Supersoldier*. In other game systems, Aspects might be represented by Character Classes, “Races”, Heritage, or other similar broad concepts.
 
-Your character starts with two Aspects chosen and defined by you. Aspects should be straighforward and easy to interpret. They should be flexible as well, and apply to a number of situations, but not be so broad they apply to **every** situation. 
+Your character starts with two Aspects chosen and defined by you. Aspects should be straightforward and easy to interpret. They should be flexible as well, and apply to a number of situations, but not be so broad they apply to **every** situation. 
 
 If your parameters establish that there are non-human options for characters, and you elect to have such a character, at least one Aspect should involve the alternative Heritage (or whatever) in some way. For example, if your campaign has Androids as a possible character option, then at least one Aspect of an Android character should note this fact, but should also have some additional information. *Android* isn’t a good Aspect, but *Android Science Officer* is. *Hill Dwarf* isn’t enough, but *Apprentice Hill Dwarf Blacksmith* works well.
 
@@ -87,13 +87,11 @@ Details represent little things - personal quirks or affectations, bits of minor
 
 Check the [Details](Detais.md) page for more… er… details.
 
-#### Complications
+#### Tangles
 
-Complications are things that make your life a bit more difficult, or are otherwise drawbacks. They can be things like addictions, potentially deadly allergies (annoying allergies are more like Details), physical limitations (color blindness, having only one leg, asthma, etc.), psychological or mood disorders (clinical depression, phobias, use disorder, antisocial personality disorder), social/cultural complications, Enemies, outstanding warrants, or anything else that can come up occasionally to make things more difficult.
+Tangles are things that make your life a bit more difficult, or are otherwise drawbacks. They can be things like addictions, potentially deadly allergies (annoying allergies are more like Details), physical limitations (color blindness, having only one leg, asthma, etc.), psychological or mood disorders (clinical depression, phobias, use disorder, antisocial personality disorder), social/cultural complications, Enemies, outstanding warrants, or anything else that can come up occasionally to make things more challenging.
 
-You, the GM or any Player at the table can invoke one of your Complications, reducing the [Effort](Effort.md) from your check by 1, or causing some other problem with what you’re doing. When this happens, a [Drama Die](DramaDice.md) is added to the pool regardless of the result of the check.
-
-You can have up to five Complications to start, but like Details, it might be better to wait and see what fits in with your character after the game starts. See the [Complications](Complications.md) page for more details.
+Take a few Tangles to start, but no more than five or six. You can put more than one rank in an individual Tangle if it is especially onerous or intense. In a longer campaign, You can also wait and see what fits best with your character after you start, adding in a few Tangles in the first two or three sessions of play. See the [Tangles](Tangles.md) page for more details.
 
 #### Wound Threshold
 

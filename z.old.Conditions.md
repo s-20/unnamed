@@ -4,7 +4,7 @@ Conditions are generally temporary but ongoing problems or benefits that a chara
 
 Most conditions are backed up by game mechanics. In addition, it can be fun to actively role-play a Condition. FOr example, a Dazed character could act sort of out of it, responding slowly to inquiry.
 
-## Duration and Stack
+## Duration
 
 By default, Conditions last until the end of your next turn in Combat (or other per-round conflict), or for 1 minute otherwise. Some Conditions have longer durations, and others have specific requirements to come to an end.
 
@@ -36,15 +36,15 @@ Negative Conditions are things you generally try to avoid, and are disadvantageo
 
 ### Negative Condition List
 
-| Condition | Effect |
-| --- | --- |
+| Condition        | Effect  |
+| ---- | ---- |
 | Affliction | The character is taking continuing damage from some source. They could be bleeding out, on fire, doused in acid, etc. They gain 1 Wound per round in combat, or 1 wound per minute ( or faster, at GM discretion) out of combat. This condition covers multiple "sub-conditions" - bleeding, burning, suffocating, etc. - that are mechanically identical, but are ended in different ways. |
 | Dazed | The character is distracted, stunned, or dazed in some way, or may be mystically slowed down, or some similar effect. In combat, they lose 1 Action per round. |
-| Dying | See [Death](Death.md) for more information on this Condition.  |
+| Dying | See [Death](Death.md) for more information on this Condition. |
 | Enraged | In combat you deal 1 additional wound with every melee attack, but you lose dice equal to the stack on any defensive check, or any check requiring clear thought or concentration. |
-| Fear | The character is afraid to the point that they have difficulty acting normally. They usually try to get away from the object of their fear, and they lose 1 die on any checks made to approach or interact with the object of their fear per stack. With a stack of 3+, they're panicked and must flee, run around in a mad fugue, or shut down completely, paralyzed with fear. |
-| Illness | The character has a disease of some kind. They suffer effects specific to the illness. This is intended for acute infections; chronic afflictions are better handled with [Complications](Complications.md) |
-| Impaired (Sense) | One of the character's senses is weak or unavailable. Any checks made to notice things with the affected sense are made with 2 fewer dice. If this reduces the pool to 0, then the character simply doesn't notice anything with that sense. |
-| Poisoned | This condition is a catch-all for poisons, toxins, and venom. You suffer effects specific to the poison you're dealing with. |
-| Reeling | You've been severely injured. Reduce all dice pools by 1. |
-| Unconscious | The character not conscious, and cannot take any actions. In some circumstances, this Condition can be ended by slapping the character, making a loud noise, or otherwise doing something to bring them around. |
+| Fear             | The character is afraid to the point that they have difficulty acting normally. They usually try to get away from the object of their fear, and they lose 1 die on any checks made to approach or interact with the object of their fear per stack. With a stack of 3+, they're panicked and must flee, run around in a mad fugue, or shut down completely, paralyzed with fear.            |
+| Illness          | The character has a disease of some kind. They suffer effects specific to the illness. This is intended for acute infections; chronic afflictions are better handled with [Complications](Complications.md)                                                                                                                                                                                 |
+| Impaired (Sense) | One of the character's senses is weak or unavailable. Any checks made to notice things with the affected sense are made with 2 fewer dice. If this reduces the pool to 0, then the character simply doesn't notice anything with that sense.                                                                                                                                                |
+| Poisoned         | This condition is a catch-all for poisons, toxins, and venom. You suffer effects specific to the poison you're dealing with.                                                                                                                                                                                                                                                                |
+| Reeling          | You've been severely injured. Reduce all dice pools by 1.                                                                                                                                                                                                                                                                                                                                   |
+| Unconscious      | The character not conscious, and cannot take any actions. In some circumstances, this Condition can be ended by slapping the character, making a loud noise, or otherwise doing something to bring them around.                                                                                                                                                                             |

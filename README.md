@@ -17,5 +17,5 @@ It's a work in progress, but feel free to let me know what you think. For the re
 
 You can find a [larger Index here](UnnamedIndex.md), but these links should help you get started:
 
-- [Character Creation](https://s-20.github.io/unnamed/#/CCSummary)
-- [Core Rules](https://s-20.github.io/unnamed/#/HBCore)
+- [Character Creation](https://s-20.github.io/unnamed/#/CharacterCreation.md)
+- [Core Rules](https://s-20.github.io/unnamed/#/Core.md)

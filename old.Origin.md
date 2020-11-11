@@ -27,7 +27,3 @@ When a character can bring the experiences of their origin to bear on a situatio
 - A Drama Die can be spent in a situation relating to a character's origin to gain one of the following benefits:
   - Re-roll any Quirks rolled on a check that included a die from the character's Origin; continue to re-roll until no quirks remain.
   - Add something to a scene related to the character's Origin that affects the plot in some way - invent a new Coming of Age ritual, add an ancient species enemy, add a historical detail to your Origin that's useful right now, and so on.
-
-## Character Creation: What's Next
-
-The next step in [Character Creation](CCSummary.md) is to select 2 [Aspects](Aspects.md).

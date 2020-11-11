@@ -8,15 +8,66 @@ You create a skill by combining an Adjective or Verb (what you can do) and a Nou
 
 ### Adjectives and Verbs
 
-The first word in a Skill is either an Adjective or a Verb, and describes what the skill *does*. So a skill that started with Close would be usable on things nearby, Know means you have a significant amount of information at your disposal, and Create or Craft mean you know how to make something.
+The first word in a Skill is either an Adjective or a Verb, and describes what the skill *does*. So a skill that started with Near would be usable on things at [Near Range](Combat.md), and Famous would involve things that are well known to many, although “well known to everyone” and “well known to D&D Gamers” both involve fame.
 
-The following list is not exhaustive - you can add to it as appropriate to your game or character, but these should cover a lot of ground, so try to stick to them if you can:
+The following list is not exhaustive - you can add to it as appropriate to your game or character.
 
-- Close
-- Craft/Create
+- Careful
+- Charismatic
+- Collective
+- Covert
+- Create
 - Distant
+- Explosive
+- Engineer
+- Famous
+- Fix
+- Forceful
+- Historical
+- Linguistic
+- Martial
+- Natural
+- Near
+- Notice
+- Obscure
+- Occult
+- Operate
+- Religious
+- Scientific
+- Technological
 
 ### Nouns
+
+Nouns represent *what the skill applies to*, and is the second word in the skill name. So skills with the Sabotage noun would involve breaking things, and skills with the Combat noun are probably useful in, well, [Combat](Combat.md).
+
+This list isn’t exhaustive, and can be expanded to include setting-specific things or any other noun that covers something you want, but isn’t here.
+
+- Animal
+- Art
+- Assassination
+- Combat
+- Computer
+- Deception
+- Knowledge
+- Lore
+- Negotiation
+- Pilot
+- Plant
+- Research
+- Sabotage
+- Security
+- Technology
+- Theft
+- Vehicle
+
+#### Sample Skills
+
+**Careful-Deception** - You are skilled at lying or otherwise misleading without getting caught.
+**Covert-Research** - You are skilled at doing research without others knowing what you’re up to, or are skilled at doing research into covert ops or other such things, or both.
+**Occult-Sabotage** - You can either break stuff through occult means, or you can disrupt occult actions, etc.
+**Martial-Art** - You can look at this as meaning skill in *literal* Martial Arts (Pankration, MMA, Wu Shu, etc.), or a skill in military or combative artistry.
+**Scientific-Assassination** - The use of sciency stuff to kill people, or knowing how to destroy the reputation of a scientist or science-based organization or theory.
+**Linguistic-Lore** - You know a lot about languages, and probably speak more than a few.
 
 ## Focus
 
@@ -33,3 +84,7 @@ You gain a free Focus with your second rank in a Skill. You can take additional 
 ### Pulling Skills
 
 ### Burning Skills
+
+## Tags
+
+#charactercreation #skills

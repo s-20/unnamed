@@ -72,7 +72,7 @@ The point is that neither extreme - success or failure - can be used to derail t
 
 This Wiki is divided into different articles, most of them kept to the point and short. Just follow the links to any terms you don't know, and you'll find the rules governing them. There's also an index, either in the left sidebar (on desktop) or under the Hamburger menu on the bottom left (on mobile).
 
-My suggestion is to follow one of the links already present on this page, or dive right into [Making a Character](CCSummary.md).
+My suggestion is to follow one of the links already present on this page, or dive right into [Making a Character](CharacterCreation.md).
 
 If you're interested in providing feedback or you just want to follow the project, by far the best way is to do so on [Github](https://github.com/s-20/unnamed). You can file an Issue easily enough, and doing so is a big help. If you want to help in a more direct fashion, I can add you to the project, but I'm not really interested in getting more contributors until the game is in a more complete state.
 

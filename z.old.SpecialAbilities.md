@@ -114,7 +114,3 @@ If a group wants to add consistency to a game setting and make Special Ability c
 SA Packages should still be customized per character, making that particular version unique to the character, unless everyone with those abilities is identical in the setting. For example, an SA Package for Wizards in a Fantasy Setting might outline all the basic components of wizardry, but not the specific spells each wizard would have.
 
 SA Packages can also be used to pregenerate certain specific character alterations (like cyberware or magic items) that can be picked up along the way. Yes - in the unnamed System, magic items are considered Special Abilities.
-
-## Character Creation: What's Next
-
-The next step in [Character Creation](CCSummary.md) is to select up to 5 [Details](Details.md).

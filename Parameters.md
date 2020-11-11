@@ -6,9 +6,7 @@ All of this is stuff that you need hash out before every new campaign, and it's 
 
 ## Genre and Theme
 
-Genre and Theme are what sort of story the game is, and what it will deal with. Genera means what you think it means - science fiction, superheroes, and so on. It's about the milieu of the story and what basic tropes you can expect to see.
-
-Theme is a bit more difficult to describe, but it has to do with things like tone and perspective. Theme goes over what sort of topics may show up, including any potential Trigger Warnings for planned content.
+Genre and Theme are what sort of story the game is, and what it will deal with. Genera means what you think it means - science fiction, superheroes, and so on. It's about the milieu of the story and what basic tropes you can expect to see. Theme is a bit more difficult to describe, but it has to do with things like tone and perspective. Theme goes over what sort of topics may show up, including any potential Trigger Warnings for planned content.
 
 If someone is uncomfortable with something, they should speak up - gaming is meant to be fun, but no game is better than bad game.
 
