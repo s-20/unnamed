@@ -4,25 +4,29 @@
 
 [Github Project Page](https://github.com/s-20/unnamed)
 
-## Vital Stuff
+## Core Rules
 
-- [Core Mechanics](HBCore.md)
+- [Core Mechanics](Core.md)
 - [Character Creation](CharacterCreation.md)
-- [To-Do](To-Do.md)
 
 ----
 
 ## Index
 
 - [Advancement](Advancement.md)
-- [Aspects](Aspects.md)
 - [Burn](Burn.md)
 - [Characteristics](Characteristic.md)
-- [Combat](Combat.md)
-- [Complications](Complications)
+    - [Aspects](Aspects.md)
+    - [Details](Details.md)
+    - [Energy](Energy.md)
+    - [Connections](Connections.md)
+    - [Special Abilities](SpecialAbilities.md)
+    - [Skills](Skills.md)
+    - [Tangles](Tangles.md)
+    - [Traits](Traits.md)
+    - [Wound Threshold](WoundThreshold.md)
+- [Combat](Combat.md) *
+- [Challenge](Challenge.md)
 - [Drama Dice](DramaDice.md)
 - [Effort](Effort.md)
-- [Skills](Skills.md)
-  - [Foci](Foci.md)
-- [Traits](Traits.md)
-  - [Meta-Traits](MetaTraits.md)
+- [Stuff](Stuff.md)

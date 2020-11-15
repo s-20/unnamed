@@ -53,6 +53,12 @@ See [Meta Traits](MetaTraits.md) for more specifics.
 - **Genre Savvy**: You know all the signs to tell you what genre of "movie" you're in and what tropes will get you killed
 - **Dilettante**: You know quite a few very specific things - for instance, you might not know how to drive *per se*, but you know exactly how to operate an M1 main battle tank.
 
+## Custom Traits
+
+As you may have noticed, all of the traits listed above are just adjectives that one could use to describe a person’s ability. Jane is Strong, Todd is Erudite, Pat is Captivating, and JJ is Lucky. You can easily create new Traits if any of these don’t work for your vision of a character.
+
+The key to custom traits is to make sure they’re specific and have a clear meaning. Everyone knows what “Strong” means, and although “Dexterous” is a bit more nebulous, it’s still pretty clear. Captivating might look different to you than it does to your friends, but you can all come together on what it actually *means*. It’s absolutely vital that you and the GM can see eye to eye about what your custom trait means, but all the players at the table should be able to intuitively grasp what you mean when you say you’re pulling “Wiry” or “Insightful”.
+
 ## Tags
 
 #traits, #charactercreation

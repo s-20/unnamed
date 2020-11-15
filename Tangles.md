@@ -24,7 +24,7 @@ Making an Entangled check restores one [Drama Die](DramaDice.md) to the pool unl
 
 ### Entangled Scenes
 
-If your Tangle would be part of a scene (or *is* a part of the scene), call it immediately and add a [Drama Die](DramaDice.md) to the pool. Once the scene is Entangled, you have to role play it appropriately. At the end of the scene, add another Drama Die to the pool.
+If your Tangle would be part of a scene (or *is* the scene), call it immediately and add a [Drama Die](DramaDice.md) to the pool. Once the scene is Entangled, you have to role play it appropriately. At the end of the scene, add another Drama Die to the pool.
 
 As a side bonus, during an Entangled scene, you gain [Synergy](Synergy.md) for any Entangled checks.
 
@@ -32,4 +32,4 @@ As a side bonus, during an Entangled scene, you gain [Synergy](Synergy.md) for a
 
 If something happens that makes a Tangle no longer make sense or otherwise would remove it from your character, that Tangle is Resolved, or Untangled if you prefer. The Tangle might be removed or changed to a different related tangle - for example, if you have an enemy that you defeat, you lose your enemy Tangle; if in the process you discover that *they* had a boss, and you’re on their radar, the tangle might change into this new, probably more dangerous, enemy. And so it goes.
 
-If you resolve a Tangle during the game, add 2 dice to the [Drama Dice](DramaDice.md) pool. If you pick up a new Tangle, add 1 die to the Drama Dice pool. Either way, make any appropriate notes on your character sheet.
+If you resolve a Tangle during the game, add 2 dice to the [Drama Dice](DramaDice.md) pool and gain an [Advancement](Advancement.md). If you pick up a new Tangle, add 1 die to the Drama Dice pool. Either way, make any appropriate notes on your character sheet.

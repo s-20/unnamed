@@ -2,23 +2,48 @@
 
 Creating characters in unnamed isn’t a difficult process, but it can be an involved one. Put as plainly as possible, you come up with a concept in line with the campaign’s [Paramters](Parameters.md), choose a few [Characteristics](Characteristics.md), and determine what significant [Stuff](Stuff.md) your character has. If you have some sort of [Special Ability](SpecialAbilities.md), you also work that out with your GM and your Game Group. Done.
 
-This section goes into detail on the process, breaking things down into steps and explaining each step in detail. In the process, we’re going to also look at some basic mechanics and system conciets.
+This section goes into detail on the process, breaking things down into steps and explaining each step in detail. In the process, we’re going to also look at some basic mechanics and system conceits.
 
 ## Character Concept
 
-The first step in any character creation process for any tabletop roe playing game is to come up with a character concept - an idea of the character you want to play in the game. There are lots of ways to do this, but there are two main categories of concept creation - Guided Creation and Freeform Creation. Either group, however, requires setting up some expectations for the upcoming story. In the unnamed system, we call this Parameters.
+The first step in any character creation process for any tabletop role playing game is to come up with a character concept - an idea of the character you want to play in the game. There are lots of ways to do this, but there are two main categories of concept creation - Guided Creation and Free Form Creation. Either group, however, requires setting up some expectations for the upcoming story. In the unnamed system, we call this Parameters.
 
 ### Parameters
 
-Although the main article for Parameters can be found [here](Parameters.md), it’s worth going over how the directy impact character creation. Parameters are the framework of a given story. They involve general expectations, like scale, genre, setting, and so on. They also involve specific expectations of content, establishing safe topic matter, and getting everyone on the same page for the game.
+Although the main article for Parameters can be found [here](Parameters.md), it’s worth going over how they directly impact character creation. Parameters are the framework of a given story. They involve general expectations, like scale, genre, setting, and so on. They also involve specific expectations of content, establishing safe topic matter, and getting everyone on the same page for the game.
 
-Parameters are generally established with an open game group discussion. During this discussion, the group goes over the broad strokes of the upcoming game as described above, but in the context of Character Creation, the most important thing parameters do is tell you what sort of characters the group is going to play. The parameters of the campaign let you know if you’re going to be struggling survivors in a post apocolypse, superheroes, fantasy adventurers on a series of increasingly dangerous quests, or traders navigating a dangerous galaxy full of space pirates and hostile aliens.
+Parameters are generally established with an open game group discussion. During this discussion, the group goes over the broad strokes of the upcoming game as described above, but in the context of Character Creation, the most important thing parameters do is tell you what sort of characters the group is going to play. The parameters of the campaign let you know if you’re going to be struggling survivors in a post apocalypse, superheroes, fantasy adventurers on a series of increasingly dangerous quests, or traders navigating a dangerous galaxy full of space pirates and hostile aliens.
 
 Parameters also establish tone, which is vital in generating a character concept. Tone, in its simplest form, is how seriously you’re taking things in the game. A game might be goofy, deadly serious, or anything in between. As you move forward developing your character concept, keep the tone in mind. Your character idea for Frippy Jim McNippleton the Juggler might have a place in a goofy game set in a magical circus, but will be wildly out of place and disruptive in a grim zombie apocalypse. It *is* more about how you handle it than anything else, but some ideas might be happier in a different game.
 
+### Guided Creation
+
+With a Guided creation, players come together either as a complete group or one on one with their GM, and answer a series of questions about their characters before they pick any characteristics. The GM may have a ready list of these questions, or you might go around the table asking each other leading questions to help establish character backgrounds, abilities, and connections to one another and the world around them.
+
+During Guided creation, you can select your Characteristics as you go, building your character gradually until you run out of ranks to distribute (see below). This method allows you to create characters more organically, and can help the group cement the Parameters of the campaign in their heads.
+
+A few sample questions for a guided development might be:
+
+- You moved to Chicago within the last month. Why did you come?
+- Who are (or were) your parents? Do you have siblings?
+- Talk about an event in your past when you faced adversity, prejudice, or deadly danger.
+- Do you know any of the other characters? If so, how do you know each other?
+- Tell us about an NPC in your life.
+- What is your greatest skill? How did you learn how to do that?
+- Share an odd detail about your character - something eccentric or unusual that makes them stand out.
+- How does your character dress? Are they slobs, fastidious, or somewhere in between? Do they keep up with fashions, or are they more of the T-shirt and Jeans sort?
+- Describe one exceptional physical attribute concerning your character.
+- Name one thing your character loves, and one thing they hate.
+
+Any of these or other questions can be discussed well beyond a simple answer. For example, if asked who your parents are, don’t just say “Bob and Linda”. Talk about what they do (or did) for a living, how you get along with them if they’re still around, and so on.
+
+### Free Form Creation
+
+Free Form Creation is a bit more direct. After establishing Parameters, everyone gets their 20 Ranks to distribute and you go. You can (and should) still discuss your characters as you make them, of course, but there’s no guided conversation to bring out details. This method is good for when you want to get a quick start, or when people have a difficulties finding time to get together.
+
 ## Choose Characteristics
 
-Once you have a concept and perhaps some guided (or unguided) character history, you need to choose your Characteristics. These are the primary mechanical choices you make for your character that form the backbone of your character. Characteristics in unnamed are *descriptive* - that is to say, reading the characteristics on a sheet should readily give you an idea of what the character is about.
+Once you have a concept and perhaps some guided (or unguided) character history, you need to choose your Characteristics. These are the primary mechanical choices you make that form the backbone of your character. Characteristics in unnamed are *descriptive* - that is to say, reading the characteristics on a sheet should readily give you an idea of what the character is about.
 
 There are four main Characteristics in a character:
 
