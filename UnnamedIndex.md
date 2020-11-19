@@ -22,11 +22,10 @@
   - *[Session Zero](SessionZero.md)* - the first session of the game, where Parameters are established and (usually) characters are made.
 - [Skills](Skills.md) - a Characteristic; things you know how to do, usually through training
 - *[Special Abilities](SpecialAbilities.md)* - a Characteristic; abilities that go beyond human capabilities
-- [Stack](Stack.md) - a page explaining the game term "stack" and how stacks work in reference to dice pools.
 - *[Traits](Traits.md)* - a part of your character; broad areas in which your character has exceptional ability
   - *[Meta Traits](MetaTraits.md)* - special Traits that work differently from normal Traits
 - [Tangles](Tangles.md) - A [Characteristic](Characteristics.md); things that make your life more difficult or interesting. Tangles allow you to replenish [Drama Dice](DramaDice.md) and can provide other benefits in addition to “causing problems”.
-- [Unnamed System Core Rules](HBCore.md) - Contains the core dice mechanics of the system (Complete. Sort of.)
+- [Unnamed System Core Rules](Core.md) - Contains the core dice mechanics of the system (Complete. Sort of.)
 - [Wound Threshold](WoundThreshold.md) - a part of your character; how much harm you can sustain before unconsciousness or death
 - *[Your Stuff](Stuff.md)* - the Equipment article - getting stuff for your character and whatnot
 

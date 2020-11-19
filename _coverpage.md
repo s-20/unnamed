@@ -6,10 +6,10 @@
 
 > Under **heavy**, if sporadic, construction
 
-- Medium-weight rules
-- success-based d6 dice pools with fail-forward mechanics
+- success-based d6 dice pools
+- flexible means-what-it-says Charqacteristic system
 - Streamlined GMing
 
 [GitHub Page](https://github.com/s-20/unnamed)
-[Core Rules](HBCore.md)
-[Character Creation](CCSummary.md)
+[Core Rules](Core.md)
+[Character Creation](CharacterCreation.md)
