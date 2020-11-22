@@ -1,22 +1,14 @@
 # Combat
 
-Although designed for physical altercations, the combat system can be used to simulate other situations as well. Basically, any situation where tactics or an organized turn order would benefit play, you can haul out the combat system.
-
-In the rules outlined here, the focus is kept on the physical altercation stuff.
+Primarily geared towards physical altercations, Combat can be used to simulate other things - basically, any situation where tactics or an organized turn order would benefit play, you can haul out the combat system. In the rules outlined here, the focus is kept on the physical altercation stuff.
 
 ## General Principles
 
-The unnamed System uses a battle map for any full-scale combat. Minor skirmishes, on the other hand (any fight that should be resolved within a minute or so) are handled with an exchange of skill checks in the "theater of the mind" - that is, without maps an minis in your imaginations.
-
-This means that there are two kinds of combat - Descriptive or Quick descriptive ones called Skirmishes and full-on battles called Engagements. Each use their own rules and are designed for different circumstances.
-
-Each sort of combat and their most basic rules are described here. Both also have a more complete page of their own.
+There are two types of Combat - [Skirmishes](Skirmish.md) for small and fast events that can be resolved quickly to keep the plot moving, and [Engagement](Engagement.md), which involves multiple "rounds" and a specific turn order. Skirmishes usually just involve description and a few checks, while Engagement is a more elaborate setup using battle maps or range bands, multiple rounds with a turn order, and more rules to keep things organized and tactically interesting.
 
 ## Skirmish
 
-In movies, comics, and anime, there are frequently scenes, usually when the heroes are running down a corridor, when they briefly exchange fire/clash swords/whatever with some low-level thugs, robot gun turrets, and so on.
-
-These scenes provide a quick flash of action, but don't last long, and seldom result in injury to the protagonists. These are Skirmishes.
+In movies, comics, and anime, there are frequently scenes, usually when the heroes are running down a corridor, when they briefly exchange fire/clash swords/whatever with some low-level thugs, robot gun turrets, and so on. These scenes provide a quick flash of action, but don't last long, and seldom result in injury to the protagonists. These are Skirmishes.
 
 A Skirmish doesn't require a battle map, and is resolved with some quick description a a couple throws of the dice, usually a single exchange between the players and their opponents. Use the following steps:
 
@@ -28,42 +20,36 @@ A Skirmish doesn't require a battle map, and is resolved with some quick descrip
    - *I open up with my Gatling gun!*
 3. **Everyone Rolls**: Player pull their dice pools together, and the GM rolls a number of dice based on the difficulty of the encounter
    - If the players get more successes than the GM, they win the encounter, describe their victory, and continue
-   - If the GM gets more successes, the GM's dice pool is reduced by an amount equal to the successes rolled by the Players and some of the players resources are depleted - someone runs out of ammo, someone gets hurt, someone loses [Energy](Energy.md), etc.; describe what happens and return to Step 2.
+   - If the GM gets more successes, the GM's dice pool is reduced by an amount equal to the successes rolled by the Players and some of the players resources are depleted - someone runs out of ammo, someone sustains minor injury (but not usually a [Wound](WoundThreshold.md)), someone loses [Energy](Energy.md), etc.; describe what happens and return to Step 2.
    - If no one rolls any successes or there's a tie, the GM's dice pool is reduced by 2; go back to Step 2.
    - If there are [Quirks](HBCore.md) in the roll, something odd might happen. If any one character or the GM get *a lot* of quirks, then something big might happen, provided it keeps the story moving and doesn't hurt the players too much.
 
-And that's it - once the players get more successes than their opponents, you move on. You can take as much time with descriptions and such as you want, and players can use [Special Abilities](SpecialAbilities.md)/[Stuff](YourStuff.md) freely without [Energy](Energy.md) or other resource costs.
+And that's it - once the players get more successes than their opponents, you move on. You can take as much time with descriptions and such as you want, and players can use [Special Abilities](SpecialAbilities.md)/[Stuff](YourStuff.md) freely without [Energy](Energy.md) or other resource costs. Any [Burned](Burn.md) [Characteristics](Characteristics.md) are still Burned, and are reduced as the characters go on.
 
-Players can, of course, burn their Traits and so on if they like, but the whole idea is a quick, fun action scene where the players can show off a little with minimal risk on their way to something bigger - a big RP opportunity, or maybe an Engagement.
+The whole idea is a quick, fun action scene where the players can show off a little with minimal risk on their way to something bigger - a big RP opportunity, or maybe an Engagement.
 
-For more details, see [Skirmish Rules](Skirmish.md)
+For more details, see [Skirmish Rules](Skirmish.md).
 
 ## Engagement
 
-Full Engagements are for things like BBGs and their lieutenants or other bigger events.
+Full Engagements are for major conflicts and tactical maneuvering. In an Engagement, everyone should have something interesting to do every round. Teamwork, maneuvering, and tactics are all important.
 
-The idea here is to make it so that everyone has something interesting to do every round, and to make every round engaging for every player. Teamwork, maneuvering, and tactics are all important.
+A Full Engagement round uses the following structure:
 
-### Full Engagement Chart
-
-A Full Engagement round follows the following structure:
-
-```plantuml
-@startuml
-start
-:Set scene;
-:Determine Initiative;
-repeat :Round Begins;
-  :Declare Intent;
-  :Pull Dice;
-  :Resolve Round;
-  :Round Ends;
+- **Prepare** - The Engagement begins; the GM sets the scene and the Battle Map is set up or Range Bands are established. Unless they're surprised, all the characters get a brief window to maneuver, draw weapons, charge powers, and so on.
+- **Determine Initiative** - This can be established each round, or can be set at the begining and followed throughout the combat. Either way, players pull Characteristics for the Initiative Pool and everyone rolls, counting successes. Successes are spent to claim Turns in the combat. Once all the Turns are claimed, proceed.
+- **Start of Round** - Round-based Durations and effects are resolved.
+Round Begins
+Turn Begins
+Declare Intent
+Pull Dice
+Resolve Turn
+Round Ends
 repeat while (Is the fight over?) is (no)
-->yes;
-:Resolution;
+Resolution
 stop
-@enduml
-```
+
+See [Engagement](Engagement.md) for more details.
 
 ## Set Scene
 

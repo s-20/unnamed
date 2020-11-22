@@ -1,37 +1,36 @@
 # Burn
 
-Burn represents extra effort - pushing an ability to the point that it is exhausting to achieve a better result. Burning different [Characteristics](Characteristic.md) can provide different benefits, as detailed in the individual characteristic pages and below. Basically, though, burning a characteristic allows you to add more of a single type of characteristic to a check - buring a [Trait](Traits.md) allows you to pull an additional Trait into a check, and so on. How this affects the roll varies.
+Burn represents extra effort - pushing an ability to the point that it is exhausting to achieve a better result. Burning different [Characteristics](Characteristic.md) can provide different benefits, as detailed below. Typically, burning a characteristic allows you to add more of a single type of characteristic to a check - buring a [Trait](Traits.md) allows you to pull an additional Trait into a check, and so on.
 
 ## Burn Basics
 
-When you Burn a characteristic, you temporarily reduce its effectiveness, or lose access to it altogether. In exchange, you either gain more dice for the check or improve your chances of success in some other way.
+Burning a [Characteristic](Characteristics.md) can have a few different benefits, but only one benefit at a time. You can only burn an individual Characteristic once in a single check, and you can only burn one characteristic of each type per check. Burning a Characteristic temporarily reduces its rank by 1 after the check, to a minimum of 1. You cannot burn a Characteristic with a rank of 1 or less.
 
-Whenever you Burn something, its stack is temporarily reduced by one. If the stack is reduced to zero, you no can no longer gain dice when pulling that characteristic. This lasts until you get a chance to rest, or until you otherwise have a chance to recover in some way. The more burned characteristics you have, the longer it will take for you to recover, but any significant amount of downtime is often enough to recover everything.
+While some Characteristics have extra options or use special rules, whenever you burn a Characteristic, you gain one of the two following benefits:
 
-When you burn a Characteristic, any benefit you gain is based on the ranks you had *before* you burned it. For example, if you have the Trait Strength 4 and you choose to burn it for a check, you gain 4 additional dice for that check, and *then* your Strength is reduced by 1.
+- Add the Characteristic to a check even if you've already added a Characteristic of that type. For instance, you can burn a second [Trait](Traits.md) to pull it into a roll that already has a Trait pulled into it. The burned Characteristic must still *make sense* for the check.
+- If you roll enough [Effort](Effort.md) to overcome the difficulty, gain 2 additional Effort for the first burned characteristic, +1 for each additional burned characteristic.
 
-### Burning Aspects
+You cannot claim both types of benefit in a single check - the burn either lets you pull additional dice into the check, or it adds extra effort on a successful check.
 
-[Aspects](Aspects.md) aren't usually burned; instead, any Aspect that applies to a given check provides [Synergy](Synergy.md). However, you *can* burn an Aspect to avoid a [Wound](WoundThreshold.md). The Aspect has to apply to the situation in some way.
+## Burning Aspects
 
-### Buring Traits
+In addition to the benefits listed above, you can burn an [Aspect](Aspects.md) to avoid injury. If you would recieve a [Wound](WoundThreshold.md), you can burn an Aspect to negate the Wound. That doesn't mean you don't get hurt - it just means you don't get hurt *badly*, and so don't take a Wound.
 
-### Burning Skills
+If you're going to take more than one Wound, then burning an Aspect can reduce the number of Wounds recieved by 1. The Aspect doesn't need to be related to the wound you're recieving, but avoiding the wound has to be *plausible* - if you've been dipped in acid, you're going to get hurt, and burning an Aspect won't prevent all the damage.
 
-### Burning Connections
+## Burning Connections
 
-You can only burn [Connections](Connections.md) that represent individual people or organizations. When you do, you're pressuring them to do something they don't want to do or otherwise putting stress on the relationship.
+You can only burn [Connections](Connections.md) that represent individual people or organizations. When you do, you're pressuring them to do something they don't want to do or otherwise putting stress on the relationship. Doing so provides one of the benefits listed above normally, and it may also provide something more role play based, i.e. access to an exclusive event, a special weapon on loan, or a meeting with the CEO. There may also be negative roleplay consequences.
 
-Doing so provides the usual mechanical benefit (doubled successes), and it often also provides something more role play based, i.e. access to an exclusive event, a special weapon on loan, or a meeting with the CEO. The magnitude of the favor is usually limited by your stack with the Connection.
-
-Either way, you've put a strain on the relationship, and probably shouldn't push it. Calling upon the Connection at all before the Burn is removed permanently reduces its stack by 1. Trying to burn it again permanently reduces its stack to 0 - they're done with you.
-
-Connection stack lost this way cannot be restored without some sort of role play efforts on your part. You must demonstrate loyalty, get your job back, buy them flowers, or whatever it takes to get back in good graces. Depending on the situation, this may be impossible.
+Either way, you've put a strain on the relationship, and probably shouldn't push it. You can't usually burn a Connection twice in the same story - request are refused, or you piss them off so badly that they stop talking to you for a while if you try. The rank of a burned Connection may require extra time or some sort of role playing event to restore as well, depending on the nature of the initial burn.
 
 ## Recovering from Burn
 
-You recover one burned Trait or Aspect every time you pause for a few minutes rest, at the GM's discretion; An couple hours of down time may restore more. This down time can be spent doing anything that relaxes or energizes the character - sleep, video games, carousing, whatever.
-
-Sometimes, a specific activity may be required to restore a burn. FOr example, if you burn an endurance related trait, you might need a good night's sleep to recover it. If you burn a social trait, you might need some alone time, or the opposite - you might need a good party to recover!
+Burned Characteristics recover whenever it makes sense for them to do so. Generally, you can recover 1 rank to a single Characteristic at the end of each scene, and all burned Characteristics when you get a chance to rest for a while (a night's sleep, a few hours meditation, a week in hospital, etc.). You can also regain burned characteristics as a [Stunt](Stunts.md), and you can recover 2 burned Characteristics after [Combat](Combat.md) as soon as you get a chance to catch your breath - you don't get them back until you can recoup for a few minutes, so if you dive directly into a chase scene of something, you're still winded and don't ahve access to the lost ranks. 
 
 Burned Connections are a little different and are handled on a case-by-case basis. A day may be enough for some, while others might take weeks to forgive you. You might be able to accelerate the recovery with a gift, doing them a favor, or otherwise demonstrating that you are about them, value them, are loyal, et cetera.
+
+## Tags
+
+#core #effort #characteristics

@@ -4,22 +4,16 @@ Characteristics are the things that, collected together, define a character in m
 
 Each Characteristic type has its own article, and is described in brief here. Generally, only one Characteristic of each type can be pulled into a check, so even if you have three different Traits that could be used for a particular check, you can only pull one of them.
 
-## Aspects
+The Characteristics are divided into two groups - those you spend character creation ranks on and those you don't. All characters have equal access to all types of Characteristic during creation and play, but not all characters will have every type of characteristic. All characters *will* have **Aspects**, **Traits**, **Skills**, **Connections**, and **Wound Threshold**, however.
 
-Aspects
+The Characteristics are:
 
-## Traits
-
-## Skills
-
-## Special Abilities
-
-## Connections
-
-## Details
-
-## Complications
-
-## Wound Threshold
-
-## Energy
+- [Aspects](Aspects.md) represent things that make you special or a big deal, broad areas of expertiese, major talents, or some other *big deal* aspect of our character. Aspects are analogous to things like Class in other games, along with things like extreme wealth, exceptional talent, or other major character abilities. 
+- [Traits](Traits.md) are broad areas of talent of training, representing core abilities of a cahracter - things like if they're especially Strong or Charismatic or what have you.
+- [Skills](Skills.md) are things a character knows about or how to do. Skills are fairly broad, representing a significant area of expertise; more specific things are represented by sub-skills called Focuses.
+- [Connections](Connections.md) are things that tie yoru character to the world around them. Connections can be organizations you belong to, people you can count on, events you were present for, or places you are especially comfortable with or tied to.
+- [Wound Threshold](WoundThreshold.md) represents how much punishment you can take and how good you are at directly resisting harm. All characters start with the same number of ranks in this Characteristic (by default 3), but each character may have different resistances or notes that make their ability to avoid harm unique,
+- [Tangles](Tangles.md) are problem areas for the cahracter - disabilities, social problems, fears or other psychological troubles, enemies, and so on. Tangles can make your life more difficult, but they hel replenish [Drama Dice](DramaDice.md).
+- [Special Abilities](SpecialAbilities.md) are superhuman or supernatural abilities a character has access to. Things like superpowers, magic, psychic ability, and ultra-tech all qualify. Special Abilities are highly specific to individual characters, although a given setting may have established topes you need to follow. Not all games have Special Abilities, but in any game that has them, all characters have the same access to them. Special Abilities are often powered by their sub-characteristic, [Energy](Energy.md).
+- [Details](Details.md) are little quirks, affectations, or special notes that make a character truly unique. These are minor things that can, in edge cases, provide you a little boost, but are mostly here for flavor.
+- [Stuff](Stuff.md) isn't exactly a characteristic. Instead it's a list of things you have on you most of the time, a general description of your personal wealth, and notes about how you make your living.
