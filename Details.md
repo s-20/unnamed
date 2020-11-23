@@ -6,35 +6,34 @@ During Character Creation, you can add a few Details if you’d like, but you sh
 
 ## Creating Details
 
-Details represent very minor characteristics - things less broadly useful than even a [Focus](Skills.md). They're meant to add a few interesting twists to a character.
+Details represent very minor [Characteristics](Characteristics.md).  They're meant to add a few interesting and potentially useful twists to a character.
 
 Details should follow these guidelines:
 
 - *Specific* - A detail is a specific thing, like being exceptionally tall, or having one eye, or being a Manchester United fan
-- *Not obviously useful* - Details aren't a place to get one over on the system (let's face it - that's not hard to do). If something seems immediately and obviously useful, it might fit better as a [Focus](Skills.md), a [Connection](Connections.md), or some other [Characteristic](Characteristics.md). This doesn't mean it won't be useful, just that if you think it might come up several times in the campaign, it's not a detail.
-- *Minor* - Details are the little things. Even if something's specific and not obviously useful, if it's a big deal, it can't be a Detail. For example, if you're a clone, that's probably not a detail, except in a campaign where clones are common.
+- *Not obviously useful* - Details aren't a place to get one over on the system (let's face it - that's not hard to do). If something seems immediately and obviously useful, it should be some other [Characteristic](Characteristics.md). This doesn't mean it won't be useful, just that if you think it might come up several times in the campaign, it's not a detail.
+- *Minor* - Details are the little things. Even if something's specific and not obviously useful, if it's a big deal, it can't be a Detail. For example, if you're a clone, that's probably not a detail, except in a campaign where clones are common and being one isn't a big deal and doesn't provide any benefits or drawbacks.
+- *It isn't a [Tangle](Tangles.md)* - Details shouldn't be things that get you into trouble as a default state. "Bit of a problem drinker" might seem minor enough, but it's much more likely to cause problems than be helpful, and probably deserves to be a Tangle instead of a detail, for instance.
 
-### Example One: Terry Knows ALGOL
-
-Linda's character Terry is a white-hat hacker and a computer programmer. Linda thinks that a good quirk for Terry would be to know a specific Computer Language. They bounce the idea of C++ off their GM, but is (rightly) told that being fluent in one of the most ubiquitous object-oriented programming languages in history isn't a "detail" - it's just part of Terry's Operate-Computers skill.
-
-After a little research, Linda decides that Terry is fascinated with old, completely outdated computer languages. Linda tells their GM that Terry knows ALGOL.
-
-GM: What the hell is ALGOL?
-
-Linda: It's a dead computer language from the fifties and sixties.
-
-GM: Well alright then.
-
-So, on Terry's character sheet, they write down "Knows ALGOL".
-
-### Example Two: Iocane Powder
+### Iocane Powder
 
 Let's talk about The Princess Bride.
 
 Remember the scene when the Dread Pirate Roberts gets into a duel of intellect with Viccini? How he had spent years developing an immunity to the poison iocane, apparently just in case a situation like this came up?
 
 That's a Detail. Immunity or resistance to all poison is far too broad - that's probably a [Special Ability](SpecialAbilities.md) or a [Wound Threshold Note](WoundThreshold.md). Immunity or resistance to all snake venom, or to all neurotoxins, or to all synthetic poisons is likewise too broad. Immunity to one very specific poison works really well, though. My character is immune to Death Dust, or Black Lotus Powder, or iocane all work well. You can't use toxins that are widely consumed in a recreational capacity (alcohol, marijuana, etc.), just obscure or expensive individual poisons.
+
+### Lojban
+
+There's a [Constructed Language](https://en.wikipedia.org/wiki/Constructed_language) out there called [Lojban](https://en.wikipedia.org/wiki/Lojban); it's a language intended to be universal based on logical principles, and has a wonderfully complete grammar. It hasn't gained a lot of ground in the world, but it does have a few hundred (thousand?) speakers in the world. Knowing Lojban might make a quirky Detail for a character; it says something about them, could come in handy in a somewhat rare or bizarre circumstance, and provides no obvious general benefit on a day-to-day basis. If, however, during the game you run into a fellow Lojbanist, it could be *very* useful, establishing an immediate connection and common thread.
+
+Knowing Lojban is a neat Detail. [Language](Languages.md) are largely hand-waved in unnamed, but knowing a strange, obscure, or subculturally significant language is a Detail. In the Star Trek setting, knowing Kingon is just a part of your character's background. On modern day earth, it's a Detail.
+
+### Equipment Details
+
+We all know someone who always carries a pocket knife or a multitool. As indicated in the [Stuff](Stuff.md) article, if it makes sense for a character to always have a piece of equipment, then they probably have it. But if there's something small that you *always* have, that might be a detail. Depending on the tone of your game, having such a detail could give you access to such a thing *even if it doesn't make sense for you to have it* - like the character that, after being strip-and-cavity searched still has their trusty pocket knife.
+
+Things like this should generally not be useful as more than an improvised weapon, and should probably be small and easily missed. *ALways has a paperclip* is fine for most games. Larger things can work as details in sillier games - do you, perhaps, have a 
 
 ## New Details
 

@@ -32,81 +32,29 @@ For more details, see [Skirmish Rules](Skirmish.md).
 
 ## Engagement
 
-Full Engagements are for major conflicts and tactical maneuvering. In an Engagement, everyone should have something interesting to do every round. Teamwork, maneuvering, and tactics are all important.
+Full [Engagements](Engagement.md) are for major conflicts and tactical maneuvering. In an Engagement, everyone should have something interesting to do every round. Teamwork, maneuvering, and tactics are all important.
 
 A Full Engagement round uses the following structure:
 
 - **Prepare** - The Engagement begins; the GM sets the scene and the Battle Map is set up or Range Bands are established. Unless they're surprised, all the characters get a brief window to maneuver, draw weapons, charge powers, and so on.
 - **Determine Initiative** - This can be established each round, or can be set at the begining and followed throughout the combat. Either way, players pull Characteristics for the Initiative Pool and everyone rolls, counting successes. Successes are spent to claim Turns in the combat. Once all the Turns are claimed, proceed.
-- **Start of Round** - Round-based Durations and effects are resolved.
-Round Begins
-Turn Begins
-Declare Intent
-Pull Dice
-Resolve Turn
-Round Ends
-repeat while (Is the fight over?) is (no)
-Resolution
-stop
-
+- **Start of Round** - Attempts to throw off effects are made. Any new *Events* go into effect, and then Turn Order begins.
+- **Turn Begins** - An individual player's (or opponent's) turn begins with throwing off Turn based effects that have come to an end, and then declaring intent.
+- **Pull Dice and Make Checks** - Pull dice pools togather and make checks. You get 2 *actions*, or big things you can do - maneuver, attack, declare defense, and so on. Gather any dice pools you need and make your Checks, then note any [Burn](Burn.md) or otehr changes. Total your [Effort](Effort.md).
+- **Resolve Turn** - Describe what happens, and move minitures to where they belong or note changes to Range Bands. Declare the end of your turn. Any turn-based Effect durations that resolve this round end. Play passes to the next turn, going back to the Turn Begins phase above.
+- **Round Ends** - Once all turns are complete, resolve any End of Round effects. If the Engagement still has participants, go back to either Start of Round or Initiative, depending on whether you're doing initiative round-by-round or for the whole Engagement.
+- **Resolution** - Engagement ends, anything that needs to be wrapped up at the end of the Engagement (after-action reviews, noting a scene change, etc.) happens now. If the scene ends, players restore 2 Burned Traits as the adrenaline wears off.
+- 
 See [Engagement](Engagement.md) for more details.
 
-## Set Scene
-
-Everything starts with the GM setting the scene, describing the area and situation. Set up a battlemap, assign miniatures to those involved, and get things rolling.
-
-### Battlemaps
+### Battlemaps and Range Bands
 
 The battlemap is just a way to keep track of where everyone is in relation to each other, and where people are in relation to effects or events that take place over an area (Area Effects).
 
 This document refers to distances in "squares", referencing a 1 inch or 2 cm square grid, with each square usually representing 2 yards or 2 meters. That doesn't mean you have to use a square grid, though; there's nothing in the system that requires it. You can just as easily use a hex grid or even just measure distances as you would with wargaming miniatures. "Squares" is just a handy reference term.
 
-You also don't have to use a battlemap at all, if you can keep track of things in your head. Theater of the Mind battles are fine, and there's nothing in the rules here that specifically requires a map. A battlemap can help to end arguments about positioning before they start, and are a useful visualization tool, but they're not required.
+If you're not using Battle Maps, each player should track Range Bands - that is, where they are relative to one another. Ranges are divived into Immediate, Near, Far, Distant, and Tactical. See [Range Bands](RangeBands.md) for more details.
 
-## Determine Initiative
+## Tags
 
-The unnamed System divides turn order into groups depending on who is participating in the combat. Each "side" of the battle gets a turn. So if the players are together and fighting a single opposing force, the players get a turn and the enemies get a turn.
-
-Initiative for a group is usually determined by common sense, favoring the players. If it makes more sense for the opponents to go first, however, they go first.
-
-If you want to make it more random or divide up turns per player, players should pull dice for a roll. Instead of counting successes, however, you total the dice, with highest going first. The GM should roll the largest [dice pool](NPCs.md) among the NPCs.
-
-## Round Begins
-
-A round is divided into four parts: Declaration, Pull Dice, Resolution, and End. During each phase. all players get one (or possibly more) Actions - things they can do. What a player can do depends on the phase:
-
-- **Declaration**: Players declare their intents for the round, describing what they want to accomplish
-- **Pull Dice**: Players pull dice for the actions they intend to take. Players may only pull an individual [Aspect](Aspects.md) or [Trait](Traits.md) once in a round unless they [Burn](Burn.md) it.
-- **Resolution**: Players and GM roll dice and compare results. This isn't a contest like the Quick Engagement; see below.
-- **End**: Based on Resolution, describe what happens and make sure everyone is where they need to be for the next round. End of Round effects resolve/end.
-
-If, after the End Round step, there is no longer a battle to be had (all but one side is dead/unconscious/captured/has escaped, or all sides want to quit), then combat is over. Otherwise, return to Declaration and keep going.
-
-### Declare Intent
-
-Each round represents five to ten seconds of time (sometimes longer). During declaration, you can generally say you're doing anything that can be accomplished within that timeframe.
-
-Character actions aren't divided into discrete actions as such; instead, the players discuss their tactics and declare what they intend to do. As long as it's reasonable that the characters can do what they're trying to do in five to ten seconds, everything's fine.
-
-**Example:** *Jake wants to providing covering fire for Kara while she tries to close with the vampire. Once she gets to the vampire, Kara wants to do a takedown move and attempt to stake him, while Jake turns his attention to providing suppressing fire to keep the vampire's minions away.*
-
-#### Intent Guidelines
-
-- A character can move about 6 squares (12 yards/meters) easily (there's some wiggle room there depending on what else you're trying to do). Moving further may have consequences - you might be easier to hit, or have to make a check, or lose dice on other checks you make
-- Characters that have combat skills can usually make more attacks (depending on the weapon) than those who don't
-- [Special Abilities](SpecialAbilities.md) may have limitations on usage within a round
-- As you declare intents, keep in mind the rules below under Pull Dice. What you do limits what else you can do in a round.
-
-### Pull Dice
-
-Once intent is declared, players pull the dice pools they'll need for the round. You may only use a given [Trait](Traits.md) or [Aspect](Aspects.md) once in a round unless you Burn it; Characteristics that are Burned can be used again, or can be used before they're burned.
-
-[Skills](Skills.md), on the other hand, can be used as many times in a rounds as is appropriate.
-
-### Resolve Round
-
-## End of Round
-
-### Victory
-
-## Resolution
+#core #combat
