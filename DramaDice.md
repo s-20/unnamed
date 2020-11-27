@@ -15,24 +15,30 @@ Unlike [Characteristics](Characteristics.md), pulled Drama Dice are removed from
 Players may also Burn Drama Dice to try to affect a scene. When using a Drama Die in this way, the player describes the change they want to make, and the die is removed from the pool. Using a Drama Die to affect a scene in this way can take many forms:
 
 - It can allow the player to describe a brief flashback of them anticipating the situation and preparing for it
-  - *Of course I have a pocket knife. They always tie you up.*
+  - *Before I left my house, I remembered that last time we weint investigating in a creepy old house, the bad guys tied us up - so I brought my pocket knife. Then, just before they searched us, I slipped it into John's sock.
 - It could forge a connection with an NPC that changes the circumstances of the encounter
-  - *Wait - is that guard my cousin?*
+  - *Wait - is that guard my cousin? Holy crap, it is!
 - It can add an object to the scene
   - *There's a chandelier I can swing from, right?*
 - It can cause some other coincidental event that helps the players
-  - *Suddenly the light bulb flashes and goes out!*
+  - *And that's when the power went out!*
 - And so on
 
-The changes must be limited in scope, and cannot cause a massive disruption of the narrative or directly harm characters or NPCs. Changes can only add to a scene, and should have immediate effect.
+The changes must be limited in scope, and cannot cause a massive disruption of the narrative or directly harm characters or NPCs. Changes can only add to a scene - you can't make things vanish that were already there. In short, they have to make narrative sense.
+
+When you "burn" a Drama Die in this way, the benefit comes from the scene rewrite, and you don't add dice to any checks. That having been said, it can create favorable circumstances that reduce the [Effort](Effort.md) required for a check, make a new task possible, or otherwise open up new opportunities that are beneficial, even if you don't get a bonus to a check.
 
 ## Gaining Drama Dice
 
 At the start of each session, the Drama Dice pool is reset to the number of players.
 
 - If you roll no [Effort](Effort.md) on a check, add a die to the Drama Dice pool
-- Any time a PC takes a [Wound](WoundThreshold.md), add dice to the Drama Pool equal to that PC's current total Wounds.
-- If the pool is below 5, [Synergy](Synergy.md) can restore drama dice
+- Any time a PC takes a [Wound](WoundThreshold.md), add a die to the Drama Pool
+- If a PC dies, add Drama Dice to the pool equal to the number of players,
 - Exceptional Role-play, cool actions, or something that advances the story significantly adds one or more dice to the pool
 
-Regardless of the above, the Drama Dice pool cannot be larger than 2x the number of players.
+There is no limit to the size of the Drama Dice pool, but it does reset at the start of each session, so it doesn't make sense to horde them!
+
+## Tags
+
+#core #dramadice
