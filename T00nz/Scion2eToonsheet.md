@@ -23,7 +23,7 @@
 **Notes**:
 
 ## Attributes
-|            | Mental    | Physical  | Social       |
+| Arena      | Mental    | Physical  | Social       |
 |------------|-----------|-----------|--------------|
 | Power      | Intellect | Might     | Presence     |
 | Finesse    | Cunning   | Dexterity | Manipulation |
