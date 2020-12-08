@@ -6,7 +6,7 @@ Challenges can be set by the GM as requirements, or they can be added into a che
 
 ## Required Challenge
 
-A Required challenge is the minimum amount of Effort needed for complete success. By default, all checks have a Required Challenge of 1. Failing to meet the Required Challenge doesn't always mean failure, particularly if failure would grind the game to a hault. It might mean that the action takes longer than expected, or is successful with a few caveats or twists (like, maybe picking the lock broke the mechanism, or the noise alerted nearby guards). Required Challenges must be met before Added Challenges.
+A Required challenge is the minimum amount of Effort needed for complete success. By default, all checks have a Required Challenge of 1. Failing to meet the Required Challenge doesn't always mean failure, particularly if failure would grind the game to a halt. It might mean that the action takes longer than expected, or is successful with a few caveats or twists (like, maybe picking the lock broke the mechanism, or the noise alerted nearby guards). Required Challenges must be met before Added Challenges.
 
 THe further you are from the required Challenge, the worse your results. So rolling no successes on a Challenge 1 check isn't as bad as it would be on a Challenge 2 check, and so on. The table below provides a guideline for setting required Challenges.
 
@@ -18,6 +18,7 @@ THe further you are from the required Challenge, the worse your results. So roll
 | 4                  | Requires high skill or talent |
 | 5                  | Requires mastery              |
 | 6                  | Requires mastery and luck     |
+
 Challenges above 3 should be rare. If you're making a check at all, that means that it by default represents difficulty, however. If something is trivial or well within your wheelhouse, you shouldn't be making a check at all. This is a judgement call, but generally for every 5 dice you can pull into a check, you can just not roll for 1 Challenge level - see [Overkill](Overkill.md) for more details.
 
 ## Added Challenge

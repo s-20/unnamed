@@ -14,9 +14,7 @@ You can also Burn Lucky to provide [Synergy](Synergy.md) to any other player’s
 
 It happens all the time in the movies - that crazy character that runs charging into a hail of bullets, but comes out unscathed. A great example of this is Wyatt Erp in the movie Tombstone (and, at least according to legend, in real life) - in one scene, he walks out into a lake, completely surrounded, and guns down all his attackers without taking a single hit.
 
-The Daredevil trait can be Burned to be added to any check where you deliberately put yourself into potentially deadly danger; if you're playing it safe in any way, you can’t pull the trait, so no nets under the tightrope or firing from cover if you want to use Daredevil. 
-
-You can’t just “pull” Daredevil unless you’re a.) putting yourself in deadly danger, and b.) you don’t have any other Trait that should be applied to the check.
+The Daredevil trait can be pulled or burned to be added to any check where you deliberately put yourself into potentially deadly danger; if you're playing it safe in any way, you can’t pull the trait, so no nets under the tightrope or firing from cover if you want to use Daredevil. 
 
 ## Genre Savvy
 
@@ -24,10 +22,4 @@ To quote [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy):
 
 > A Genre Savvy character doesn't necessarily know they're in a story, but they do know of stories like their own and what worked in them and what didn't. They may attempt to apply the lessons they've learned from movies, books, or other fiction to their own situation, or they may restrict themselves to snarky asides and observations.
 
-You can use Genre Savvy whenever being genre savvy would be helpful, but you have to describe the trope (or what have you) that you're referencing. Genre Savvy can be pulled or burned normally as a trait, and doesn’t have any real drawbacks, and it only qualifies as a meta trait because it’s *conceptually meta* rather than *mechanically meta*.
-
-## Dilettante
-
-You've picked up a lot of small, oddly specific skills and abilities over the course of your life. You can [Burn](Burn.md) Dilettante on any check you don’t have the right skill for, because sometime in the past, you learned how to/read about/experienced something that applies, and can bring your knowledge to bear. You can also pull Dilettante for general knowledge, trivia, and when telling stories of your exploits and travels.
-
-If you burn Dilettante for a check, you cannot also pull a Skill for that check (the whole point is that it’s for things you *aren’t* skilled at, except in this one very specific instance). As normal for a burned Trait, however, you can still pull a different Trait for the check.
+You can use Genre Savvy whenever being genre savvy would be helpful, but you have to describe the trope (or what have you) that you're referencing. Genre Savvy can be pulled or burned normally as a trait, and doesn’t have any real drawbacks; it qualifies as a meta trait because it’s *conceptually meta* rather than mechanically meta.

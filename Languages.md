@@ -24,3 +24,7 @@ A few things to note:
 Characters are literate unless the player decides they're not. Depending on the campaign, this might qualify as a [Tangle](Tangles.md); depending on the setting and [Parameters](Parameters.md) of a game, being illiterate might be a significant part of a character's background. A peasant in the year 1242CE being illiterate isn't a big deal, but being illiterate in 1980s England is a significant part of your character, and probably has a story attached to it.
 
 You can fix being illiterate the same way you learn a new language (see above). When learning a new language, if you're already literate, it's assumed you're working on literacy in the new language as well.
+
+## Languages as Details
+
+You could also treat languages as [Details](Details.md), giving them some mechanical heft. Details don't really have a cost, so this doesn't alter much. You can usually only benefit from these Details if knowing the language would impress someone, or if the language is dead and/or especially obscure. This can help if you want to take a less ambiguous, more granular approach to languages.

@@ -10,7 +10,7 @@ Difficulty is how hard something is to do with complete success - that is, how h
 
 The difficulty of a task is determined by the GM, although you are free to suggest a Difficulty if you think a task is especially difficult. Most of the time, Difficulty should be 5 or less, erring to the lower side. In some instances it may be higher, and there's technically no cap, but if a task seems like it would require more than 10 Effort, it might be better to just rule it as impossible.
 
-When figuring difficulty, the key is to remember that you're trying to guess how hard it is, not how hard it is for you or your character. A well made lock might have a Difficulty 3 to pick it. It doesn't get easier if you or your character are a locksmith, your character is just more likely to accomplish the task well.
+When figuring difficulty, the key is to remember that you're trying to guess how hard it is, not how hard it is for you or your character. A well made lock might have a Difficulty 3 to pick it - It doesn't get easier if your character is a locksmith, your character is just more likely to accomplish the task well.
 
 Another thing to note, however is that because characters are considered to be good at anything they have at least one rank in, they shouldn't be bothered with trivialities. In the above example, if time isn't an issue and you don't care about leaving a mark, then of course you can pick the lock - don't roll, just do it. It's Difficulty 0 to do a crap job at something you're good at. If you're in doubt, refer to the [Overkill](Overkill.md) rules.
 

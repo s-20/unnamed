@@ -8,13 +8,41 @@ Engagement is meant for large, climactic battles rather than for every fight you
 
 An Engagement is divided into three progressively smaller units of time:
 
-- a **Round** contains all the actions of all the PCs and NPCs over the course of a set period of in-game time. By default, a Round represents 5 seconds of in-game time. All the events of a round are happening more or less at the same time, but an order is enforced to make tactical choices easier to track and to keep things from descending into chaos.
+- a **Round** contains all the actions of all the PCs and NPCs over the course of a set period of in-game time. By default, a Round represents 5 to 10 seconds of in-game time.
 - a **Turn** is when an individual character takes their Actions. When it's your turn, you get two Actions to perform. When it's not your turn, you can use Reactions (a special kind of Action). You can use your actions for **Maneuvers**, **Attacks**, **Defenses** or **Concentration**. Turns can be divided either into Individual Turns (each character has their own turn tracked separately) or Group Turns (more than one character uses the same Turn, arranging their individual actions between them as they see fit). By default, PCs have Individual Turns and NPCs have a single Group Turn.
-- a **Phase** is a specific portion of a Turn. Each Turn has three Phases - Start, Declaration, and Resolution. You don't have to pay much attention to Phases, just be aware that they're there. Phases are especially helpful for complex tactics in a Group Turn, and are used to determine when durations start of end.
+- a **Phase** is a specific portion of a Turn. Each Turn has three Phases - Open, Declaration, and Resolution. You don't have to pay much attention to Phases, just be aware that they're there. Phases are especially helpful for complex tactics in a Group Turn, and are used to determine when durations start of end.
 
 ### Rounds
+
+A Round contains all the Actions taken by all involved in the Engagement, both PCs and NPCs. A Round usually represents 5 to 10 seconds of in-game time. While all of the events of a round are occurring more-or-less simultaneously, they are taken in an established order to keep things from descending into chaos and making tactical choices possible. 
+
+Before the start of the first round, Initiative is established with each character making a Check composed of a [Characteristics](Characteristics.md) that could give you a tactical advantage - usually [Traits](Traits.md) involved with physical speed/agility or quick thinking combined with [Aspects](Aspects.md) that indicate a familiarity with Combat and whatever your main combat-related [Skill](Skills.md) might be. More [Effort](Effort.md) means you go earlier in the initiative order. [NPCs](NPCs.md) don't roll Initiative, and instead have a set Initiative count, usually between 1 and 5, depending on how quick their reaction time is supposed to be. Ties with NPCs ususally go to the PC, and ties between PCs can be resolved by agreement, or by the size of the dice pool used for the initiative.
+
+Each Round is divided into three parts - Start, Initiative, and End. Most of the action takes place during the Initiative portion of the round, where everyone takes turns based on their Initiative Effort, with the highest going first. When your Initiative Effort comes around, you take a Turn. The Start portion is mostly where things that are triggered by the Start of the round occur, but can also include the extra actions of anyone Claiming Initiative (see Turns, below). The End of a round is when things triggered by the end of a round occur, and is also when an Engagement can be said to be over.
+
+#### Rounds and Time
+
+As previously stated, a Round defaults to 5 to 10 seconds of in-game time - however long it takes for what everyone does in the round to resolve. This isn't always the case, however, and Rounds can represent smaller or larger periods of time depending on the tactical needs of the engagement. One Round can be stretched to *days* of time if needs be for things like interplanetary warfare, or it can be just a second or two for small intense engagements that are over in a flash, or take place somewhere that moves at the speed of thought.
+
 ### Turns
+
+A Turn is when an individual character takes their 2 to 3 Actions. Turns are divided into Phases (see below), but for the most part, you declare what you're trying to do in a general sense (*I move towards the robot to attack with my laser sword*, or *I'm trying to break down the door to get us out of here*), then make any Checks for that action and describe the results. If you still have Actions available, you repeat this process until you're out of Actions, then end your turn.
+
+If you have an Aspect that could give you a tactical advantage, you can sometimes Claim Initiative to take an extra Turn during the Start portion of the round by Claiming Initiative. 
+
+#### Claim Initiative
+
+During the Start of the round, you can attempt to Claim Initiative, which gives you an extra Turn that can only have two Actions. Do do so, you need an Aspect that indicates combative prowess or that would otherwise give you an advantage in this situation (for example, *Experienced Mountaineer* might let you claim initiative in a mountainous region). You [Burn](Burn.md) the Aspect, and take a special Turn during the Start portion of the Round, in addition to your regular position in the initiative order.
+
 ### Phases
+
+Each Turn is divided into three Phases:
+
+- **Open** when you begin your turn. If you have some effect ongoing that ends or beings at the Opening of your Turn, that is resolved. Then you decide if you're going to take Two Actions, or take Three Actions by have all your dice pools reduced by 2.
+- **Declaration** is when you state your intentions for the round. During Declaration, you spend any [Energy](Energy.md) you might need for [Special Abilities](SpecialAbilities.md) that you're going to use that round, and take your first Action.
+- **Resolution** is the end of your turn, where you take any remaining Actions and describe their results. Any effect that ends during Resolution ends now.
+
+Although it seems complicated, it's really just starting and ending your turn. It's broken up to organize your actions and help track effects, and that's about it.
 
 ## Actions
 

@@ -85,6 +85,15 @@ You gain a free Focus with your second rank in a Skill. You can take additional 
 
 ### Burning Skills
 
+
+## Dilettante
+
+Dilettante is a special Skill that reflects having a lot of little experiences across a life of travel, leisure, and adventure. Dilettante allows you to play a Jack-Of-All-Trades sort whose life and experiences has given them some insight into most situations, but no real mastery of any particular skill. You still have other Skills, of course - there are things you're properly good at, after all.
+
+Dilettante can only be [Burned](Burn.md), and when it is it provides dice as though you had pulled it into the check instead. It can't be used in conjunction with another Skill, and can't gain Synergy from a Focus. It can be used in place of any other Skill in a check, and you can describe a circumstance in your well-traveled past where you encountered this exact situation (or at least something similar enough to apply).
+
+You restore your burned ranks of Dilettante at the start of a new story arc.
+
 ## Tags
 
 #charactercreation #skills
