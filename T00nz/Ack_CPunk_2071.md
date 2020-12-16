@@ -1,27 +1,37 @@
 # Ack_CPunk_2071
 
-Custom Cyberpunk setting: 
->>
-alternate Earth timeline, Divergence +/=/- 2000, current date 2071, further specific setting details to follow 
-Low building to mid-high level action/mystery campaign with increasing stakes 
+Custom Cyberpunk setting:
+
+> > alternate Earth timeline, Divergence +/=/- 2000, current date 2071, further specific setting details to follow Low building to mid-high level action/mystery campaign with increasing stakes
 
 Players will take on the roles of members of a mercenary street crew tasked with a series of high-risk objectives. All are familiar with one another's work, but have never worked all together this way.
 
 All standard C-punk archetypes will be available as long as their value to the mission can be explained (an entertainer could serve as a distraction, it's hard to be useless). Standard genre archetypes include
 
-- **Street Samurai**: All the meat and all it wants. 
-    - The street sam is the warrior. Their approach is as varied as war itself, from the bladed, faster than the eyes melee monster to the chrome behemoth in body armor and reinforced cyberarms carrying twin vulcan cannons, these are the slingers of lead, the heavies. 
-- **Rigger**: A utility class to be sure, but no less combat capable than anyone but a 'Samurai, 
-    - The rigger can safely deliver the team to the mission location, provide drone escort, and maintain security, all from the comfort of the Van, or other appropriate wifi equipped location 
-- **Netrunner**: The console cowboy, the digital wizard. 
-    - Anyone can plug in and dance in Cyberspace. It takes an artist to make cyberspace dance around you. Using a console and a special neural connection, the netrunner experiences the internet as a voluntary hallucination, a parallel universe where treasure chests might stand for money, and your programs and macros are lockpicks... A real world, beyond the real world, where your reflexes are the speed of your thought 
-- **Political**: Council stooge or black suited Agent, politicals are there because that's the plan. 
-    - Whatever is on the table you can bet that if she's on board, it serves her ends 
-- **Corporate**: from lowly wage slave to vat grown assassin, corporates are there because the boss said so. 
-    - Whatever is on the table, you can be sure that if the corporate is on board, someone stands to make money 
-- **Entertainer**: the entertainer could be anyone, anywhere, for any reason. 
-    - Social media content creators, actors, musicians, conceptual artists, performance artists, even the dreaded mime is an entertainer. There's value to be had in building cultural movements 
-    
+- **Street Samurai**: All the meat and all it wants.
+
+  - The street sam is the warrior. Their approach is as varied as war itself, from the bladed, faster than the eyes melee monster to the chrome behemoth in body armor and reinforced cyberarms carrying twin vulcan cannons, these are the slingers of lead, the heavies.
+
+- **Rigger**: A utility class to be sure, but no less combat capable than anyone but a 'Samurai,
+
+  - The rigger can safely deliver the team to the mission location, provide drone escort, and maintain security, all from the comfort of the Van, or other appropriate wifi equipped location
+
+- **Netrunner**: The console cowboy, the digital wizard.
+
+  - Anyone can plug in and dance in Cyberspace. It takes an artist to make cyberspace dance around you. Using a console and a special neural connection, the netrunner experiences the internet as a voluntary hallucination, a parallel universe where treasure chests might stand for money, and your programs and macros are lockpicks... A real world, beyond the real world, where your reflexes are the speed of your thought
+
+- **Political**: Council stooge or black suited Agent, politicals are there because that's the plan.
+
+  - Whatever is on the table you can bet that if she's on board, it serves her ends
+
+- **Corporate**: from lowly wage slave to vat grown assassin, corporates are there because the boss said so.
+
+  - Whatever is on the table, you can be sure that if the corporate is on board, someone stands to make money
+
+- **Entertainer**: the entertainer could be anyone, anywhere, for any reason.
+
+  - Social media content creators, actors, musicians, conceptual artists, performance artists, even the dreaded mime is an entertainer. There's value to be had in building cultural movements
+
 This list is not all inclusive. There's more to come regarding archetypes as I confirm system I am working to build a gear and cyber-tech supplement in M&M. Another Cyberpunk system drops Thursday and I will be reviewing it.
 
 ## Media
@@ -29,13 +39,18 @@ This list is not all inclusive. There's more to come regarding archetypes as I c
 Genre relevant media resources and inspiration for flavor and research
 
 - **Movies**
-    - Blade Runner, Johnny Mnemonic, Strange Days, Ghost in the Shell, Alien, District 9, various "grim-near-future* sci-fi (alien is a bit of a reach on tech scale, but the feel of the world is right, dingy and lived in... The company... MU-TH-UR 6000...) 
+
+  - Blade Runner, Johnny Mnemonic, Strange Days, Ghost in the Shell, Alien, District 9, various "grim-near-future* sci-fi (alien is a bit of a reach on tech scale, but the feel of the world is right, dingy and lived in... The company... MU-TH-UR 6000...)
+
 - **Books**
-    - William Gibson (author), specifically **The Sprawl Trilogy**: _Neuromancer_, _Count Zero_, and _Mona Lisa Overdrive_ 
-    - Also informed by previous editions of Cyberpunk and Shadowrun as well as their novels 
+
+  - William Gibson (author), specifically **The Sprawl Trilogy**: _Neuromancer_, _Count Zero_, and _Mona Lisa Overdrive_
+  - Also informed by previous editions of Cyberpunk and Shadowrun as well as their novels
+
 - **Music**
-    - Skrillex, Orbital, Beethoven, Aphex Twin, Paul Oakenfold, My Chemical Romance, Chopin, Lindsey Sterling, My Life with the Thrill Kill Kult, Greig, Flux Pavilion, Nero, Bassnectar, Tchaikovsky, Knife Party... 
-    
+
+  - Skrillex, Orbital, Beethoven, Aphex Twin, Paul Oakenfold, My Chemical Romance, Chopin, Lindsey Sterling, My Life with the Thrill Kill Kult, Greig, Flux Pavilion, Nero, Bassnectar, Tchaikovsky, Knife Party...
+
     I could go on, but that's a solid background
 
 ## Conversation
@@ -63,7 +78,6 @@ Is there a reason why the characters are only really familiar with each other vi
 ### Damion
 
 Are you talking about a crew like baby driver? They have worked together before but they're not an established crew
-
 
 ![Erik Ackelson](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-1/cp0/c28.28.346.346a/s60x60/208951_1019463987250_11403_n.jpg?_nc_cat=105&ccb=2&_nc_sid=7206a8&_nc_ohc=ONNJgvmADOIAX80BlXA&_nc_ht=scontent-ort2-2.xx&_nc_tp=28&oh=4c8be3ce916f43a36899564d65913706&oe=5FE74FDD)
 

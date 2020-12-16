@@ -10,14 +10,13 @@ unnamed is a tabletop role playing game designed to be adaptable to any genre (r
 - Shared narrative responsibility
 - Streamlined GMing
 
-It's a work in progress, but feel free to let me know what you think. For the record, it's not *called* "unnamed," I just haven't settled on a name. SUggestions are welcome.
+It's a work in progress, but feel free to let me know what you think. For the record, it's not _called_ "unnamed," I just haven't settled on a name. Suggestions are welcome.
 
 ## Important Links
 
-[Here’s the Homepage for the Wiki](https://s-20.github.io/unnamed/#/)
+[Here's the Homepage for the Wiki](https://s-20.github.io/unnamed/#/)
 
-Once you’re in the wiki, there’s a sidebar on the left to help you find important articles. Here’s a few direct links to help you get started:
-
+Once you're in the wiki, there's a sidebar on the left to help you find important articles. Here's a few direct links to help you get started:
 
 - [Character Creation](https://s-20.github.io/unnamed/#/CharacterCreation.md) - The rules for creating a character in unnamed
 - [Core Rules](https://s-20.github.io/unnamed/#/Core.md) - The core system that unnamed is build around, with links to the various subsystems.

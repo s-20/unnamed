@@ -1,33 +1,36 @@
 # Name
+
 **AKA**: Pseudonyms
 
-| Player | Chronicle | Parent |
-|--------|-----------|--------|
-| ???    | ???       | ???    |
+Player | Chronicle | Parent
+------ | --------- | ------
+???    | ???       | ???
 
 **Cults**:
 
 ## Skills
-| Skill        | Specialty |  | Skill      | Specialty |
-|--------------|-----------|--|------------|-----------|
-| Academics    | ???       |  | Medicine   | ???       |
-| Athletics    | ???       |  | Occult     | ???       |
-| Close Combat | ???       |  | Persuasion | ???       |
-| Culture      | ???       |  | Pilot      | ???       |
-| Empathy      | ???       |  | Science    | ???       |
-| Firearms     | ???       |  | Subterfuge | ???       |
-| Integrity    | ???       |  | Survival   | ???       |
-| Leadership   | ???       |  | Technology | ???       |
-| Custom       | ???       |  | Custom     | ???       |
+
+Skill        | Specialty |  | Skill      | Specialty
+------------ | --------- |  | ---------- | ---------
+Academics    | ???       |  | Medicine   | ???
+Athletics    | ???       |  | Occult     | ???
+Close Combat | ???       |  | Persuasion | ???
+Culture      | ???       |  | Pilot      | ???
+Empathy      | ???       |  | Science    | ???
+Firearms     | ???       |  | Subterfuge | ???
+Integrity    | ???       |  | Survival   | ???
+Leadership   | ???       |  | Technology | ???
+Custom       | ???       |  | Custom     | ???
 
 **Notes**:
 
 ## Attributes
-| Arena      | Mental    | Physical  | Social       |
-|------------|-----------|-----------|--------------|
-| Power      | Intellect | Might     | Presence     |
-| Finesse    | Cunning   | Dexterity | Manipulation |
-| Resistance | Resolve   | Stamina   | Composure    |
+
+Arena      | Mental    | Physical  | Social
+---------- | --------- | --------- | ------------
+Power      | Intellect | Might     | Presence
+Finesse    | Cunning   | Dexterity | Manipulation
+Resistance | Resolve   | Stamina   | Composure
 
 **Notes**:
 
@@ -40,14 +43,14 @@
 
 ### Health
 
-| Health Level | Notes |
-| --- | --- |
-| Bruised | ??? |
-| Bruised | ??? |
-| Injured | ??? |
-| Injured | ??? |
-| Maimed | ??? |
-| Taken Out | ??? |
+Health Level | Notes
+------------ | -----
+Bruised      | ???
+Bruised      | ???
+Injured      | ???
+Injured      | ???
+Maimed       | ???
+Taken Out    | ???
 
 ## Paths
 
@@ -73,4 +76,3 @@
 ## Momentum
 
 ## Notes
-
