@@ -30,6 +30,7 @@
 ### [Energy]((https://s-20.github.io/unnamed/#/Energy))
 
 - 
+
 ## [Details](https://s-20.github.io/unnamed/#/Details)
 
 - 

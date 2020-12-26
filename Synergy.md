@@ -1,27 +1,19 @@
 # Synergy
 
-Synergy can happen when you have an appropriate Focus, have at least 5 ranks in a [Skill](Skills.md) other than the one you're using for the check, but that could contribute to its success, or in other specific circumstances. You can also provide Synergy for an ally with a successful Aid or other [Exploit](Exploits.md).
+Synergy happens when there are beneficial circumstances that apply to a roll. You can claim Synergy under the following circumstances:
 
-## Basic Synergy
+- A [Characteristic](Characteristics.md) of a type you've already pulled that applies to the roll if you have 5 or more ranks in it
+- Conditions that are especially favorable
+- Another character's assistance
+- Good equipment or tools
+- A [Skill Focus](Skills.md)
+- A [Detail](Details.md)
+- A [Tangle](Tangles.md) that happens to work to your advantage
 
-If you have Synergy, you can use it in one of three ways:
+Each specific source can provide only 1 Synergy, and can only be claimed once per check.
 
-- Add two Dice to a check
-- Add one [Effort](Effort.md) to a check if you roll at least one Effort for it
-- Add one die to the [Drama Dice](DramaDice.md) pool if the Drama Dice pool is less than 5
+## Benefits of Synergy
 
-You must decide how you're going to spend your Synergy before you roll.
+Synergy always provides +1 [Effort](Effort.md) as long as you roll at least 1 Effort on a check. In addition, add another die to your check if you have 5 or more Synergy.
 
-## Advanced Synergy
-
-You can get Synergy more than once, but only once from any given source. Each type of [Characteristic](Characteristic.md) counts as a seperare "source", as does each outside source - for instance, a different character can only give you Synergy once, as can the circumstances or a piece of equipment.
-
-!> [Aspects](Aspects.md) are an exception to this rule, and provide synergy whenever they apply regardless of how many different Aspects apply.
-
-You can use one extra Synergy for an additional, different Basic Synergy, but no more. Alternately, if you have at least 3 Synergy, you can choose one of the following instead:
-
-- Count Effort on a 4, 5, or 6 instead of 5 or 6
-- Explode all 6s for a check (that is, count the 6s for Effort and then roll them again as though they were dice added to the check. Continue to do so until you stop rolling 6s)
-- Gain +2 Synergy to a related check later on in the story (any time from this scene forward - keep a note); this can be gifted to another character if you like, provided they could reasonably benefit from your efforts
-
-All of these options take 3 Synergy. You may only take two basic benefits and one advanced benefit for any given check, and you must decide how you're going to spend Synergy before you roll the check.
+Synergy can provide other benefits depending on the circumstances. For example, it might provide additional insights, reveal extra clues, or grant additional depth to a success.

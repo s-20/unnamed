@@ -1,34 +1,15 @@
 # Death
 
-Death is the big "Back to Character Creation" moment for most characters. It means the character has shuffled off this mortal coil. They're pushing up the daisies, they've kicked the bucket, run down the curtain and joined the choir invisible.
+Death is the big “Back to Character Creation” moment for most characters. It means the character has shuffled off this mortal coil. They're pushing up the daisies, they've kicked the bucket, run down the curtain and joined the choir invisible.
 
 They are an *Ex Character*.
 
 ## Heroic Action
 
-A dying character always gets a chance to utter last words - or even last paragraphs, if dramatically appropriate. Sometimes, they may take one final action of some kind - arming the bomb as they collapse, throwing a dagger at the Bad Guy, leaping in front of an ally to take the bullet, or whatever else occurs to you. A Heroic Action should be taken very soon after the character's fate is sealed. When the Dying action occurs is a bit relaxed - it should be very soon, but it should also be dramatically appropriate, so there's more latitude.
+A dying character always gets a chance to utter last words, or even last paragraphs if dramatically appropriate. Sometimes, they may take one final action of some kind, like arming the bomb as they collapse, throwing a dagger at the Bad Guy, leaping in front of an ally to take the bullet, or whatever else occurs to you. When the Heroic Action is take in flexible, and it doesn't have to be right away, as long as it's in the same scene.
 
-Heroic Actions always at least partially succeed. Most of the time, these actions shouldn't require a check, they should simply succeed to a degree that is dramatically appropriate. This should provide a significant benefit to the character's allies, or perhaps even win the day. If a check *is* required, then if the Effort is high enough for success, add 1d6 Effort to the result. Since the character is dying anyway, there is absolutely no reason not to burn any Characteristics you can for the check, so keep that in mind when you're pulling dice - or when your opponents are doing the same!
+Heroic Actions gain 5 [Synergy](Synergy.md) on the check, if a Check is required at all, and should provide a significant benefit to the character's allies. Since the character is dying anyway, there is absolutely no reason not to burn any Characteristics you can for the check, so keep that in mind when you're pulling dice.
 
-Heroic Action doesn't apply to all [NPCs](NPCs.md), but it does apply to major ones. The Big Bad at least gets a chance to arm the self destruct for his fortress as he dies. 
+Heroic Action doesn't apply to all [NPCs](NPCs.md), but it does apply to major antagonists and their second-in-commands. NPCs don't get [Synergy](Synergy.md), though — see the NPC rules for more information. 
 
-Remember the scenes at the end of The Wrath of Kahn - Kahn arming the Genesis Device and Spock saving the day in the warp drive chamber and his subsequent scene with Kirk. These were final Heroic Actions for the respective characters, just to give you and idea of what we're talking about.
-
-## The Death Rant
-
-In a great many settings under a variety of circumstances, death isn't always the end. There are a lot of different ways characters can "come back":
-
-- In Dungeons & Dragons, spells like Raise Dead and Resurrection almost trivialize character death.
-- In superhero comics, coming back from the dead (often with new or improved powers!) is a trope so common as to be cliche.
-- In the film Beerfest (spoiler alert), one character dies. At his funeral, his twin brother shows up, joins the gang, and insists on being called by his dead brother's nickname; he even loses the Texas accent he has for *exactly one brief scene*.
-- The RPG Paranoia has a whole... thing about dying.
-- Several transhuman sci-fi games have something along the lines of a "cortical stack" - essentially, your soul and experiences in removable form that can be placed in a new body when you die
-- In a similar fashion, many high-tech sci-fi settings can bring someone back from death if they get medical attention soon enough. In the movie The Fifth Element, all they need is a few cells (which is silly, but so is the rest of the movie)
-
-The Unnamed System doesn't provide rules for coming back from death, however. The default assumption is that death is the end. Depending on your established [Parameters](Parameters.md), it may not be. That's cool, but it shouldn't be something covered by the mechanics of a game. Instead, it should be handled on a case-by-case or setting-by-setting basis. Establish your own "rules", or make them up on the spot when you need them. And by "rules" I mean "some story-related plot hook or feature of the setting" not which dice to throw or which [Energy Pool](Energy.md) to deplete.
-
-Even if it comes down to "cast a spell" or "stick his stack in a new body", make it part of the story in some way. If it's a spell, maybe it requires an exotic component, or a ritual that can be interrupted by the character's adversaries. If it's a cortical stack, remember that bodies can be hard to come by, and you don't always get the one you want.
-
-Whatever it is, make it interesting. I wrote an entire in-setting legend to justify resurrection being impossible for my fantasy setting because I was tired of death being trivial, and it seemed like the best way to handle it.
-
-I can now admit I was wrong, but my point still stands - unless your game is subverting it for some reason, Death should mean something.
+Remember the scenes at the end of The Wrath of Kahn - Kahn arming the Genesis Device, and Spock saving the day in the warp drive chamber and his subsequent scene with Kirk. These were final Heroic Actions for the respective characters, just to give you and idea of what we're talking about.
