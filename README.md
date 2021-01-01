@@ -23,9 +23,7 @@ If you'd like, I'm happy to list any play testers here. Please let me know how y
 
 ## Important Links
 
-[Here's the Homepage for the Wiki](https://s-20.github.io/unnamed/#/)
-
-Once you're in the wiki, there's a sidebar on the left to help you find important articles. Here's a few direct links to help you get started:
+Check the sidebar on the left to help you find important articles. Here's a few direct links to help you get started:
 
 - **[Character Creation](https://s-20.github.io/unnamed/#/CharacterCreation.md)**: The rules for creating a character in unnamed
 - **[Core Rules](https://s-20.github.io/unnamed/#/Core.md)**: The core system that unnamed is build around, with links to the various subsystems.
