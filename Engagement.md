@@ -1,116 +1,132 @@
 # Engagement
 
-An Engagement (or Full Engagement) is a type of Combat that is high-stakes, tactical, and prolonged. It's not just taking out a few turrets or minions as you run down the hall of the Big Bad's volcano lair - it's a full battle with set pieces and usually multiple opponents. Engagement uses elements like a Battle Map or Range Bands to keep track of where people are, and divides the combat into discrete portions called Rounds, Turns, and Phases.
+An Engagement (or Full Engagement) is a type of Combat that is high-stakes, tactical, and prolonged. It's not just taking out a few turrets or minions as you run down the hall of the Big Bad's volcano lair, it's a full battle with set pieces and usually multiple opponents. Engagement uses elements like a Battle Map to keep track of where people are, and divides the combat into discrete portions called Rounds, Turns, and Phases.
 
 Engagement is meant for large, climactic battles rather than for every fight you come across. While some campaigns might always use Engagement for fights (because they are rare, or because that's what you're here for), most games should use [Skirmish](Skirmish.md) rules for most fights, which allows for a much faster resolution.
 
-## Rounds, Turns, and Phases
+## Engagement Timing
 
 An Engagement is divided into three progressively smaller units of time:
 
-- a **Round** contains all the actions of all the PCs and NPCs over the course of a set period of in-game time. By default, a Round represents 5 to 10 seconds of in-game time.
-- a **Turn** is when an individual character takes their Actions. When it's your turn, you get two Actions to perform. When it's not your turn, you can use Reactions (a special kind of Action). You can use your actions for **Maneuvers**, **Attacks**, **Defenses** or **Concentration**. Turns can be divided either into Individual Turns (each character has their own turn tracked separately) or Group Turns (more than one character uses the same Turn, arranging their individual actions between them as they see fit). By default, PCs have Individual Turns and NPCs have a single Group Turn.
-- a **Phase** is a specific portion of a Turn. Each Turn has three Phases - Open, Declaration, and Resolution. You don't have to pay much attention to Phases, just be aware that they're there. Phases are especially helpful for complex tactics in a Group Turn, and are used to determine when durations start of end.
+- **Rounds** contain all the actions of all the PCs and NPCs over the course of a set period of in-game time. By default, a Round represents two to five seconds of in-game time.
+- **Turns** are when an individual character takes their Action(s). When it's your turn, you get 1 Action, or 2 Actions with a penalty. When it's not your turn, you can use Reactions (a special kind of Action). You can use your action for *Maneuvers*, *Attacks*, *Defenses* or *Concentration*. Turns can be divided either into Individual Turns (each character has their own turn tracked separately) or Group Turns (more than one character uses the same Turn, arranging their individual actions between them as they see fit). By default, PCs have Individual Turns and NPCs have a single Group Turn.
+- **Phases** are a specific portion of a Turn. Each Turn has three Phases - *Open*, *Declaration*, and *Resolution*. You don't have to pay much attention to Phases, just be aware that they're there. Phases are especially helpful for complex tactics in a Group Turn, and are used to determine when durations start of end.
 
-### Rounds
+## Rounds
 
-A Round contains all the Actions taken by all involved in the Engagement, both PCs and NPCs. A Round usually represents 5 to 10 seconds of in-game time. While all of the events of a round are occurring more-or-less simultaneously, they are taken in an established order to keep things from descending into chaos and making tactical choices possible. 
+A Round contains all the Actions taken by all involved in the Engagement, both PCs and NPCs. A Round usually represents 2 to 5 seconds of in-game time. 
 
-Before the start of the first round, Initiative is established with each character making a Check composed of a [Characteristics](Characteristics.md) that could give you a tactical advantage - usually [Traits](Traits.md) involved with physical speed/agility or quick thinking combined with [Aspects](Aspects.md) that indicate a familiarity with Combat and whatever your main combat-related [Skill](Skills.md) might be. More [Effort](Effort.md) means you go earlier in the initiative order. [NPCs](NPCs.md) don't roll Initiative, and instead have a set Initiative count, usually between 1 and 5, depending on how quick their reaction time is supposed to be. Ties with NPCs ususally go to the PC, and ties between PCs can be resolved by agreement, or by the size of the dice pool used for the initiative.
+Before the start of the first round, Initiative is established with each character making a Check composed of a [Characteristics](Characteristics.md) that could give you a tactical advantage. For this check, you can pull [Traits](Traits.md) involved with physical speed/agility or quick thinking, [Aspects](Aspects.md) that indicate a familiarity with Combat, and whatever your main combat-related [Skill](Skills.md) might be. More [Effort](Effort.md) means you go earlier in the initiative order. Ties with NPCs go to the PC, and ties between PCs can be resolved by agreement, or by the size of the dice pool used for the initiative.
 
-Each Round is divided into three parts - Start, Initiative, and End. Most of the action takes place during the Initiative portion of the round, where everyone takes turns based on their Initiative Effort, with the highest going first. When your Initiative Effort comes around, you take a Turn. The Start portion is mostly where things that are triggered by the Start of the round occur, but can also include the extra actions of anyone Claiming Initiative (see Turns, below). The End of a round is when things triggered by the end of a round occur, and is also when an Engagement can be said to be over.
+> [NPCs](NPCs.md) don't roll Initiative, and instead have a set Initiative count, usually between 1 and 5, depending on how quick their reaction time is supposed to be.
 
-#### Rounds and Time
+A Round has a Start and an End, in addition to the part where characters take actions. The Start and End of a round can usually be ignored, but they are useful for durations and similar timed events: an effect might end at the Start of a round, or reinforcements might arrive at the End of round 3, for example.
 
-As previously stated, a Round defaults to 5 to 10 seconds of in-game time - however long it takes for what everyone does in the round to resolve. This isn't always the case, however, and Rounds can represent smaller or larger periods of time depending on the tactical needs of the engagement. One Round can be stretched to *days* of time if needs be for things like interplanetary warfare, or it can be just a second or two for small intense engagements that are over in a flash, or take place somewhere that moves at the speed of thought.
+### Rounds and Time
 
-### Turns
+As previously stated, a Round defaults to 2 to 5 seconds of in-game time, however long it takes for what everyone does in the round to resolve. This isn't always the case, however, and Rounds can represent smaller or larger periods of time depending on the tactical needs of the engagement. One Round can be stretched to *days* of time if needs be for things like interplanetary warfare, or it can be just a second or two for small intense engagements that are over in a flash, or take place somewhere that moves at the speed of thought.
 
-A Turn is when an individual character takes their 2 to 3 Actions. Turns are divided into Phases (see below), but for the most part, you declare what you're trying to do in a general sense (*I move towards the robot to attack with my laser sword*, or *I'm trying to break down the door to get us out of here*), then make any Checks for that action and describe the results. If you still have Actions available, you repeat this process until you're out of Actions, then end your turn.
+## Turns
 
-If you have an Aspect that could give you a tactical advantage, you can sometimes Claim Initiative to take an extra Turn during the Start portion of the round by Claiming Initiative. 
+A Turn is when an individual character takes their Action(s). Turns are divided into Phases (see below), but for the most part, you declare what you're trying to do in a general sense (*I move towards the robot to attack with my laser sword*, or *I'm trying to break down the door to get us out of here*), then make any Checks for that action and describe the results. Reactions may occur, and then your turn ends.
 
-#### Claim Initiative
+If you have an Aspect that could give you a tactical advantage, you can sometimes take an extra Turn during the Start portion of the round by Claiming Initiative.
 
-During the Start of the round, you can attempt to Claim Initiative, which gives you an extra Turn that can only have two Actions. Do do so, you need an Aspect that indicates combative prowess or that would otherwise give you an advantage in this situation (for example, *Experienced Mountaineer* might let you claim initiative in a mountainous region). You [Burn](Burn.md) the Aspect, and take a special Turn during the Start portion of the Round, in addition to your regular position in the initiative order.
+### Claim Initiative
 
-### Phases
+During the Start of the round, you can Claim Initiative, which gives you an extra Turn. To do so, you need an Aspect that indicates combative prowess or that would otherwise give you an advantage in this situation (for example, *Experienced Mountaineer* might let you claim initiative in a mountainous region). You [Burn](Burn.md) the Aspect, and take a special Turn during the Start portion of the Round, in addition to your regular position in the initiative order.
+
+You must burn an Aspect each time you Claim Initiative. Only major NPCs like *bosses* can Claim Initiative. If an NPC and a PC both Claim Initiative, the Player usually has the option of going first.
+
+## Phases
 
 Each Turn is divided into three Phases:
 
-- **Open** when you begin your turn. If you have some effect ongoing that ends or beings at the Opening of your Turn, that is resolved. Then you decide if you're going to take Two Actions, or take Three Actions by have all your dice pools reduced by 2.
-- **Declaration** is when you state your intentions for the round. During Declaration, you spend any [Energy](Energy.md) you might need for [Special Abilities](SpecialAbilities.md) that you're going to use that round, and take your first Action.
-- **Resolution** is the end of your turn, where you take any remaining Actions and describe their results. Any effect that ends during Resolution ends now.
-
-Although it seems complicated, it's really just starting and ending your turn. It's broken up to organize your actions and help track effects, and that's about it.
+- **Open** is when you begin your turn. If you have some effect ongoing that ends or beings at the Opening of your Turn, that is resolved. Then you decide if you're going to take one Action, or take 2 Actions, but have all your dice pools reduced by 2 until your next Open Phase.
+- **Declaration** is when you state your intentions for the round. During Declaration, you spend any [Energy](Energy.md) you might need for [Special Abilities](SpecialAbilities.md) that you're going to use that round, and take your Action(s). Any given Action might provoke a Reaction.
+- **Resolution** Any effect that ends during Resolution ends now.
 
 ## Actions
 
-On your turn, you can take Two Actions for free, or Three Actions if you reduce all your DIce Pools until the start of your next turn by 2. You can choose from one of the following Actions, which each describe a wealth of possibilities: *Attack*, *Assist*, *Defend*, *Concentrate*, or *Maneuver*. Each possible Action has its own rules, and can be used to describe multiple things.
+On your turn, you can take 1 Action for free, or 2 Actions if you reduce all your Dice Pools until your next Open phase by 2. You can choose from one of the following Actions, which each describe a wealth of possibilities: *Attack*, *Assist*, *Defend*, *Concentrate*, or *Maneuver*. Each possible Action has its own rules, and can be used to describe multiple things.
 
 Each of the Actions is described in detail below. In addition, there are *Free Actions*, *Prepared Actions*, and *Reactions*, which represent special circumstances.
 
+> You will see references below to being **Open**. Being **Open** means you're more vulnerable to attack. This can trigger a Reaction, be used as a trigger for a Prepared Action, or cause specific [Special Abilities](SpecialAbilities.md) to take effect. In addition, if you leave yourself Open, you take a 2 dice penalty to any checks you make to defend yourself against anyone taking advantage of you being Open. 
+
 ### Attack
 
-An Attack is any action that's intended to cause harm. If you make an Attack as your first Action and you hit, you can take a second Attack Action to Follow Up at -1 die. If you miss, you can make a second Attack Action at -2 dice. Generally, you have to get 1 [Effort](Effort.md) to hit, and 2 Effort to cause a [Wound](WoundThreshold.md). A hit without a wound usually costs a rank of a [Trait](Traits.md) for a PC, or for [NPCs](NPCs.md), reducing one of their Dice Pools. Things like tripping an opponent, shooting them, or blasting them with a fireball are all Attack Actions, and use the same rules - the effects are what makes sense at the time, plus any appropriate damage.
+An Attack is any action that's intended to cause harm. If you make an Attack Action and you hit, you can take a free Attack Action to Follow Up at -2 dice; this penalty is just for the follow-up attack.
+
+You usually have to get 1 [Effort](Effort.md) to hit, and 2 Effort to cause a [Wound](WoundThreshold.md). A hit without a wound can damage a [Characteristic](Characteristics.md), reducing it by one or more ranks, or it can provide some sort of tactical advantage (your opponent trips, you grab them, or they have to dive for cover, for instance). Things like tripping an opponent, shooting them, or blasting them with a fireball are all Attack Actions, and use the same rules. The effects are what makes sense at the time, plus any appropriate damage.
 
 ### Assist
 
 An Assist Action is used to help someone else. You describe what you're doing and how you intend it to help, and make a check. For every 2 Effort you roll, the person you're trying to help gains 1 [Synergy](Synergy.md) on what you're helping them with. This could mean distracting an opponent to make them easier to hit, providing cover for someone, or anything else that involves giving them a hand.
 
+Although what you're doing and what you're *trying* to assist with is specific, your ally might use what you're doing in an unexpected way. The assist still gives them Synergy as long as that makes sense.
+
 ### Concentrate
 
-Concentrate is an Action you take for anything that isn't one of the other Actions. You can use Concentrate to Aim (effectively the Assist action described above, except you're helping you), focus to cast a spell, work on disarming a bomb, or read aloud from a Tome of Ancient Horror as part of a banishing ritual - anything that occupies your attention, but isn't covered by another Action.
+Concentrate is an Action you take for anything that isn't one of the other Actions. You can use Concentrate to Aim (effectively the Assist action described above, except you're helping you), focus to cast a spell, work on disarming a bomb, or read aloud from a Tome of Ancient Horror as part of a banishing ritual.
+
+Concentrate Actions may or may not require a Check.
 
 ### Defend
 
-Taking the Defend Action allows you to make Defensive Checks against attacks made against you. If you take Defense once, you can make any Defensive Rolls you need until the start of your next turn, but every Defense after the first is at a cumulative -2 to the dice pool. If you take two Defend actions, you can make as many Defense checks as you need to without penalty. Effort from your Defense Checks reduces the Effort of an incoming attack at a 1 for 1 rate. If you reduce the Effort of an attack to 0, you aren't hit and can take a free move of up to 2 Squares.
+Taking the Defend Action improves your ability to defend yourself against incoming attacks, and sets you up for counters. Any checks made to defend yourself until your next Open Phase gain 2 Defense [Synergy](Synergy.md).
+
+After an attack against you is resolved, you can take an immediate Attack action against whoever was attacking you, or take a Maneuver (see below) as a Counter by reducing your Defense Synergy by 1; if you choose a Maneuver, the distance you can move is halved (round up). Once you're out of Defense Synergy, you can't take further Counters.
 
 ### Maneuver
 
-Maneuver is used to travel across the battlefield. 1 Maneuver allows you to move up to 5 Squares (about 10 meters/yards). If you take two Maneuvers in a row, you can move an additional 2 Squares. If you take three in a row, you're sprinting - move up to an additional 8 Squares (for a total of 20 Squares, or about 40 meters/yards), but until the start of your next turn, anyone attacking you gains 1 Synergy on the check. Maneuver can also be used to dive for cover.
+Maneuver is used to travel across the battlefield. Maneuvers can come in many forms, and can be significantly altered by [Special Abilities](SpecialAbilities.md), but most Maneuvers will fit into one of three types: Tactical, Fast, and Reckless.
+
+- **Tactical** maneuver allows you to move up to 5 Squares, and gives you 1 [Synergy](Synergy.md) on your next combat-related check, as long as you make it before your Resolution Phase on your next turn.
+- **Fast** maneuvers allow you to move 10 Squares without penalty or special benefit.
+- **Reckless** maneuvers allow you to move up to 20 Squares, but you suffer a -2 dice penalty to all checks until your next turn's Resolution Phase, and you leave yourself Open.
+
+Depending on how you're moving, the number of squares you can travel might be different. For instance, if you're crawling, you can move half as many squares (rounding up).
 
 ### Free Actions
 
-Some things you do during a fight don't require an action. Generally, you can talk, draw a weapon, move 1 Square (only once, and only if you're not going to use a Maneuver!), Talking is a special case - if you're trying to use conversation to manipulate or inspire someone and a check is involved, then you're taking either an Assist or a Concentration action, not a free talk action. Also, keep in mind that one combat round is only about five seconds long - avoid  extended speeches if you care about verisimilitude.
+Some things you do during a fight don't require an action. Generally, you can talk, draw a weapon, or move 1 Square (only once per round)or other similar trivial things.
+
+Talking is a special case. If you're trying to use conversation to manipulate or inspire someone and a check is involved, then you're taking either an Assist or a Concentration action, not a free talk action. Also, keep in mind that a typical combat round is only up to five seconds long. Try to avoid extended speeches if you care about verisimilitude.
 
 ### Prepared Actions
 
-You can prepare an Action for later,  allowing you to interrupt someone else with an action when a triggering event occurs. To Prepare an Action, you spend the Action and say something along the lines of "If someone attacks Sam, I attack them" or "I'll dive in front of any bullets targeting Lynn". If the triggering event doesn't occur, you lose the prepared action. You can also drop a Prepared Action for a Reaction at any time (see below). Prepared Actions can take place immediately *before* the triggering action, or immediately *after* it, at your discretion. This means it can interrupt the action or respond to it.
+You can prepare an Action for later, allowing you to interrupt someone else with an action when a triggering event occurs. To Prepare an Action, you spend the Action and say something along the lines of “If someone attacks Sam, I attack them” or “I'll dive in front of any bullets targeting Lynn”. 
+
+If the triggering event doesn't occur, you lose the prepared action. You can also drop a Prepared Action for a Reaction at any time (see below). Prepared Actions can take place immediately *before* the triggering action, or immediately *after* it, at your discretion. This means it can interrupt the action or respond to it.
 
 ### Reactions
 
-Reactions are special actions that Players (PCs) can use when it's not their turn. If you have a Prepared Action, you can drop it for a Reaction. Otherwise, you have to spend a [Drama Die](DramaDice.md) to take a Reaction. A Reaction can be any of the above actions, and it is made without penalty even if you took three Actions on your turn. Reactions are triggered by something, and take place *after* the triggering event - you could shove someone out of the way of a moving car as a Reaction if it was triggered by the car speeding towards them, but not by the car actually hitting them.
+Reactions are special actions that Players (PCs) can use when it's not their turn. If you have a Prepared Action, you can drop it for a Reaction. Otherwise, you can spend a [Drama Die](DramaDice.md) or [Burn](Burn.md) any [Aspect](Aspects.md) or a [Trait](Traits.md) that's related to physical or mental quickness to take a Reaction. 
 
-Each player can only take one Reaction per round.
+A Reaction can be any of the listed Action types from above. Reactions are triggered by something, and take place *after* the triggering event: you could shove someone out of the way of a moving car as a Reaction if it was triggered by the car speeding towards them, but not by the car actually hitting them.
+
+Each Reaction you take in a round after the first gives you a cumulative 1 die penalty on all checks until your next Resolution phase.
 
 ## Range Zones
 
-Range Zones represent different distances to targets, and are used to determine what sort of actions you can take related to other characters, the range of weapons, how far you can go using a Maneuver and so on. While they are primarily used as an organizational tool for Range Bands, they're useful with a Battle Map as well.
+Range Zones represent different distances to targets, and are used to determine what sort of actions you can take related to other characters, the range of weapons, how far you can go using a Maneuver and so on..
 
 There are five Range Zones:
 
-- **Close** range indicates anything within three meters/ten feet of you. You can take Close Range Actions targeting anything in Close range without spending an Action to Maneuver closer to the target. If your weapon doesn't reach 10 feet, you get a free step-to-close with your target, moving one square closer on a Battle Map. If you're doing something intended for a longer range zones, you leave yourself Open, which can trigger a Wait action or be taken advantage of with Special Abilities. If someone makes a more distant attack within CLose range of you, they leave themselves Open.
-- **Near** range involves anything that  is more than three meters/ten feet, but less than 10 meters/30 feet. You can take Near Range Actions targeting anything in Near or Close range without spending an Action to maneuver closer to the target. You leave yourself Open to anyone in Close range when doing so. If someone makes a more distant attack against someone and they are in Near range of you, they leave themselves Open. One Maneuver will get you from Near to Close range.
-- **Far** range is for things that are further than Near range, up to about 100 meters/yards, about Football Field away. You can take Far Range Actions targeting anything in Close, Near, and Far range without spending an Action to Maneuver closer to the target, and you can take Near range Actions against Far Range targets with a 2 die penalty.  You leave yourself open to anyone in Close or Near range when doing so. Two Maneuvers will get you from Close to Far range, and one Maneuver will get you from Near to Far range. Using two Maneuvers in a round leaves you Open.
-- **Distant** range is more than a football field away, but still in sight. Not all battlefields will even *have* a Distant range, depending on the size of the battlefield and visibility conditions. You can take Distant Range actions targeting anything in Close, Near, Far, or Distant range without spending an action to Maneuver closer to the target. You leave yourself Open to anyone in Close or Near range when doing so. Two Maneuvers will get you from Near to Distant range. Using two Maneuvers in a round leaves you Open.
-- **Tactical** range is for things that are so far away, they aren't even on the battlefield. Tactical range is the province for things like Artillery and Mortar fire, and can be used for things that are so far away, they're not visible without the aid of telescopic tools or effects. You can take a Tactical action against things that are Distant or further away, but you cannot use Tactical actions against anything closer than Distant. Tacking a Tactical action leaves you Open to anyone at Close or Near range.
+- **Close** range indicates anything within 2 squares (about 2 meters/yards) of you. You can take Close Range Actions targeting anything in Close range without spending an Action to Maneuver closer to the target. If your weapon doesn't reach 10 feet, you get a free step-to-close with your target, moving one square closer on a Battle Map. If you're doing something intended for a longer range zone, you leave yourself Open, which can trigger a prepared action or be taken advantage of with Special Abilities. When someone makes a more distant attack within Close range of you, they leave themselves Open.
+- **Near** range involves anything that is more than 2 squares, and up to 5 squares (10 meters/yards). You can take Near Range Actions targeting anything in Near or Close range without spending an Action to maneuver closer to the target. You leave yourself Open to anyone in Close range when doing so. If someone makes a more distant attack, and they are in Near range of you, they leave themselves Open.
+- **Far** range is for things that are further than Near range, up to about a Football Field (about 50 squares) away. You can take Far Range Actions targeting anything in Close, Near, and Far range without spending an Action to Maneuver closer to the target, and you can take Near range Actions against Far Range targets with a 2 die penalty.  You leave yourself open to anyone in Close or Near range when doing so.
+- **Distant** range is more than a football field away, but still in sight. Not all battlefields will even *have* a Distant range, depending on the size of the battlefield and visibility conditions. You can take Distant Range actions targeting anything in Close, Near, Far, or Distant range without spending an action to Maneuver closer to the target. You leave yourself Open to anyone in Close or Near range when doing so.
+- **Tactical** range is for things that are so far away, they aren't even on the battlefield. Tactical range is the province for things like Artillery and Mortar fire, and can be used for things that are so far away, they're not visible without the aid of telescopic tools or effects. You can take a Tactical action against things that are Far or further away, but you cannot use Tactical actions against anything closer than Far. Taking a Tactical action leaves you Open to anyone at Close or Near range.
 
 ## Battle Map
 
-A Battle Map is a grid, usually of squares one inch/2 centimeters on a side. Terrain is placed or drawn on the map, and miniatures are used to represent all combatants on the battlefield. Battle Maps can he;p you visualize everyone's position in combat, and can make things like calculating range to a target trivial. Technically speaking, a Battle Map doesn't need to have a grid - you can use a tape measure or a length of string to determine ranges.
+A Battle Map is a grid, usually of squares one inch/2 centimeters on a side. Terrain is placed or drawn on the map, and miniatures are used to represent all combatants on the battlefield. Battle Maps can help you visualize everyone's position in combat, and can make things like calculating range to a target trivial. Technically speaking, a Battle Map doesn't need to have a grid; you can use a tape measure or a length of string to determine ranges.
 
 For the purpose of this Wiki, we're going to operate under the assumption that you know the basics of how a Battle Map works. Battle Maps can show the position of structures, obstacles, rough terrain, hazards, and so on in addition to marking where everyone is in relation to one another. As a rough guideline:
 
-- **Structures** are things like buildings or walls. The block movement, line of sight, and most other effects. It's not impossible to go *through* a Structure, but it should be very difficult.
+- **Structures** are things like buildings or walls. They block movement, line of sight, and most other effects. It's not impossible to go *through* a Structure, but it should be difficult.
 - **Obstacles** usually have to be maneuvered around, but can also provide cover and can sometimes be picked up and thrown. Obstacles include furniture, stationary cars, light posts, and statues.
-- **Rough Terrain** is difficult to move through, like heavy brush, icy surfaces, steep inclines, and stairs. Each sort of Rough Terrain is different, but it usually takes 3 Squares of movement to go through 2 Squares of rough terrain. Alternately, rough terrain might require a check to keep your footing; if you don't get enough Effort on the check, you fall and lose the rest of your movement.
-- **Hazards** are things on the battlefield that are actively dangerous - vats of acid, burning structures, sinkholes, weak floorboards, and traps. The specifics are situational, but usually Hazards need to be avoided, but if they're not you take 1 or more Wound or something even *more interesting* happens. Hazards can also include things like traffic in a busy street, ledges that also count as Rough Terrain, or anything else you can think of.
-
-## Range Bands
-
-This is a feature for a future update (if at all). The general idea is a simple diagram kept by each player showing their relative range to each other combatant.
-
-## Tags
-
-#combat #core
+- **Rough Terrain** is difficult to move through, like heavy brush, icy surfaces, steep inclines, and stairs. Each sort of Rough Terrain is different, but most of the time each square of rough terrain costs 2 squares of movement.
+- **Hazards** are things on the battlefield that are actively dangerous: vats of acid, burning structures, sinkholes, weak floorboards, and traps. The specifics are situational, but usually Hazards need to be avoided, but if they're not you take 1 or more Wound or something even *more interesting* happens. Hazards can also include things like traffic in a busy street, ledges that also count as Rough Terrain, or anything else you can think of.
