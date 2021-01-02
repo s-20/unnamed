@@ -1,35 +1,37 @@
 # NPCs
 
-NPCs in unnamed operate under simpler rules than PCs. They have two Dice Pools - Talented and Untalented - and a [Wound Threshold](WoundThreshold), combined with a Description that explains which pool you use for what. The don't have extensive [Characteristic](Characteristics.md) lists in order to streamline them for easy creation and use. 
+NPCs use different rules than PCs do to help make a GM's life easier. They don't usually have dice pools at all. Instead, they have flat values used to set [Challenges](Challenge.md) for the Players and to show how good they are at stuff. When Players go up against NPCs, they roll against these values. These values are divided into **Fortes** (things they're excellent at) and **Talents** (things they're just good at).
 
-When an NPC makes a check opposing a PC, it sets the difficulty for the check - in order to properly succeed (i.e. "hit" the NPC, out think them, outri=un them, and so on), the PC must roll [Effort](Effort.md) equal to the NPC's. Further Effort can be used for Special Effects.
+NPCs also have a [Wound Threshold](WoundThreshold.md), and may have [Special Abilities](SpecialAbilities.md). While similar to the same statistics on a PC, these use slightly different rules for NPCs.
 
-There's a subset of NPC used to represent things like minions, underlings, common thugs, and other individuals that don't measure up to the PCs. These minor NPCs (called Scrubs) only have one dice pool, and can usually be "take out" with one successful "hit" in combat.
+## Level
 
-## Talented and Untalented
+NPCs have a *level*, which is a numerical value indicating their general competence. Most NPCs will have a level of 2, with higher values for more significant, powerful, or dangerous NPCs.
 
-The Talented DIce Pool is for things the NPC is good at. It is used for when they're doing things in their wheelhouse, and sets the Difficulty for when PCs try to oppose them.  Talented pools tend to be high - 5 to 10 is normal. The NPC can [Burn](Burn.md) their Talented pool to avoid Wounds the way a player can burn their [Aspects](Aspects.md), and can also burn their Talented pool to gain 2 extra dice for a check.
+Because of how levels work, it's best to use even numbers: 2, 4, 6, and so on.
 
-The Untalented pool is used for everything the NPC does outside their expertise, Untalented dice pools are usually half the Talented dice pool (so an NPC with Talented 7 would have Untalented 3), but this can vary for highly specialized individuals, or those with more generalized abilities. Regardless, the Untalented pool is always lower than the Talented pool. The Untalented pool can't be burned or reduced in any way, although penalties can still be applied.
+## Fortes
 
-Either way, sometimes you need to use the NPC's abilities to set a difficulty instead of making a check. In this case, the Difficulty is equal to 1 per 3 ranks in the NPC's dice pool (Talented or Untalented as appropriate), rounded down.
+Fortes are things an NPC excels at. Fortes can be listed using [Characteristics](Characteristics.md) like those of a player, or they can be a few sentences outlining the NPC's areas of expertise. When an NPC sets a Challenge for something covered by their Fortes, the [Difficulty](Challenge.md) is equal to the NPC's level. Most NPCs will have only one Forte, but especially powerful or experienced NPCs might have two or more. 
 
-## Wound Threshold
+A NPC might also have Specialties within their Fortes. These are more specific than the Forte they're based on, and set Challenges at Level + 1.
 
-An NPC's Wound Threshold works the same way a PC's does. When taking damage in [Combat](Combat.md), any Characteristic damage comes off the Talented pool until it is equal to the Untalented pool. After that, any Characteristic damage becomes Wound damage instead.
+## Talents
 
-Major NPCs will often have a significantly higher Wound Threshold than PCs. This isn't exactly fair, but it keeps the NPCs from folding in the first round of Combat or a single well-executed blow, which, while it might be realistic, often feels anticlimactic or unsatisfying. Major NPCs start with a Wound Threshold 3 higher than the PCs, but it can go much higher for big bosses or things like dragons or other giant monsters, super-villains, et cetera.
+Talents represent things the NPC knows how to do, but aren't as good at as they are at their Forte. Talents are defined the same way Fortes are (including Specialties), but they set Challenges at 1/2 the NPC's level, or 1 + 1/2 level for Specialties.
+
+## Wound Threshold and Endurance
+
+An NPC's Wound Threshold works the same way a PC's does. When taking damage in [Combat](Combat.md). NPCs start with a Wound Threshold equal to their Level. You can then tweak the value up or down by a few points if they're especially tough or fragile.
+
+NPCs also have Endurance, usually at 5x their Wound Threshold. Attacks that don't deal Wound damage deal Endurance damage instead. Every 5 points of Endurance damage reduces the NPC's effective level when determining Challenges by 1.
 
 ## Description
 
-A NPC's description is actually an important part of their "character sheet". It tells you whether to use Talented or Untalented pools, along with any [Special Abilities](SpecialAbilities.md) the NPC might have. You should also include a few weaknesses and some background information when describing the NPC. You can handle all this by listing skills or traits as sort of"meta characteristics" if you like, or just describe them in general terms, getting specific about their areas of expertise.
+A NPC's description is actually an important part of their "character sheet". It tells you whether to use Talented or Untalented pools, along with any [Special Abilities](SpecialAbilities.md) the NPC might have. You should also include a few weaknesses and some background information when describing the NPC. You can handle all this by listing skills or traits as sort of *meta characteristics* if you like, or just describe them in general terms, getting specific about their areas of expertise.
 
 ## Scrubs
 
-Scrubs are low-level NPCs that provide some opposition to the PCs, but not a major challenge. These are the nameless thugs the NPC sends at the main characters of a story, random people on the street, most animals, and so on. Scrubs don't have a Dice Pool, just a Difficulty from 1 to 3, or up to 5 for really "elite" scrubs. If you need a Scrub to "do" something that doesn't require the PC's involvement, they succeed if the story says they do, and fail otherwise - or you can roll a die, with success on results of 4 or above.
+Scrubs are low-level NPCs that provide some opposition to the PCs, but not a major challenge. These are the nameless thugs the NPC sends at the main characters of a story, random people on the street, most animals, and so on. Scrubs don't have Fortes, Talents, or even Wound Thresholds. Instead, the just have a Difficulty from 1 to 3. They are essentially treated as just another task to be overcome.
 
-Scrubs usually fold after one or two hits, getting taken out of action or killed as established either by player description or the campaign's [Parameters](Parameters.md). Scrubs can provide 1 [Synergy](Synergy.md) automatically by assisting. If a Scrub attacks a PC, the PC gets a free Defense check of some kind to avoid harm (keeping in mind if they have an extra action penalty - see [Engagement](Engagement.md)). If they fail the check, they take Characteristic damage only unless they roll all Quirks.
-
-## Tags
-
-#gamemastery #core
+Scrubs usually fold after one or two hits, getting taken out of action or killed as established either by player description or the campaign's [Parameters](Parameters.md). Scrubs can provide 1 [Synergy](Synergy.md) automatically by assisting.

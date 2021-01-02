@@ -37,28 +37,24 @@ You can get extra umph for a check by [Burning](Burn.md) a Characteristic. Burni
 
 A burned characteristic is temporarily weakened — its rank is reduced by 1 after the check. You can only Burn characteristics down to a Rank of 1, meaning Characteristics can only be Burned if they have a rank of at least 2. These characteristics are restored over time and depending on the narrative; sometimes they are restored in the next scene, sometimes only after the characters get a chance to rest for an evening, and sometimes only after a significant amount of time has passed.
 
-You can usually only Burn Aspects, Traits, Skills and Connections.
-
 ### Synergy
 
 [Synergy](Synergy.md) is a special benefit that applies when things come together beneficially. It can be claimed from beneficial circumstances, having a high enough ranked Skill related to what you’re doing, a Detail that applies to the situation, the assistance of an ally, and other things that generally give you a better handle on the situation.
 
-Synergy can give you one of several benefits to a check, like a bonus die or extra Effort if you roll enough Effort to succeed without the Synergy. If you gather enough Synergy, you can claim even greater benefits, like free Effort on the check or restored Drama Dice.
-
 ### Drama Dice
 
-[Drama Dice](DramaDice.md) are a shared resource that the players can use to improve their chances of success or to affect a scene. Drama Dice are Burned as they’re used, reducing the available pool of dice, but can be restored through in-game actions like [Entangling](Tangles.md) a scene or check, great roleplaying, completing personal or group goals, and so on.
+[Drama Dice](DramaDice.md) are a shared resource that the players can use to improve their chances of success or to affect a scene. Drama Dice are Burned as they’re used, reducing the available pool of dice, but can be restored through in-game actions like [Entangling](Tangles.md) a scene or check, great role-playing, completing personal or group goals, and so on.
 
 ## Collective Judgment
 
-Characteristics operate under the principle of *collective judgment*. This means that the individual characteristic means what the game group thinks it means, rather than some predefined and carefully outlined list of rules. If the GM or the group in general think it applies to a situation, then it can be used. Use cases should be kept generally consistent, but can change if your group thinks they apply in an unusual circumstances.
+Characteristics operate under the principle of *collective judgment*. This means that the individual characteristic means what the game group thinks it means, rather than some predefined and carefully outlined list of rules. If the GM or the group in general think it applies to a situation, then it can be used. Use cases should be kept generally consistent, but can change if your group thinks they apply in unusual circumstances.
 
-Your characteristics should be fairly obvious in meaning and applications most of the time - we can all agree that *Strong* represents physical prowess and can be used to lift heavy weights and apply force, for example. There might be times, however, where something might appear to apply to this specific moment even if it wouldn't normally, or a given group might decide that a characteristic implies something more than the obvious. Maybe in your group *Strong* also implies a certain physical will, the psychological and physical ability to push one's self harder to improve, the way you've done while working out to get additional ranks in the Trait.
+Your characteristics should be fairly obvious in meaning and applications most of the time. We can all agree that *Strong* represents physical prowess and can be used to lift heavy weights and apply force, for example. There might be times, however, where something might appear to apply to this specific moment even if it wouldn't normally, or a given group might decide that a characteristic implies something more than the obvious. Maybe in your group *Strong* also implies a certain physical will, the psychological and physical ability to push one's self harder to improve, the way you've done while working out to get additional ranks in the Trait.
 
-That's all good - that's the system working as intended. Words have specific meaning, but they also have connotation and subtext for different people. If the group in general thinks that a particular application makes sense based on your justification or your collective judgment, then that's how it works.
+That's all good; that's the system working as intended. Words have specific meaning, but they also have connotation and subtext for different people. If the group in general thinks that a particular application makes sense based on your justification or your collective judgment, then that's how it works.
 
 ## Non Player Characters
 
-The GM's job is difficult enough without having to build full character sheets or memorize/reference huge and complication data blocks for each creature you encounter. NPCs in unnamed use different, more streamlined rules for this reason. A Non-Player Character is made up of a *Talented DIce Pool*, and *Weak Dice Pool* and a few notes indicating which dice pool they use for what. They also have a [Wound Threshold](WoundThreshold.md) like the PCs, although it might be larger or smaller depending on how tough the character is.
+The GM's job is difficult enough without having to build full character sheets or memorize/reference huge and complication data blocks for each creature you encounter. NPCs in unnamed use different, more streamlined rules for this reason. A Non-Player Character is made up of things they're good at (Fortes), and things they're less good at, but still know a bit about (Talents) and a few notes for other things. They also have a [Wound Threshold](WoundThreshold.md) like the PCs, although it might be larger or smaller depending on how tough the character is.
 
 See [Non-Player Characters](NPCs.md) for more information.
