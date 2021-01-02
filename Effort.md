@@ -30,3 +30,9 @@ If you have more Quirks than you have Effort, something *odd* happens. You still
 If you roll Quirks, but no Effort, then you've failed in some way. You might still accomplish your goal if it's necessary to move the plot along, but there is some sort of serious drawback or failing in your efforts that may come back to haunt you. In the ever-present lock picking example, perhaps you left obvious scratches on the lock, broke your tools, or caused the whole lock assembly to fall out of the door. Although the failure is obvious to *you*, it may not be known to your character.
 
 If you roll *nothing but Quirks*, then you have failed in some spectacular fashion. The failure needs to move the action forward in some way, and can't just be a “whoops, guess you didn't get it!” It can be funny or embarrassing, but it shouldn't be directly harmful or utterly humiliating unless it's the player's idea.
+
+## Overkill
+
+Rolling lots of dice can be fun, but it can also be unweildy. To reduce the number of dice you have to search for [Effort](Effort.md) when you have lots, use the Overkill rule: You can always trade five dice for 1 Effort, regardless of other circumstances.
+
+You never roll more than 10 dice at a time in any case. Overkill kicks in as soon as you hit 11 dice, converting five to dice into effort. So if you would roll 14 dice for a check, you instead roll 9 dice + 1 Effort. This applies as often as you need it to: if you manage to pull together 23 dice for a check, you would roll 8 dice + 3 Effort, and so on.

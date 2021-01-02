@@ -2,13 +2,11 @@
 
 This page discusses establishing the parameters of the campaign. It will discuss *session zero*, deciding on a genre of play, levels of realism, and a variety of other topics.
 
-All of this is stuff that you need hash out before every new campaign, and it's best to do it in a group (in person or online), so that everyone is on the same page when the game starts. You can usually also take care of character creation while discussing these things, although it's best to get a pretty good handle on all of the below before you get too deep into character meat and potatoes.
+All of this is stuff that you need to hash out before every new campaign, and it's best to do it in a group (in person or online), so that everyone is on the same page when the game starts. You can usually also take care of character creation while discussing these things, although it's best to get a pretty good handle on everything below before you get too deep into character meat and potatoes.
 
 ## Genre and Theme
 
-Genre and Theme are what sort of story the game is, and what it will deal with. Genera means what you think it means - science fiction, superheroes, and so on. It's about the milieu of the story and what basic tropes you can expect to see. Theme is a bit more difficult to describe, but it has to do with things like tone and perspective. Theme goes over what sort of topics may show up, including any potential Trigger Warnings for planned content.
-
-If someone is uncomfortable with something, they should speak up - gaming is meant to be fun, but no game is better than bad game.
+Genre and Theme are what sort of story the game is, and what it will deal with. Genera means what you think it means: science fiction, superheroes, and so on. It's about the milieu of the story and what basic tropes you can expect to see. Theme is a bit more difficult to describe, but it has to do with things like tone and perspective.
 
 ### Realism
 
@@ -28,8 +26,11 @@ As a rough guide:
 
 - **Normal**: 3. Most of the time, characters can only take 3 Wounds before they're taken out of action (or reduced to severely limited options).
 - **Cinematic**: 5. In the movies, heroes can shrug off bullet wounds and even getting stabbed in the gut. So cinematic heroes need a few more wounds, although nothing to ridiculous.
-- **Superheroes**: 10. Comic book heroes - be they from the Western super hero tradition or Shonen manga - can take a lot of punishment. Superheroes can take up to 10  Wounds before being taken out of action or reduced to severely limited action.
 
-## Content Consent
+## Content Consent: Opting In and Opting Out
 
-Discussion about content, trigger warnings, making sure everyone's comfortable, etc. I actually want to spend some time one this topic if I ever bother to publish this system, but basically establish boundaries and respect them. Not everyone is comfortable with everything, and that's okay.
+Other people have done a much better job at discussing this than I ever could. I strongly recommend reading [Consent in Gaming](https://www.montecookgames.com/consent-in-gaming/) by Sean K. Reynolds and Shana Germain. It's free, it's not overly long, and it's an excellent guide to how consent and respect for boundaries should work at the gaming table.
+
+In short, though, when discussing the parameters of the game, it's important to also establish if there are any off-limits topics respectfully. In addition, players should be able to opt-out *at any time* and *without question or judgement*. Games should be fun, and they should be a space where you can feel safe with your friends.
+
+If you find yourself scoffing at the idea of consent at the gaming table, or think this is some sort of SJW plot to ruin your fun, you're welcome to play a different game.
