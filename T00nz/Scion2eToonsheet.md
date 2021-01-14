@@ -10,17 +10,17 @@ Player | Chronicle | Parent
 
 ## Skills
 
-Skill        | Specialty |  | Skill      | Specialty
------------- | --------- |  | ---------- | ---------
-Academics    | ???       |  | Medicine   | ???
-Athletics    | ???       |  | Occult     | ???
-Close Combat | ???       |  | Persuasion | ???
-Culture      | ???       |  | Pilot      | ???
-Empathy      | ???       |  | Science    | ???
-Firearms     | ???       |  | Subterfuge | ???
-Integrity    | ???       |  | Survival   | ???
-Leadership   | ???       |  | Technology | ???
-Custom       | ???       |  | Custom     | ???
+Skill        | Specialty |     | Skill      | Specialty
+------------ | --------- | --- | ---------- | ---------
+Academics    | ???       |     | Medicine   | ???
+Athletics    | ???       |     | Occult     | ???
+Close Combat | ???       |     | Persuasion | ???
+Culture      | ???       |     | Pilot      | ???
+Empathy      | ???       |     | Science    | ???
+Firearms     | ???       |     | Subterfuge | ???
+Integrity    | ???       |     | Survival   | ???
+Leadership   | ???       |     | Technology | ???
+Custom       | ???       |     | Custom     | ???
 
 **Notes**:
 

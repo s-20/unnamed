@@ -34,4 +34,4 @@ A NPC's description is actually an important part of their "character sheet". It
 
 Scrubs are low-level NPCs that provide some opposition to the PCs, but not a major challenge. These are the nameless thugs the NPC sends at the main characters of a story, random people on the street, most animals, and so on. Scrubs don't have Fortes, Talents, or even Wound Thresholds. Instead, the just have a Difficulty from 1 to 3. They are essentially treated as just another task to be overcome.
 
-Scrubs usually fold after one or two hits, getting taken out of action or killed as established either by player description or the campaign's [Parameters](Parameters.md). Scrubs can provide 1 [Synergy](Synergy.md) automatically by assisting.
+Scrubs usually fold after one or two hits, getting taken out of action or killed as established either by player description or the campaign's [Parameters](Parameters.md). Scrubs can provide 1 [Synergy](Synergy.md) automatically by assisting to a maximum of 2 Synergy total (regardless of how many scrubs are helping).
