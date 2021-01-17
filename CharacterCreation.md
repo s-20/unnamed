@@ -78,7 +78,7 @@ Check the [Special Abilities](SpecialAbilities.md) and [Energy](Energy.md) pages
 
 ### Details
 
-Details represent little things - personal quirks or affectations, bits of minor background, and other stuff that fills in the cracks and makes a character more complete. You can have as many as you‘d like to start with, but it‘s better to take a couple and then fill in more as the game goes on. Details can sometimes provide [Synergy](Synergy.md).
+Details represent little things; personal quirks or affectations, bits of minor background, and other stuff that fills in the cracks and makes a character more complete. You can have as many as you‘d like to start with, but it‘s better to take a couple and then fill in more as the game goes on. Details can sometimes provide [Synergy](Synergy.md).
 
 Check the [Details](Detais.md) page for more… er… details.
 
@@ -92,19 +92,23 @@ Note any Tangles you have on your sheet. Try to keep it under 5 different Tangle
 
 ### Wound Threshold
 
-Wound Threshold is more like a “stat” than a Characteristic most of the time. All characters can sustain a certain number of wounds (by default 3) before succumbing to unconsciousness or severe debilitation. Further Wounds can result in death.
+Wounds represent serious physical, mental, or emotional trauma a character goes through. Most of the time, getting hurt will involve burning off Characteristics, but characters often live very dangerous lives. A Wound is no joking matter, and comes with penalties and the potential for [Scars](Scars.md). Too many wounds can take a character permanently out of action — coma, death, or perhaps even worse.
 
-Your Wound Threshold also notes [Scars](Scars.md) (permanent or long-term effects from being wounded) and the details of your specific Wounds). There are other things, however, that can go in this group, like special resistances/immunity and the details of any protective gear you‘re wearing.
+Your Wound Threshold indicates how many Wounds you can sustain before you are in serious risk of death (or worse). It also indicates any particular resistances you have to damage, or any special vulnerabilities, and it's where you track things like armor. Basically, anything dealing with how vulnerable or resistant you are to different sorts of harm is listed here on your character sheet. Your Wound Threshold also notes [Scars](Scars.md) (permanent or long-term effects from being wounded) and the details of your specific Wounds.
+
+All characters can sustain a certain number of wounds (by default 3) before succumbing to unconsciousness or severe debilitation. Wounds beyond this Threshold can result in death.
 
 See the [Wound Threshold](WoundThreshold.md) page for more details.
 
 ### Stuff
 
-Stuff is all about your possessions. Although big property or something like being very wealthy are handled with Aspects or Connections, other things are more or less “free” during character creation. What is and isn‘t available is up to the GM and should be established (or at least hinted at) in Parameters, but generally things like clothes, mundane weapons or armor, a reasonable amount of cash on hand, and a place to live are all Stuff you just have. You can also just have anything that‘s generally accepted to be a part of life in the setting you‘re using. For instance, in a modern game set in an industrialized nation, you can probably have a smartphone, internet wherever you live, and maybe even a car or other transportation if that would be normal for where and when the story takes place.
+Stuff is all about your possessions. Although big property or something like being very wealthy are handled with Aspects or Connections, other things are more or less “free” during character creation. 
 
-unnamed doesn‘t do a lot of accounting. Your character can be assumed to have access to a reasonable amount of stuff, with a reasonable amount of middle-class wealth, provided that‘s what‘s established in the Parameters. You have some cash on hand, and some credit if that makes sense too. If you have *a lot* of money/property/income/credit, that‘s going to cost you a Connection or (if you‘re basically Bruce Wayne) an Aspect. If you‘re poorer than whatever the parameters establish as average, that‘s good for a Tangle.
+What is and isn‘t available is up to the GM and should be established (or at least hinted at) in Parameters, but generally things like clothes, mundane weapons or armor, a reasonable amount of cash on hand, and a place to live are all Stuff you just have. You can also just have anything that‘s generally accepted to be a part of life in the setting you‘re using. For instance, in a modern game set in an industrialized nation, you can probably have a smartphone, internet wherever you live, and maybe even a car or other transportation if that would be normal for where and when the story takes place.
 
-Either way, you don‘t need to make or track an extensive equipment list. Note the really important stuff (important mechanically, like special weapons/armor, or exceptional tools, and important personally, like your locket with a picture of your dead husband), mention where you‘re living and where your normal income comes from. After that, you have what it would be reasonable for you to have. If you‘re out on an adventure and you need a screwdriver, and it would make sense for your character to be carrying one (because she‘s a carpenter or something), then she has one. Otherwise, she‘s going to have to find one.
+unnamed doesn‘t do a lot of accounting. Your character can be assumed to have access to a reasonable amount of stuff, with a reasonable amount of middle-class wealth, provided that‘s what‘s established in the Parameters. You have some cash on hand, and some credit if that makes sense too. If you have *a lot* of money/property/income/credit, that‘s going to cost you a Connection or (if you‘re basically Bruce Wayne or Tony Tark) an Aspect. If you‘re poorer than whatever the parameters establish as average, that‘s a possible Tangle.
+
+Either way, you don‘t need to make or track an extensive equipment list. Note the really important stuff (important mechanically, like special weapons/armor, or exceptional tools, and important personally, like your locket with a picture of your dead husband), mention where you‘re living and where your normal income comes from. After that, you have what it would be reasonable for you to have. If you‘re out on an adventure and you need a screwdriver, and it would make sense for your character to be carrying one (because she‘s a mechanic or something), then she has one. Otherwise, she‘s going to have to find one.
 
 See [Stuff](Stuff.md) for more details.
 

@@ -1,14 +1,14 @@
-# Special Abilities
+# Special Abilities (WIP)
 
-Special Abilities is a cath-call category for things like super powers, magic, hyper-skills, cybernetics, and so on. In short, Special Abilities cover all the abilities that are beyond the norm for a given campaign.
+Special Ability is a catch-call category for things like super powers, magic, hyper-skills, cybernetics, and so on. SPecial Abilities ar eused to represent the supernatural, the superhuman, and anything else beyond the reach of mortals.
 
-This nebulous definition is intentional; what qualifies as "special" can very from game to game. In a campaign set in the Cloud City of the Winged Elves, the power of flight isn't a special ability, it's a given, and not having it is a [Tangle](Tangles.md).
+This nebulous definition is intentional; what qualifies as special can very from game to game. In a campaign set in the Cloud City of the Winged Elves, the power of flight isn't a special ability, it's a given, and not having it is a [Tangle](Tangles.md).
 
 ## Basics
 
 Special Abilities are defined individually for each character, and are set up in broad terms, using a few sentences to outline them. Some Special Abilities rely just on this description and the application of [Energy](Energy.md), while others rely on a Framework.
 
-Using a Special Ability either relies on using it descriptively in a scene, or pulling dice for a check based on appropriate [Characteristics](Characteristics.md). This makes them operate like other Characteristics - if there are stakes and a chance of failure, or if degrees of success couldhave interesting story impact, you pull dice for a check. Otherwise, you describe what happens and move on.
+Using a Special Ability either relies on using it descriptively in a scene, or pulling dice for a check based on appropriate [Characteristics](Characteristics.md). Special Abilities expand your capabilities to include the 
 
 ### Pulling Dice
 
