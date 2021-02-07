@@ -40,19 +40,19 @@ Any of these or other questions can be discussed well beyond a simple answer. Fo
 
 ### Free Form Creation
 
-Free Form Creation is a bit more direct. After establishing Parameters, everyone gets their 20 Ranks to distribute and you go. You can (and should) still discuss your characters as you make them, of course, but there‘s no guided conversation to bring out details. This method is good for when you want to get a quick start, or when people have a difficulties finding time to get together.
+Free Form Creation is a bit more direct. After establishing Parameters, everyone gets their 20 Ranks to distribute, and off you go. You can (and should) still discuss your characters as you make them, of course, but there‘s no guided conversation to bring out details. This method is good for when you want to get a quick start, or when people have a difficulties finding time to get together.
 
 ## [Aspects](Aspects.md) (2 Ranks)
 
-Aspects are specific to each character. It‘s a short phrase, usually less than five words, describing major areas of expertise, concepts, or other things important to a character. Some examples might include *Damn Good Pilot*, *Elfish Blade-singer*, *Smuggler with Connections*, *Professor of Archaeology at Miskatonic Collage in Arkham*, or *Genetically Enhanced Super Soldier*. In other game systems, Aspects might be represented by Character Classes, “Races”, Heritage, or other similar broad concepts.
+Aspects are specific to each character. It‘s a short phrase, usually less than five words, describing major areas of expertise, concepts, or other things important to a character. Some examples might include *Damn Good Pilot*, *Elfish Blade-singer*, *Smuggler with Connections*, *Professor of Archaeology at Miskatonic University*, or *Genetically Enhanced Super Soldier*. In other game systems, Aspects might be represented by Character Classes, “Races”, Heritage, or other similar broad concepts.
 
-Your character starts with two ranks of Aspects chosen and defined by you. Having two different Aspects is probably the best idea, but you can put both ranks in one Aspect if you prefer. Aspects should be straightforward and easy to interpret. They should be flexible as well, and apply to a number of situations, but not be so broad they apply to **every** situation.
+Your character starts with two ranks of Aspects chosen and defined by you. Having two different Aspects is probably the best idea, but you can put both ranks in one Aspect if you prefer. Aspects should be straightforward and easy to interpret. They should be flexible as well, and apply to a number of situations, but not be so broad they apply to *every* situation.
 
 If your parameters establish that there are non-human options for characters, and you elect to have such a character, at least one Aspect should involve the alternative Heritage (or whatever) in some way. For example, if your campaign has Androids as a possible character option, then at least one Aspect of an Android character should note this fact, but should also have some additional information. *Android* isn‘t a good Aspect, but *Android Science Officer* is. *Hill Dwarf* isn‘t enough, but *Apprentice Hill Dwarf Blacksmith* works well.
 
 ## [Traits](Traits.md), [Skills](Skills.md), and [Connections](Connections.md) (20 Ranks)
 
-You get 20 Ranks to divide between the following groups of Characteristics. Try for at least three of each type, and should put at least 5 ranks into each group. Characteristics are limited to no more than 5 ranks during character creation.
+You get 20 Ranks to divide between the following groups of Characteristics. Try for at least three of each type, and you should put at least 5 ranks into each group. Characteristics are limited to no more than 5 ranks during character creation.
 
 **[Traits](Traits.md)** are chosen from a list found [here](Traits.md) and take the form of Adjectives that describe a character‘s broad abilities. If your character has a similar sort of core ability that is different from those on the list, you can create a new Trait, as long as you discuss it with the game group or at least your GM so that everyone knows what it represents.
 
@@ -88,7 +88,7 @@ Tangles are things that make your life a bit more difficult, or are otherwise dr
 
 Tangles are optional, but help restore [Drama Dice](DramaDice.md) during the game. You can put more than one rank in an individual Tangle if it is especially onerous or intense. In a longer campaign, You can also wait and see what fits best with your character after you start, adding in a few Tangles in the first two or three sessions of play. See the [Tangles](Tangles.md) page for more details.
 
-Note any Tangles you have on your sheet. Try to keep it under 5 different Tangles.
+Note any Tangles you have on your sheet. Try to keep it under 3 different Tangles.
 
 ### Wound Threshold
 
@@ -104,11 +104,13 @@ See the [Wound Threshold](WoundThreshold.md) page for more details.
 
 Stuff is all about your possessions. Although big property or something like being very wealthy are handled with Aspects or Connections, other things are more or less “free” during character creation. 
 
-What is and isn‘t available is up to the GM and should be established (or at least hinted at) in Parameters, but generally things like clothes, mundane weapons or armor, a reasonable amount of cash on hand, and a place to live are all Stuff you just have. You can also just have anything that‘s generally accepted to be a part of life in the setting you‘re using. For instance, in a modern game set in an industrialized nation, you can probably have a smartphone, internet wherever you live, and maybe even a car or other transportation if that would be normal for where and when the story takes place.
+What is and isn‘t available is up to the GM and should be established (or at least hinted at) in Parameters, but generally things like clothes, mundane weapons or armor, a reasonable amount of cash on hand, and a place to live are all Stuff you just have. 
 
-unnamed doesn‘t do a lot of accounting. Your character can be assumed to have access to a reasonable amount of stuff, with a reasonable amount of middle-class wealth, provided that‘s what‘s established in the Parameters. You have some cash on hand, and some credit if that makes sense too. If you have *a lot* of money/property/income/credit, that‘s going to cost you a Connection or (if you‘re basically Bruce Wayne or Tony Tark) an Aspect. If you‘re poorer than whatever the parameters establish as average, that‘s a possible Tangle.
+You can also just have anything that‘s generally accepted to be a part of life in the setting you‘re using. For instance, in a modern game set in an industrialized nation, you can probably have a smartphone, internet wherever you live, and maybe even a car or other transportation if that would be normal for where and when the story takes place.
 
-Either way, you don‘t need to make or track an extensive equipment list. Note the really important stuff (important mechanically, like special weapons/armor, or exceptional tools, and important personally, like your locket with a picture of your dead husband), mention where you‘re living and where your normal income comes from. After that, you have what it would be reasonable for you to have. If you‘re out on an adventure and you need a screwdriver, and it would make sense for your character to be carrying one (because she‘s a mechanic or something), then she has one. Otherwise, she‘s going to have to find one.
+unnamed doesn‘t do a lot of accounting. Your character can be assumed to have access to a reasonable amount of stuff, with a reasonable amount of middle-class wealth, provided that‘s what‘s established in the Parameters. You have some cash on hand, and some credit if that makes sense too. If you have *a lot* of money/property/income/credit, that‘s going to cost you a Connection or (if you‘re basically Bruce Wayne or Tony Stark) an Aspect. If you‘re significantly poorer than whatever the parameters establish as average, that‘s a possible Tangle.
+
+Either way, you don‘t need to make or track an extensive equipment list. Note the really important stuff (important mechanically, like special weapons/armor, or exceptional tools, and important personally, like your locket with a picture of your dead husband), mention where you‘re living and where your normal income comes from. After that, you have what it would be reasonable for you to have. If you need a screwdriver, and it would make sense for your character to be carrying one (because she‘s a mechanic or something), then she has one. Otherwise, she‘s going to have to find one.
 
 See [Stuff](Stuff.md) for more details.
 

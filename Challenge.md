@@ -12,16 +12,16 @@ Failing to meet the Difficulty doesn’t always mean failure, particularly if fa
 
 The further you are from the required Challenge, the worse your results. So rolling no successes on a Difficulty 2 check isn’t as bad as it would be on a Difficulty 3 check, and so on. The table below provides a guideline for setting Difficulties.
 
-| Difficulty | Description
-| :---: | :---:
-| 1 | Simple
-| 2 | Average
-| 3 | Challenging
-| 4 | Hard
-| 5 | Very Hard
-| 6+ | The province of masters
+| Difficulty | Description |
+| :---: | --- |
+| 1   | Simple |
+| 2   | Average |
+| 3   | Challenging |
+| 4   | Hard |
+| 5   | Very Hard |
+| 6+  | The province of masters |
 
-If you’re making a check at all, that means that it isn’t a given that you’re fully successful. Stuff that’s easy to accomplish is just assumed to go as planned. If you’re skilled or talented enough, then even things of Average or higher difficulty can become a non-issue; see [Overkill](Overkill.md) for more details.
+If you’re making a check at all, that means that it isn’t a given that you’re fully successful. Stuff that’s easy to accomplish is just assumed to go as planned. If you’re skilled or talented enough, then even things of Average or higher difficulty can become a non-issue, at the GM's discretion.
 
 ## Added Challenge
 

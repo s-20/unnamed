@@ -13,11 +13,11 @@ By default, Burning a Characteristic provides one of two benefits, depending on 
 
 ## Avoiding Wounds
 
-You can Burn a Characteristic to avoid taking a [Wound](WoundThreshold.md). If you‘re hit for a wound, you can reduce the amount of damage you take by 1 if you burn most Characteristics, or by 2 if you burn an [Aspect](Aspects.md). You can reduce the total damage to 0 this way.
+You can Burn a Characteristic to avoid taking a [Wound](WoundThreshold.md). If you‘re hit for a wound, you can reduce the amount of damage you take by 1 if you burn most Characteristics, or by 2 if you burn an [Aspect](Aspects.md). You can reduce the total damage to 0 this way, but you can only Burn one Characteristic per damage source.
 
 In order to burn a Characteristic this way, it has to make some kind of sense. For example, if you were going to get hit with a thrown dagger, you could burn an agility-related characteristic to turn it into a glancing blow, reducing the damage by 1 Wound. If you fall off a building, you could burn your Olympic Gymnast Aspect to avoid turning into a pancake, and so on.
 
-The key is being able to describe your response to the incoming damage in a convincing (or at least plausible) way. If you can’t, then it doesn’t work; you take the wound, and your characteristic remains unburned. This means that sometimes you’re not going to be able to avoid damage this way. If you fall in a pool of lava, you’re going to have trouble coming up with a plausible way to avoid getting badly burned.
+The key is being able to describe your response to the incoming damage in a convincing (or at least plausible) way. If you can’t, then it doesn’t work; you take the wound, and your characteristic remains unburned. This means that sometimes you’re not going to be able to avoid damage this way. If you fall in a pool of lava, you’re going to have trouble coming up with a plausible way to avoid getting badly charred.
 
 During [Combat](Combat.md), burning a characteristic in this way doesn’t count as an action or reaction. You can do it as often as you like in a round, although you can only burn one characteristic per damage source.
 
@@ -33,6 +33,6 @@ The rank of a burned Connection may require extra time or some sort of role-play
 
 Burned Characteristics recover whenever it makes sense for them to do so. Generally, you can recover 1 rank to a single Characteristic at the end of each scene, and all burned Characteristics when you get a chance to rest for a while (a night’s sleep, a few hours of meditation, a week in hospital, etc.).
 
-You can also regain burned characteristics as a [Stunt](Stunts.md), and you can recover 2 burned Characteristics after [Combat](Combat.md) as soon as you get a chance to catch your breath. You don’t recover them until you can recoup for a few minutes (so if you dive directly into a chase scene of something, you’re still winded and don’t have access to the lost ranks).
+You can also regain burned characteristics as a [Stunt](Stunts.md), and you can recover 2 burned Characteristics after [Combat](Combat.md) as soon as you get a chance to catch your breath. You don’t recover them until you can recoup for a few minutes, so if you dive directly into a chase scene of something, you’re still winded and don’t have access to the lost ranks.
 
-Burned Connections are a little different and are handled on a case-by-case basis. A day may be enough for some, while others might take weeks to forgive you. You might be able to accelerate the recovery with a gift, doing them a favor, or otherwise demonstrating that you are about them, value them, are loyal, et cetera.
+Burned Connections are a little different and are handled on a case-by-case basis as indicated [above](#burning-connections). A day may be enough for some, while others might take weeks to forgive you. You might be able to accelerate the recovery with a gift, doing them a favor, or otherwise demonstrating that you are about them, value them, are loyal, et cetera.

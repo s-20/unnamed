@@ -20,23 +20,23 @@ Let's talk about The Princess Bride.
 
 Remember the scene when the Dread Pirate Roberts gets into a duel of intellect with Viccini? How he had spent years developing an immunity to Iocane Powder, apparently just in case a situation like this came up?
 
-That's a Detail. Immunity or resistance to all poison is far too broad; that's probably a [Special Ability](SpecialAbilities.md). Immunity or resistance to all snake venom, or to neurotoxin, or to all synthetic poisons might also be too broad. Being immune to one specific poison works really well, though. My character is immune to Death Dust, or Black Lotus Powder, or Iocane Powder all work well.
+That's a Detail. Immunity or resistance to all poison is far too broad; that's probably a [Special Ability](SpecialAbilities.md). Immunity or resistance to all snake venom, or to neurotoxins, or to all synthetic poisons is likewise too broad. Being immune to one specific poison works really well, though. My character is immune to Death Dust, or Black Lotus Powder, or Iocane Powder all work well.
 
-### Lojban
+### Weird Languages
 
-There's a [Constructed Language](https://en.wikipedia.org/wiki/Constructed_language) out there called [Lojban](https://en.wikipedia.org/wiki/Lojban); it's a language intended to be universal based on logical principles, and has a wonderfully complete grammar. It hasn't gained a lot of ground in the world, but it does have a few hundred (thousand?) speakers in the world. Knowing Lojban might make a quirky Detail for a character; it says something about them, could come in handy in a somewhat bizarre circumstance, and provides no obvious general benefit on a day-to-day basis. If, however, during the game you run into a fellow Lojbanist, it could be *very* useful, establishing an immediate connection and common thread.
+There's a [Constructed Language](https://en.wikipedia.org/wiki/Constructed_language) out there called [Lojban](https://en.wikipedia.org/wiki/Lojban); it's a language intended to be universal based on logical principles, and has a wonderfully complete grammar. It hasn't gained a lot of ground in the world, but it does have a few dozen speakers in the world. Knowing Lojban might make a quirky Detail for a character; it says something about them, could come in handy in a somewhat bizarre circumstance, and provides no obvious general benefit on a day-to-day basis. If, however, during the game you run into a fellow Lojbanist, it could be *very* useful, establishing an immediate connection and common thread.
 
 Knowing Lojban is a neat Detail. [Language](Languages.md) is largely hand-waved in unnamed, but knowing a strange, obscure, or subculturally significant language is a Detail. In the Star Trek setting, knowing Klingon is just a part of your character's background. On modern day earth, it's a Detail.
 
 ### Equipment Details
 
-We all know someone who always carries a pocket knife or a multitool. As indicated in the [Stuff](Stuff.md) article, if it makes sense for a character to always have a piece of equipment, then they probably have it. But if there's something small that you *always* have, that might be a detail. Depending on the tone of your game, having such a detail could give you access to such a thing *even if it doesn't make sense for you to have it*. For instance, a character that after being strip-and-cavity searched still has their trusty pocket knife.
+We all know someone who always carries a pocket knife or a multitool. As indicated in the [Stuff](Stuff.md) article, if it makes sense for a character to always have a piece of equipment, then they probably have it. But if there's something small that you *always* have, that might be a detail. This is best reflected with details like *Always wears sunglasses* or *Never leaves home without their Leatherman*.
 
-Things like this should generally not be useful as more than an improvised weapon, and should probably be small and easily missed. *Always has a paperclip* is fine for most games, while *never without their Tank* isn't. Larger things can work as details in sillier games. Discuss it with your GM and game group. 
+This is different from listing an item in your stuff because normal circumstances where you might assume they'd forgotten it or left it at home don't apply. For instance, if someone is forced to run out of their house in an emergency, they probably won't be stopping to grab a bunch of stuff, but if the character has a Detail like *Inseparable from their Kindle* they will, in fact, have that funny little tablet with the ad-riddled OS on their person.
 
 ## New Details
 
-You can gain new details at any time during play. Like a [Connection](Connections.md), the GM can give you one whenever they think it's appropriate. Likewise, if something happens that you think might make a good addition to your character, you can ask the game group if you can add it to your character. You don't generally need to spend [Advancements](Advancement.md) to get new Details.
+You can gain new details at any time during play. Like a [Connection](Connections.md), the GM can give you one whenever they think it's appropriate. Likewise, if something happens that you think might make a good addition to your character, you can ask the game group if you can add it to your character (“Anybody mind if I throw *Just loves Anime* on my sheet, since I've referenced it six times in two sessions?”). You don't generally need to spend [Advancements](Advancement.md) to get new Details.
 
 ## Using Details
 

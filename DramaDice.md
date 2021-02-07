@@ -6,7 +6,9 @@ By default, a game starts with a Drama Dice pool equal to the number of players 
 
 ## Pulling Drama Dice
 
-Players can pull Drama Dice into any check. These dice are rolled and counted for [Effort](Effort.md) normally. In this way, Drama Dice function as flashes of inspiration, luck, or any other arbitrary improvement in circumstance. They can also be used for checks where the character doesn't have any [Characteristics](Characteristic.md) to pull into the check, allowing them a chance to do something they have no idea how to do by “lucking” into success.
+Players can pull Drama Dice into any check. These dice are rolled and counted for [Effort](Effort.md) normally. In this way, Drama Dice are like flashes of inspiration, luck, or any other arbitrary improvement in circumstance. 
+
+They can also be used for checks where the character doesn't have any [Characteristics](Characteristic.md) to pull into the check, allowing them a chance to do something they have no idea how to do by “lucking” into success. If you can't pull *any* characteristics and are operating just on Drama Dice, you only count Effort on a result of 6, rather than 5 and 6.
 
 Unlike [Characteristics](Characteristics.md), pulled Drama Dice are removed from the pool. For any given check, you can only pull one Drama Die, but other players can pull a similar number of dice *for you* to add to the check. In fact, other players can pull dice to add to your check even if you don’t pull any Drama Dice at all.
 
@@ -22,18 +24,23 @@ Players may also [Burn](Burn.md) Drama Dice to try to affect a scene. When using
   - *There's a chandelier I can swing from, right?*
 - It can cause some other coincidental event that helps the players or otherwise makes the scene more fun or interesting
   - *And that's when the power went out!*
-- Etc. 
+- Other similar uses are encouraged
 
-The changes must be limited in scope, and cannot cause a massive disruption of the narrative. Changes can only add to a scene — you can't make things vanish that were already there. In short, they have to make narrative sense.
+The changes must be limited in scope, and cannot cause a massive disruption of the narrative. Changes can only add to a scene — you can't make things vanish that were already there, although they might break or get knocked down a sewer grate. In short, they have to make narrative sense.
 
 When you *burn* a Drama Die in this way, the benefit comes from the scene rewrite, and you don't add dice to any checks. That having been said, it can create favorable circumstances that grant [Synergy](Synergy.md), make a new task possible, or otherwise open up new opportunities that are beneficial, even if you don't get a bonus to a check from the die itself.
 
 ## Gaining Drama Dice
 
-At the start of each session, the Drama Dice pool is reset to the number of players, so there's no sense in stockpiling them. During play, you can gain Drama Dice in the following ways:
+In a short campaign, the Drama Dice are reset to the total number of players at the start of each session. In an ongoing campaign, the pool is reset at the start of each story arc (or the next Act, or the next Episode — however you're tracking these things). Either way, there's not much point in stockpiling them.
 
-- If you roll no [Effort](Effort.md) on a check, add a Drama Die
-- If you roll less Effort than the [Difficulty](Challenge.md) on a check where you can apply a [Focus](Skills.md), add a Drama Die
+During play, you can gain Drama Dice in several ways:
+
+- If you roll no [Effort](Effort.md) on a check that has 5 or more dice, add a Drama Die
+- If you roll no Effort on a check where you can apply a [Focus](Skills.md), add a Drama Die
 - Any time a PC takes a [Wound](WoundThreshold.md), add a die to the Drama Dice Pool
-- If a PC dies, add Drama Dice to the pool equal to the number of players,
+- Entangled checks and scenes can restore multiple drama dice; see [Tangles](Tangles.md)
+- [Stunts](Stunts.md) can be used to restore Drama Dice as well
+- If a PC dies, add 2 Drama Dice
 - Exceptional Role-play, cool actions, or something that advances the story significantly adds one or more dice to the pool
+- Whenever the GM says so
