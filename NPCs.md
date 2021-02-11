@@ -20,15 +20,27 @@ A NPC might also have Specialties within their Fortes. These are more specific t
 
 Talents represent things the NPC knows how to do, but aren't as good at as they are at their Forte. Talents are defined the same way Fortes are (including Specialties), but they set Challenges at 1/2 the NPC's level, or 1 + 1/2 level for Specialties.
 
+### Untalented
+
+Anything the NPC does that's outside both Forte and Talent is considered Untalented. Untalented actions can usually be defeated by PCs automatically; if the PC can put together a Dice Pool, they beat the NPC, with any [Effort](Effort.md) usable for [Stunts](Stunts.md) or [Overkill](Overkill.md).
+
+More powerful NPCs can use their Endurance (see below) to bolster Untalented actions at a 1 for 1 rate, up to a maximum of 2 or 1/2 their level, whichever is lower.
+
+### Teamwork
+
+You may notice that higher level NPCs may set unreasonably high Difficulties. PCs can use teamwork to pool successes in a single round, action, or scene to reach these difficulties. In other words, they can focus their efforts, working together through tactics or similar methods, to pool a single effort. 
+
+This allows for climactic battles that require the heroes to work together to defeat a powerful foe. Instead of combining individual actions, the PCs will have to work together to “stack” their collective abilities. 
+
 ## Wound Threshold and Endurance
 
 An NPC's Wound Threshold works the same way a PC's does. When taking damage in [Combat](Combat.md). NPCs start with a Wound Threshold equal to their Level. You can then tweak the value up or down by a few points if they're especially tough or fragile.
 
-NPCs also have Endurance, usually at 5x their Wound Threshold. Attacks that don't deal Wound damage deal Endurance damage instead. Every 5 points of Endurance damage reduces the NPC's effective level when determining Challenges by 1.
+Major NPCs (those of level 4 or higher) also have Endurance, usually at 5x their Wound Threshold. Attacks that deal Wound damage deal Endurance damage instead. In addition, Endurance is used to fuel any Special Abilities they might have in place of a normal [Energy](Energy.md) pool. Every 5 points of Endurance damage reduces the NPC's effective level when determining Challenges by 1.
 
 ## Description
 
-A NPC's description is actually an important part of their "character sheet". It tells you whether to use Talented or Untalented pools, along with any [Special Abilities](SpecialAbilities.md) the NPC might have. You should also include a few weaknesses and some background information when describing the NPC. You can handle all this by listing skills or traits as sort of *meta characteristics* if you like, or just describe them in general terms, getting specific about their areas of expertise.
+A NPC's description is actually an important part of their *character sheet*. It tells you whether to use Forte or Talent pools, along with any [Special Abilities](SpecialAbilities.md) the NPC might have. You should also include a few weaknesses and some background information when describing the NPC. You can handle all this by listing skills or traits as sort of *meta characteristics* if you like, or just describe them in general terms, getting specific about their areas of expertise.
 
 ## Scrubs
 
