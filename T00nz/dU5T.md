@@ -66,23 +66,37 @@ Taken Out    | ???
 
 ## Deeds
 
-- **Short**: Find who gave me the apartment
-- **Long**: Can't remember
+- **Short**: Summon my guide (small body of water)
+- **Long**: What am I?
 - **Group**:
-
-## Knacks
-
-_Wireless Interface (107)_ _Innate Toolkit (107)_ _Reverse Engineer (107)_
-
-## Contacts
 
 ## Calling
 
-**Creator**:
+1. **Creator** 1
+2. **Liminal** 1
+3. **??**
+
+## Knacks
+
+_Wireless Interface (106)_ _Innate Toolkit (106)_ _Reverse Engineer (106)_
+
+## Contacts
+
+- **Randall Watkins**, creator of a massively popular MMORPG; currently paying my rent, the fucker.
 
 ## Momentum and XP
 
-**Momentum**: 7 I think **Experience**: 24 (I think)
+**Momentum**: 0 **Experience**: 26 (I think)
+
+## Guide
+
+**Lady of the Lake 1?**
+
+- **Asset Skills**: Occult, Academics
+- **General Benefit**: Guides can grant access to equipment, locations, allies, contacts, and narrative editing the same way Paths do, using the same guidelines for what requires invocation and what doesn't. Narrative editing usually takes the form of the guide showing up or pulling strings to help
+- **Study of Truth and Myth (1 to 3 successes)**: Invoke Guide when rolling one of their asset skills to gain this benefit. Gain or Assign an enhancement equal to successes spent to the next roll you designate during the current session.
+- **True Sight**: The blessing of the Lady bestows her charge with the ability to see the truth of any situation with focus (and the expenditure of 1 _Momentum_ to make it active for the scene).
+- **Deus Ex Machina**: Scion gains the following for the rest of the scene: Acts as if 1 Tier higher, may use 1 boon he doesn't know in a purview they have access to. Gain _Tempted Fate_ Condition afterwards.
 
 ## Notes
 
@@ -98,12 +112,8 @@ _Wireless Interface (107)_ _Innate Toolkit (107)_ _Reverse Engineer (107)_
 - Creator of some damn online game paid for my apartment. This will require a conversation... eventually
 - Can forge starlight, when ready?
 
-## Lady of the Lake
+## My Notes
 
-**Guide 1?**
+My apartment was provided by: **MMORPG Guy Randall Watkins**
 
-- **Asset Skills**: Occult, Academics
-- **General Benefit**: Guides can grant access to equipment, locations, allies, contacts, and narrative editing the same way Paths do, using the same guidelines for what requires invocation and what doesn't. Narrative editing usually takes the form of the guide showing up or pulling strings to help
-- **Study of Truth and Myth (1 to 3 successes)**: Invoke Guide when rolling one of their asset skills to gain this benefit. Gain or Assign an enhancement equal to successes spent to the next roll you designate during the current session.
-- **True Sight**: The blessing of the Lady bestows her charge with the ability to see the truth of any situation with focus (and the expenditure of 1 _Momentum_ to make it active for the scene).
-- **Deus Ex Machina**: Scion gains the following for the rest of the scene: Acts as if 1 Tier higher, may use 1 boon he doesn't know in a purview they have access to. Gain _Tempted Fate_ Condition afterwards.
+My quest to know what exactly I am, since I'm not really Kumiho, but I'm also not really Human or Scion.

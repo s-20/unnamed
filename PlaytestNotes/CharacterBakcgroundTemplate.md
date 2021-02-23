@@ -24,6 +24,12 @@ Character Concept:
   - **Date of Birth**:
 - **Style**:
 - **Gender/Gender Identity**:
+  - **Pronouns**:
 - **Sexuality**:
 
-##
+## History
+
+- **Nationality**:
+- **Hometown**:
+- **Birthplace**:
+- **Date of Birth (current date: 1 September 2025)**:

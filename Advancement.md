@@ -22,8 +22,8 @@ New Aspect                            | 5
 Improve Aspect                        | 2x the new Rank
 New Trait, Skill, or Connection       | 3
 Improve a Trait, Skill, or Connection | 1x the new Rank
-New Focus                             | 2
-Expand Special Ability                | 5
-New Special Ability                   | 10
+New Focus (Max. 3 per Skill)          | 1 + 1 per Focus you already have on that skill
+Expand Special Ability                | 1 or more (Discuss with your GM)
+New Special Ability                   | 5 or more (Discuss with your GM)
 
-Gaining a new Focus requires you to have at least two ranks in the associated Skill; see [Skills](Skills.md).
+Gaining a new Focus requires you to have at least two ranks in the associated Skill, and you get one free Focus when you reach 2 ranks; see [Skills](Skills.md).

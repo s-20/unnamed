@@ -16,7 +16,7 @@
 - [Advancement](Advancement.md)
 - [Burn](Burn.md)
 - [Challenge](Challenge.md)
-- [Characteristics](Characteristic.md)
+- [Characteristics](Characteristics.md)
     - [Aspects](Aspects.md)
     - [Connections](Connections.md)
     - [Skills](Skills.md)

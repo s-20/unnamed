@@ -19,6 +19,7 @@ These are the currently open Threads, Clues, and other such stuff.
 ### Cong Liao+Aelio Minos Meeting at the Wharf
 
 - Clue - Cong Liao was doing a favor from someone, trying to offload these Giant Hermit Crabs. Aelio agreed to take them in at the Aquarium.
+- Clue - *He is a snake, he is a dragon, he has his own machinations. He seeks the stones for his own purposes*
 
 ### The Dream versus The Vision at the Temple
 
@@ -101,3 +102,10 @@ This is stuff that we've taken care of. At least, we think we have. Who knows? G
 #### Resolution
 
 Everyone was fated to meet eventually, events have accelerated this.
+
+## Richard Tower
+
+- *He seeks power in its absolute form*
+- His master is Atlas
+  - Atlas was releaced five years ago
+  - Apollo currently stands in his place

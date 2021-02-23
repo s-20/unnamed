@@ -70,22 +70,22 @@ This list isn’t exhaustive, and can be expanded to include setting-specific th
 
 ### Sample Skills
 
-**Careful-Deception**: You are skilled at lying or otherwise misleading without getting caught.
-**Covert-Research**: You are skilled at doing research without others knowing what you’re up to, or are skilled at doing research into covert ops or other such things, or both.
-**Occult-Sabotage**: You can either break stuff through occult means, or you can disrupt occult actions, etc.
-**Martial-Art**: You can look at this as meaning skill in *literal* Martial Arts (Pankration, MMA, Wu Shu, etc.), or a skill in military or combative artistry.
-**Scientific-Assassination**: The use of sciencey stuff to kill people, or knowing how to destroy the reputation of a scientist or science-based organization or theory. In fairness, if you know how to do one, you probably also know how to do the other.
-**Linguistic-Lore**: You know a lot about languages, and probably speak more than a few.
+- **Careful-Deception**: You are skilled at lying or otherwise misleading - without getting caught.
+- **Covert-Research**: You are skilled at doing research without others knowing what you’re up to, or are skilled at doing research into covert ops or other such things, or both.
+- **Occult-Sabotage**: You can either break stuff through occult means, or you can disrupt occult actions, etc.
+- **Martial-Art**: You can look at this as meaning skill in *literal* Martial Arts (Pankration, MMA, Wu Shu, etc.), or a skill in military or combative artistry.
+- **Scientific-Assassination**: The use of sciencey stuff to kill people, or knowing how to destroy the reputation of a scientist or science-based organization or theory. In fairness, if you know how to do one, you probably also know how to do the other.
+- **Linguistic-Lore**: You know a lot about languages, and probably speak more than a few.
 
 ## Focus
 
-A Focus is a specific area where your knowledge of a skill is especially in depth. You can think of it as a focused area of study, a specialization, or a particular talent. Unlike a Skill, a Focus is neither pulled nor burned. Instead, you gain [Synergy](Synergy.md) whenever the Focus applies.
+A Focus is a specific area where your knowledge of a skill is especially in depth. You can think of it as a focused area of study, a specialization, or a particular talent. Unlike a Skill, a Focus is neither pulled nor burned. Instead, you gain [Synergy](Synergy.md) whenever the Focus applies, and a [Drama Die](DramaDice.md) is added if you make a check involving a Focus and don't beat the [Difficulty](Challenge.md) on the check.
 
 Focuses are player-defined, but they should be explainable in a single sentence, and should indicate a much more specific aspect of the related skill. For example, if you have the skill Operate-Computers, with a focus on Hacking, you would claim Synergy any time you were trying to break into someone’s Facebook account or take down the FBI’s website, but you wouldn’t get Synergy when using a computer for anything else, like doing web research, programming, or repairing your borked Endeavor OS install.
 
 A Focus can also be motivational instead of skill oriented. For instance, you could have Close-Combat (Defending my Honor), and claim Synergy when fighting to restore face or avenge an insult. In fact, a Focus can be just about anything you can think of, as long as it represents a more precise subset of use cases. During the Full Moon, During the First Round of Combat, or When Wounded are all situational options, for instance.
 
-You gain a free Focus with your second rank in a Skill. You can take additional Focuses for a single skill (see [Advancement](Advancement.md)). There is a limit of 2 Focuses to a single Skill.
+You gain a free Focus with your second rank in a Skill. You can gain additional Focuses for a skill through [Advancement](Advancement.md), but there is usually a limit of 3 Focuses to a single Skill.
 
 ## Dilettante
 
