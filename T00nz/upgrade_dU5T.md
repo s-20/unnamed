@@ -72,13 +72,28 @@ Taken Out    | ???
 
 ## Calling
 
-1. **Creator** 1
+1. **Creator** 2
 2. **Liminal** 1
-3. **??**
+3. **Sage** 2
 
 ## Knacks
 
-_Wireless Interface (106)_ _Innate Toolkit (106)_ _Reverse Engineer (106)_
+### Any
+
+### Creator
+
+- _Wireless Interface (225)_ 
+- _Innate Toolkit (224)_ 
+- _Reverse Engineer (224)_
+- _The Unlimited Quartermaster (225)_ 
+
+### Liminal
+
+_Beyond Memory (230)_
+
+### Sage
+
+_Cipher (Immortal; 233)
 
 ## Contacts
 
@@ -86,7 +101,7 @@ _Wireless Interface (106)_ _Innate Toolkit (106)_ _Reverse Engineer (106)_
 
 ## Momentum and XP
 
-**Momentum**: 0 **Experience**: 31 (I think)
+**Momentum**: 0 **Experience**: 26 (I think)
 
 ## Guide
 

@@ -12,6 +12,11 @@ Characteristics are divided into different types:
 - **[Traits](Traits.md)** represent broad areas of talent or development, indicating if a character is particularly *Strong*, *Agile*, *Clever*, or even *Lucky*. Traits are adjectives you could use to describe the character in a general sense.
 - **[Skills](Skills.md)** are things a character knows about or how to do through talent or training. Skills are made by combining two words — an Adjective or Verb and a Noun — to create a descriptive phrase, like *Religious-Lore* or *Technological-Sabotage*.
 - **[Connections](Connections.md)** are things that connect a character to the world around them, like shared experiences, people, or organizations. Connections are tailor made for each character, and can be things like *Stormed the beaches at Normandy*, *Friends with Bob Mirrorshades at MegaCorp, Inc*, or *From Florida and Proud of that fact for some reason*.
+
+## Statistics
+
+[Statistics](Statistics.md) are also resources, but they are sperated from the core Characteristics because they operate under different rules, both during character creation and during the game. They might be used differently, or they might be highly specific to an individual setting, campaign, or even a single character. Outside to Wound Threshold and Stuff, not all characters will have all statistics, and some might not even exist in a given game.
+
 - **[Special Abilities](SpecialAbilities.md)** are things a character can do that are beyond the abilities of mortal man. That is, Special Abilities represent things like *psychic ability*, *magic*, *cybernetics* or *superpowers*.
 - **[Energy](Energy)** is a collection of sub-characteristics that represent pools of potential ability that fuel Special Abilities, like *magic points* or *willpower*.
 - **[Details](Details.md)** are little things about the character that rarely come up, but can provide a small benefit when they do. Things like *studied Renaissance poetry*, *knows a few obscure computer languages*, or *always carries a pocket knife* are examples.
@@ -21,7 +26,7 @@ Characteristics are divided into different types:
 
 ### Presumption of Competence
 
-Characters in the unnamed system are assumed to be generally competent. While there are exceptions (you probably aren’t competent at Quantum Physics without Characteristics that reflects that fact), characters know how to do all the regular stuff you’d expect a person in their world to be able to do. This means, for instance, that you don’t need a rank in the Strong Trait to help push a car up a hill, but you can help more if you *do* have it.
+Characters in the unnamed system are assumed to be generally competent. While there are exceptions (you probably aren’t competent at Quantum Physics without appropriate Characteristics), characters know how to do all the regular stuff you’d expect a person in their world to be able to do. This means, for instance, that you don’t need a rank in the Strong Trait to help push a car up a hill, but you can help more if you *do* have it.
 
 If you have even one rank in something, that means you’re good at it; average is no ranks, and being actually bad at something is a [Tangle](Tangles.md).
 
