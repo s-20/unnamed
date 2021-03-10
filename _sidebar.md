@@ -4,47 +4,48 @@
 
 [Github Project Page](https://github.com/s-20/unnamed)
 
-## Vital Stuff
+## Core Rules
 
-- [Main Index](UnnamedIndex.md)
-- [Core Mechanics](HBCore.md)
-- [Drama Dice](DramaDice.md)
-- [Character Creation](CCSummary.md)
+- [Core Mechanics](Core.md)
+- [Character Creation](CharacterCreation.md)
 
 ----
 
-**[Character Sheet Download](https://s-20.github.io/unnamed/Playtest1/PlaytestCharacterSheet.md)**
-
-Use your favorite Makrdown or Text editor (I suggest [VSC Code](https://code.visualstudio.com/) or [StackEdit](https://stackedit.io/)) to fill it out!
-
-----
-## Alphabetical Index
+## Index
 
 - [Advancement](Advancement.md)
-- [Basics, The](HBCore.md)
 - [Burn](Burn.md)
-- [Characteristics](Characteristic.md)
-- [Character Creation](CCSummary.md)
-  - [Aspects](Aspects.md)
-  - [Complications](Complications.md)
-  - [Connections](Connections.md)
-  - [Details](Details.md)
-  - [Languages](Languages.md)
-  - [Skills](Skills.md)
-  - [Special Abilities](SpecialAbilities.md)
-    - [Energy](Energy.md)
-  - [Traits](Traits.md)
-    - [Meta Traits](MetaTraits.md)
-  - [Wound Threshold](WoundThreshold.md)
-- [Your Stuff](Stuff.md)
+- [Challenge](Challenge.md)
+- [Characteristics](Characteristics.md)
+    - [Aspects](Aspects.md)
+    - [Connections](Connections.md)
+    - [Skills](Skills.md)
+    - [Traits](Traits.md)
 - [Combat](Combat.md)
-  - [Skirmish Rules](Skirmish.md)
-  - [Engagement Rules](Engagement.md)
-- [Conditions](Conditions.md)
+  - [Engagement](Engagement.md)
+  - [Skirmish](Skirmish.md)
+- [Challenge](Challenge.md)
 - [Death](Death.md)
 - [Drama Dice](DramaDice.md)
+- [Effort](Effort.md)
+- [Languages](Languages.md)
+- [Meta-Traits](MetaTraits.md)
+- [NPCs](NPCs.md)
 - [Parameters](Parameters.md)
-- [Stack](Stack.md)
+- [Quirks](Quirks.md)
+- [Scars](Scars.md)
+- Statistics
+  - [Details](Details.md)
+  - [Energy](Energy.md)
+  - [Special Abilities](SpecialAbilities.md)
+  - [Tangles](Tangles.md)
+  - [Wound Threshold](WoundThreshold.md)  
+- [Stuff](Stuff.md)
+- [Stunts](Stunts.md)
 - [Synergy](Synergy.md)
 
-[Credits](Credits.md)
+## Meta
+
+- [README](README.md)
+- [Discord](https://discord.gg/tEEMfNW)
+

@@ -1,121 +1,99 @@
-# Special Abilities
+# Special Abilities (WIP)
 
-Special abilities (abbreviated SA) are ways in which the characters can mess with how the world around them works in interesting and creative ways. They represent things like magic, psychic ability, super powers, and superhuman martial prowess.
+Special abilities are things like magic, super powers, cybernetics, combat techniques, and other things that give you an edge over normal humans. In short, they're stuff normal people can't do.
 
-Not all campaigns will use this Special Abilities subsystem, even campaigns that have them. For example, in a campaign where everyone has the same abilities, or abilities are small tweaks (like the Features described below), or when you just don't want the added complexity, you can bypass this system.
+In a game that has Special Abilities, all players get the same access to them based on the [Scale](#-scale) of the campaign.
 
-All SAs are tailored to the individual character. SAs *must* be created in cooperation between the GM and the player, and *should* be made in cooperation with the whole group. Group chat rooms like Discord or online forums can be very useful for this, allowing everyone to discuss things at a as-you-can-get-to-it pace to keep your [Session 0](Parameters.md) from getting completely bogged down in SA discussions.
+Special Abilities are optional, and while building them is intentionally disconnected from the rest of your character, there are often mechanical links between them. In other words, while your [Characteristics](Characteristics.md) and [Statistics](Statistics.md) can apply to your Special Abilities, you don't have to sacrifice anything from those parts of your character to have fun and effective Special Abilities. 
 
-## Entry Requirements
+## Basics
 
-Depending on your Campaign, you may need to do certain things to gain access to Special Ablities. These things vary from campaign to campaign and ability to ability, and may include any of the following:
+In unnamed, it's more important to have the abilities you want, and that fit your character, than it is for everyone to be *balanced*. 
 
-- *Origin Requirement* - You may have to specify the source of the powers in your [Origin](Origin.md); this is almost always a requirement.
-- *Aspect Requirement* - You may have to dedicate an [Aspect](Aspects.md) to the Special Ability (resulting in Aspects like Psychic Ability, Cybernetically Enhanced, or Faerie Blooded).
-- *Trait Requirement* - You may need to take one or more stack in a particular [Trait](Traits.md) or [Metatrait](MetaTraits.md).
-- *Connection Requirement* - Some Special Abilities require justification through [Connections](Connections.md); this might mean a Temporal Connection (Present at the Blue Event), a Personal Connection (Sensei Shi, Master of the Flying Fist), or anything else that makes sense in context. This will usually require a stack above 1.
-- *Complication Requirement* - The Special Ability might require you to take one or more Complications. For example, in the Marvel 616, Stigma: Mutant would be required if you got your powers from being a Mutant.
-- *Adjustment Point Requirement* - Finally, you might have to dedicate some or all of your [Adjustment Points](AdjustmentPoints.md) to gaining access to Special Abilities. It's usually best to use one of the preceeding methods instead of this one, but this might be aprropriate for buying individual Spells (Exploits, see below) or similar small additions.
+> This is the *Superman/Batman Principle*: both of them are members of the Justice League and work together on the same missions, but they have wildly different power levels. Realistically, in a battle to the death, Batman doesn't stand a chance against someone who can literally punch a planet in half and move faster than the eye can see. Sure, Batman's the peak of human perfection and a tactical genius, but that'll only get you so far against someone who can perform precise brain surgery with heat vision through the lens of your eye. In the comics, though, they're presented as equals.
 
-## How Many do I Get?
+The way it works is simple enough in principle, and at its most basic is similar to how [Aspects](Aspects.md) work: define the power in a few sentences, and then either pull it into rolls or use it to describe actions those without the power couldn't do. 
 
-This is a question that's difficult to answer, and requires judgement on the part of both the player and the GM. Generally speaking, because of how broad the subsystem is, one is sufficient for most starting characters.
+As an ongoing campaign progresses, the power description can be expanded and new ways of using the power can be discovered. These expansions aren't *bought* using [Advancements](Advancement.md), but are instead added organically as they come up in play.
 
-The unnamed System doesn't handle powers and similar Special Abilities the way other games do. Because things like how much damage you can do in combat and other balancing factors are [handled](Combat.md) [elsewhere](WoundThreshold.md), the Special Ability section can focus on doing cool, fun things. Because of this shift in focus, abilities can be very broad and cover a lot of ground. For example, basically all of Spider Man's abilities other than his web shooters are all one Special Ability.
+There are two components to Special Abilities that need to be decided at a per-campaign level and outlined in the [Parameters](Parameters.md): *[Scale](#scale)* (the general power level of the game), and *[Ability Origins](#origin)* (where the abilities can come from). Once these have been established, you can move on to *[Description](#description)*, *[Applications](#application)* and *[Energy](#energy)* which define the special abilities in game terms. Finally, to keep some internal consistency in a given game, you can use *[Frameworks](#frameworks)* to outline how specific types of Special Ability work.
 
-That same freedom comes at a cost, however. The bespoke nature of the SA subsystem means that each character's SA takes time to create, and considerations and concessions must be made on all sides of the discussion to avoid something that will throw off the story or make play difficult or challenges trivial.
+## Scale
 
-So, the answer here is **be reasonable**. You have as many SAs as it takes to make your character, but one ability can go a long way. Basically, anything that can be included in a single Sketch (see below) is a single ability, even if it has many, many applications.
+Scale is a story-wide measure of the power (or potential power) of the character's Special Abilities. The higher the scale, the more powerful, broad, and/or earth-shattering the abilities are. Scale is a value from 1 to 10; see the [table below](#scale-chart).
 
-## The Basics
+Scale can actually vary within a given setting depending on the individual story or campaign; a game involving Superman and Batman has a different scale than one centering around Lois Lane and Jimmy Olson, but they occupy the same universe. The scale chosen for an individual game usually applies to the PCs, not the universe it is set in.
 
-Special Abilities start with a overall description - three or fewer sentences that outline what the abilities are intended to accomplish.
+If a character has multiple Special Abilities, only one will be at full Scale. Additional Special Abilities are usually at half scale or lower. If characters are allowed multiple Special Abilities then all characters *can* have the same number, but don't need to. Characters should be limited to no more than three Special Abilities under most circumstances, unless you're shooting for greater granularity.
 
-Each Special Ability is made up of at least two major components, and may have more. The components of the Special Ability are:
+As previously stated, once the Scale is established, all characters have access to powers or abilities of that scale. That doesn't mean they *have* to have powers of that scale, of course. If you prefer a lower Scale for your character, you can define your powers that way if you like. When you pull Scale when using these lower level abilities, you still get the same number of dice by default, however.
 
-1. **Sketch** - A brief outline of what the power is, where it comes from, and a summary of what you want it to do. This is comparable to a character's [Origin](Origin.md), but narrowed down to a special ability. All SAs require a Sketch.
-2. **Features** - parts of the special ability that directly affect gameplay, but don't themselves require rolls (although they may modify the results of other rolls).
-3. **Exploits** - Discrete effects or groups of effects that draw from an [Energy Pool](Energy.md) of some kind. Exploits are limited use things, kind of like Spells and similar effects, that can be done quickly and may be useful in combat. Exploits may or may not require a check, depending on their individual setup.
-4. **Powers** - Powers are aspects of Special Abilities similar to Features, except they can be pulled directly into checks, or require checks to use. Powers can be [Burned](Burn.md) for extra effort just like [Traits](Traits.md).
-5. **Procedures** - Similar to Exploits, Porcedures are discrete effects or groups of effects that can be quite powerful, but require significantly more time than an Exploit, and do not normally require the use of [Energy](Energy.md). They may incur a *Loss*, however (see below).
-6. **Side Effects** - These are quirks, small or large, that accompany the use of the Special Ability. They can be funny, inconvenient, annoying, or downright dangerous.
-7. **Losses** - Some Special Abilities have costs other than [Energy](Energy.md) or just time. They may drain [Traits](Traits.md) or other characteristics, or inflict [Conditions](Conditions.md), or even inflict [Wounds](WoundThreshold.md).
-8. **Flaws** - Specific weaknesses or inabilities of a Special Ability, like being ineffective against the color yellow, getting shut down in the presence of a specific type of glowing green rock, or not working when your hands have been bound by a man.
+### Scale Chart
 
-## Specifics
+| Scale | Name | Description |
+| --- | --- |--- |
+| 1 | Perks | The characters have abilities that can be mistaken for natural phenomena, high skill, or simple luck. The characters *themselves* may be unaware that they have special powers. At this Scale, characters don't usually have access to [Energy](#energy). |
+| 2-3 | Minor | Characters have more obvious and powerful abilities that set them apart from, but not out of the reach of, normals. Special Abilities at this scale might still be able to pass for simple talent, but tend to stand out more. |
+| 4-5 | Major | The characters have abilities that truly set them apart from others, and are impossible to mistake for natural abilities. |
+| 6-7 | Planetary | The characters have powerful and/or broadly applicable special abilities that can alter the course of history. The characters definitely qualify as *super-heroes* at this scale. |
+| 8-9 | Cosmic | The characters can do things like alter planetary orbits, create pocket dimensions, or understand and manipulate the fundamental forces of the universe. The characters are easily mistaken for deities. |
+| 10 | Godlike | At this scale, the characters effectively *are* deities. Their powers can affect the *multiverse*, they can punch stars, survive black holes, and perhaps affect entire galaxies. |
 
-In the tabs below, you'll find specific rules for each of the different components described above. Each tab will also provide examples.
+It's important to note that the Scale chart is *flexible*. There are things listed here that might be on a lower or higher level based on your setting. For example, perhaps you don't think that creating pocket dimensions would be out of place for spell-casters in your otherwise Scale 5 sword-and-sorcery campaign. Any adjustments like this should be discussed among the players and the GM, to make sure everyone is operating from the same set of rules. 
 
-<!-- tabs:start -->
+On a similar note, making one thing from a higher scale available as a plot point or a focus of a campaign or story arc doesn't change the Scale of the campaign as a whole; it may just be a MacGuffin. 
 
-### **Sketch**
+## Origin
 
-A Sketch outlines the basics of your SA and what you hope to accomplish with it. It starts with a few sentences that describe where the power comes from, it's theme, and its scope:
+The Origin describes where the Special Ability comes from. This could include just about anything allowable by the Parameters. Martial Arts and Ki, magical energy and training, psychic talent, ultra-tech weapons and armor, superhuman mutation, radioactive spider bite — you name it.
 
-?> *Miles has spider-themed abilities that are the result of being bitten by a genetically engineer spider causing him to become a Spider Totem. He has the proportionate strength, agility, speed, and endurance of a spider, an innate danger sense, can zap people with "venom blasts", and has a chameleon ability, although what that has to do with spiders I don't know.
+An individual campaign may have predefined Origins, the player might make up their own, or both. Most of the time, a character should only have one Special Ability Origin regardless of how many Special Abilities they have. While there are a few exceptions (Spider-man has both his radioactive spider bite and his super-tech web shooters, for instance), most characters derive all their powers from a single source. Even in Spider-man's case, all the abilities are at least *in theme*.
 
-A sketch is completed by providing a short outline of the other components in the SA. This part should be completed after you've pulled in all the stuff you want to use for the Special Ability, and is used as a quick reference.
+By default, Origin is more of a thematic and story choice, rather than a mechanical one. It operates like a [Detail](Details.md) mechanically, granting [Synergy](Synergy.md) when it comes up.
 
-Each Sketch contains *one* source of power, however. to continue the Spider Man example, Miles needs a separate SA for his web shooters, because they're a product of technology, not his actual spider powers.
+It can also be used in other ways, depending on the setting. For instance, maybe anyone in a given setting with magical special abilities has a chance to sense the presence of active magic. It can also be used (depending on campaign Parameters) to control access to [Energy](#energy), or provide other benefits, weaknesses, or abilities. 
 
-### **Features**
+## Description
 
-A Feature is a discrete ability that affects gameplay and how your character affects the world they are in, but doesn't in itself require a roll to use. While features can modify rolls, or change how you can use [skills](Skills.md) or other abilities.
+The Special Ability description provides the information you need to use the ability in the context of the story. The Description is one or more sentences that outline what the special ability is. Think of it as the blurb at the beginning of a superhero comic that describes what the main characters can do.
 
-Take, for a mundane example, a knife - it has the Sharp feature that allows it to cut. The knife is always sharp, and sharpness doesn't have to be turned on, but it has a dramatic impact on how it can be used.
+Here are a few examples that might seem familiar:
 
-Features are parts of a Special Ability that just work. While features might affect what you can do with certain skills or other characteristics, they don't specifically require any checks to use.
+* *Peter has the powers of a spider: enhanced strength and reflexes, the ability to cling to surfaces and walk on walls, and a powerful danger sense*
+* *Steven is the Sorcerer Supreme of Earth, with access to spells and the ability to manipulate magical energies on a cosmic scale*
+* *As an Amazon demigod, Diana has phenomenal strength and lightning reflexes, can fly, and can resist most mundane sources of damage*
 
-?> *Examples: Super Strength, Wall Crawling, Super Agility**
+And a few less specific examples:
 
-Features should be described in a single sentence. For example, say that you're making a psychic, and you want them to be able to see auras, allowing them to spot people who are in distress, better spot lies, and so on. You could describe the Feature like this:
+* *Jane has superhuman archery skills allowing her to perform amazing trick shots. She also possesses agility beyond that of an Olympic gymnast*
+* *Bobby's cybernetic implants allow them to communicate directly with any computer that has any sort of wireless interface*
+* *Thanks to his bloodline, John can summon elemental spirits to aid him both in and out of battle*
 
-?> **Aura Sight**: Claire can see auras, allowing her to spot the supernatural and read moods. A check is required to get more than surface level information.
+When possible, a single description should cover all the abilities granted by a single Origin. The description can be as many sentences as you need to explain the ability, but shouldn't be *too* specific, and allow some wiggle room to expand, push, or reach as needed. *Strong enough to lift a truck* is better than *Can lift ten tons*, for example.
 
-It is important to note that Features are largely **passive**, even though they can sometimes be actively used. For example, Spider-Man's wall crawling is a Feature because it's just something he can do - it is to him what walking on the floor is to you or me. He can use it in creative ways (sticking to an enemy, for example) with a check, but the basic ability just works.
+A Description doesn't always contain everything the Special Ability can do. Instead, it represents your current understanding of the scope of your abilities. Events in the game can expand these abilities, and different situations might bring special uses. In addition, [Energy](#energy) can be used to expand a Special Ability.
 
-### **Exploits**
+### Application
 
-Exploits represent things like spells, ki techniques, and so on. A given SA will usually have more than one Exploit, but it's not required. The point is that an Exploit requires an Energy Pool of some kind to power it.
+To use an ability in game, you pull together a check based on your [Characteristics](Characteristics.md) as usual. Your Special Ability by itself doesn't really add additional mechanics, it just lets you use the existing rules in different ways. A character with *superhuman strength* can do things with their Characteristics that someone without that Special Ability can't even imagine doing.
 
-A SA that has Exploits often has several and may have a dozen or more. More powerful ones should have a higher cost, or can be modified with Procedures (see below) to help balance them out. The primary balancing factor of Exploits, however, is the Energy Pool.
+If two individuals are clashing who have different [Scales](#scale), the one with the higher Scale gets bonus [Effort](Effort.md) on their check equal to the difference. So if someone using a Scale 3 ability goes up against someone with a Scale 5 ability, the individual at Scale 5 would get +2 Effort for their check before they even rolled.
 
-As explained in the [Energy](Energy.md) article, there are several different Energy Pools that each provide a different feel. Make sure to read that article in order to get a feel for all the options, but here are a few examples:
+## Frameworks
 
-?> **The Wizard's Spells** A player wants to play a wizard that has a lot of different useful spells at their disposal. They and the GM come up with a few broad options that can be treated as different spells (a Fire exploit that can do different things with Fire, a Guardian exploit that can provide a variety of different protective effects, et al), and decide that the power and scope of each spell will determine the cost (a single blast of fire from the fingertips costs less than a massive fireball). No specific spells are defined so that the Wizard always has a trick up their sleeve.
+Frameworks allow you to set up general special abilities that follow a theme, giving you a shorthand that provides consistence within a given campaign. Once Frameworks are established in a campaign, they all use the same description as a baseline, and any variance or additional abilities are included in the Special Ability description.
 
-?> **The Ninja's Tricks** A player wants her character to be a ninja kind of like the ones in the game Tenchu: Stealth Assassin. She wants a few Ninja magic effects - disappear from plain sight, substitute a log in their place to avoid a hit, and teleporting behind an opponent for an assassin's strike. She and the GM decide on a Momentum pool - Hide in PLain sight at 1 (allows her to move and hide as one action even when in full view), Substitution once per 2 Momentum, but never more than once in a round, and a Teleport at Momentum 4.
+For example, perhaps you have an organization of superhuman thieves in your setting who all have a few abilities in common. You could use that to set up the following Framework:
 
-### **Powers**
+> **Rogues of Assalon**<br>
+> The Rogues of Assalon can shroud their presence: their footsteps make no noise, they leave behind no tracks, and even when spotted, they tend to be dismissed as shadows. In addition, they can scale sheer walls without equipment, and simple locks come open at their touch
 
-Powers are things that use their own dice and provide their own stack. They are similar to Features in that they can be used without a check when the character isn't under duress, or when going for the most baseline of effect. Anything more powerful, however, requires a Check. This Check is both an Activation (turning the power on) and a Success check.
+After the framework was established, it could be added to any character in the campaign just by writing **Rogue of Assalon**, and could be expanded by saying something like *Jin is a Rogue of Assalon who has expanded their shroud to include leaving behind no trace of their presence at all; anything they moved shifts back to where it was after they leave the scene*.
 
-Powers can be Trait Dependent or Independent. A Trait Dependent Power doesn't have a Stack of its own and instead relies on a Trait's stack. The Power can be added to any check involving the trait as long as doing so makes some kind of sense, adding extra effects with extra successes.
+Frameworks can be used to establish any consistent ability you'd like in your setting. For example, if all Elves in your fantasy game are agile and can see in the dark, you could use that description as your framework. Any elf character could then gain free Effort from Scale in matters of opposed agility and use their observational characteristics to see things in dark places.
 
-An Independent Power has its own stack, by default starting at 1 and improvable through [Advancements](Advancement.md) as though it were a Trait. When pulling the power for a check, it takes the place of a Trait, so you cannot also pull a Trait into the check (see the [Core Rules](HBCore.md)). However, when you [Burn](Burn.md) an Independent Power, you gain a free Success instead of easier dice.
+## Energy
 
-### **Procedures**
+[Energy](Energy.md) is a special group of [Statistics](Statistics.md) that allow you to perform powerful feats, usually based on your Special Abilities. Energy is either a spendable or buildable resource. That is, it either represents a pool you can draw from until it is depleted, or it is a growing power source that opens extra stuff up over time. 
 
-### **Side Effects**
-
-### **Losses**
-
-### **Flaws**
-
-### **Details**
-
-<!-- tabs:end -->
-
-## Ability Stunts
-
-## SA Packaging
-
-If a group wants to add consistency to a game setting and make Special Ability creation a bit faster, they can create SA Packages. An SA Package is a predefined partial sketch and set of components. Basically, you create a brief outline to establish a baseline for an ability type. Then, when someone wants to make a character of that type, much of the work has been done for them.
-
-SA Packages should still be customized per character, making that particular version unique to the character, unless everyone with those abilities is identical in the setting. For example, an SA Package for Wizards in a Fantasy Setting might outline all the basic components of wizardry, but not the specific spells each wizard would have.
-
-SA Packages can also be used to pregenerate certain specific character alterations (like cyberware or magic items) that can be picked up along the way. Yes - in the unnamed System, magic items are considered Special Abilities.
-
-## Character Creation: What's Next
-
-The next step in [Character Creation](CCSummary.md) is to select up to 5 [Details](Details.md).
+When setting up your Special Abilities, you should note any Energy you have access to and what it is used for; see the full [Energy](Energy.md) article for more details.

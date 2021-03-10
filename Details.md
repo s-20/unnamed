@@ -1,70 +1,45 @@
 # Details
 
-Details are little quirky parts of your character that are only helpful in rare or obscure circumstances. Details are ways to fill out the quirks and individualistic things that make your character unique.
+Details are little quirky parts of your character that are only helpful in rare or obscure circumstances. Details are ways to fill out the peculiarities things that make your character unique.
 
-During Character Creation, you can take up to 5 Details. You don't have to take them right way in a longer campaign - you can fill them in over the course of the first few sessions as you get to know your character. In a shorter game, however, it's a good idea to get at least 3 good details down to help round out your character.
+During Character Creation, you can add a few Details if you’d like, but you should try to keep the list short (at least to start). You don't have to take them right way, either - details don’t make a huge mechanical difference, and so can be added as they come up.
 
 ## Creating Details
 
-Details represent very minor characteristics - things less broadly useful than even a [Focus](Skills.md). They're meant to add a few interesting twists to a character.
+Details represent very minor [Characteristics](Characteristics.md).  They're meant to add a few interesting and potentially useful twists to a character.
 
 Details should follow these guidelines:
 
-- *Specific* - A detail is a specific thing, like being exceptionally tall, or having one eye, or being a Manchester United fan
-- *Not obviously useful* - Details aren't a place to get one over on the system (let's face it - that's not hard to do). If something seems immediately and obviously useful, it might fit better as a [Focus](Skills.md), a [Connection](Connections.md), or some other [Characteristic](Characteristic.md). This doesn't mean it *won't* be useful, just that if you think it might come up several times in the campaign, it's not a detail.
-- *Minor* - Details are the little things. Even if something's specific and not obviously useful, if it's a big deal, it can't be a Detail. FOr example, if you're a clone, that's probably not a detail, even in a campaign where clones are common.
+- **Details are Small**: A detail is a unique and specific part of a character, but it's also a small thing, like an affectation or a hobby
+- **Details aren't obviously useful**: They are things that you might notice about a person, or they might talk about, but that don't come in handy very often
+- **Details aren't [Tangles](Tangles.md)**: Details shouldn't be things that get you into trouble. “Bit of a problem drinker” might seem minor enough, but it's much more likely to cause problems than be helpful, and probably deserves to be a Tangle instead of a detail, for instance.
 
-### Example One: Terry Knows ALGOL
-
-Linda's character Terry is a white-hat hacker and a computer programmer. Ze thinks that a good quirk for Terry would be to know a specific Computer Language. She bounces the idea of C++ off zer GM, but it (rightly) told that being fluent in one of the most ubiquitous object-oriented programming languages in history isn't a "detail" - it's just part of Terry's Computers (Programmer) skill.
-
-After a little research, Linda decides that Terry in fascinated with and knows a lot about old, completely outdated computer languages. Linda tells zer GM that Terry knows ALGOL.
-
-GM: What the hell is ALGOL?
-
-Linda: It's a dead computer language from the fifties and sixties.
-
-GM: Well alright then.
-
-So, on Terry's character sheet, ze writes down "Knows ALGOL".
-
-### Example Two: From the Princess Bride
+### Iocane Powder
 
 Let's talk about The Princess Bride.
 
-Remember the scene when the Dread Pirate Roberts gets into a duel of intellect with Viccini? How he had spent years developing an immunity to the poison iocane, apparently just in case a situation like this came up?
+Remember the scene when the Dread Pirate Roberts gets into a duel of intellect with Viccini? How he had spent years developing an immunity to Iocane Powder, apparently just in case a situation like this came up?
 
-That's a Detail. Immunity or resistance to all poison is far too broad - that's probably a [Special Ability](SpecialAbilities.md). Immunity or resistance to all snake venom, or to all neurotoxins, or to all synthetic poisons is likewise too broad.
+That's a Detail. Immunity or resistance to all poison is far too broad; that's probably a [Special Ability](SpecialAbilities.md). Immunity or resistance to all snake venom, or to neurotoxins, or to all synthetic poisons is likewise too broad. Being immune to one specific poison works really well, though. My character is immune to Death Dust, or Black Lotus Powder, or Iocane Powder all work well.
 
-Immunity to one very specific poison works really well, though. My character is immune to Death Dust, or cyanide, or iocane all work great. You can't use toxins that are widely consumed in a recreational capacity (alcohol, marijuana, etc.), just obscure or expensive individual poisons.
+### Weird Languages
 
-### Example Three: Being Polylingual
+There's a [Constructed Language](https://en.wikipedia.org/wiki/Constructed_language) out there called [Lojban](https://en.wikipedia.org/wiki/Lojban); it's a language intended to be universal based on logical principles, and has a wonderfully complete grammar. It hasn't gained a lot of ground in the world, but it does have a few dozen speakers in the world. Knowing Lojban might make a quirky Detail for a character; it says something about them, could come in handy in a somewhat bizarre circumstance, and provides no obvious general benefit on a day-to-day basis. If, however, during the game you run into a fellow Lojbanist, it could be *very* useful, establishing an immediate connection and common thread.
 
-**For more information**: [Languages](Languages.md)
+Knowing Lojban is a neat Detail. [Language](Languages.md) is largely hand-waved in unnamed, but knowing a strange, obscure, or subculturally significant language is a Detail. In the Star Trek setting, knowing Klingon is just a part of your character's background. On modern day earth, it's a Detail.
 
-Unless you decide otherwise, your character is considered fluent and literate in any language that's part of their background. Additional languages are considered detail - one language per Detail, with dialects/pidgins thrown in as a bonus if they're in character.
+### Equipment Details
 
-## Holding Off
+We all know someone who always carries a pocket knife or a multitool. As indicated in the [Stuff](Stuff.md) article, if it makes sense for a character to always have a piece of equipment, then they probably have it. But if there's something small that you *always* have, that might be a detail. This is best reflected with details like *Always wears sunglasses* or *Never leaves home without their Leatherman*.
 
-
-As previously noted, if you can't come up with all your details right away, that's not a big deal. They can be filled in as they come up.
-
-This works best in a game that's going to last several sessions at least, but you can just claim a detail (again, up to five total) when a situation demands it. Remembering the guidelines above, with the one change that it can actually be *very* useful to the specific situation when it comes up.
-
-The added Detail must *make sense*. You can't just throw random little things in to get you out of trouble. It needs to have some reasonable explanation within the context of you background, other Details, Skills, or established events.
-
-For instance, the player controlling Wesley in the Princess Bride could have claimed the Iocane Powder detail right when they needed it to win the battle of the brains. He had been training - hard - to return to Buttercup, was a master strategist, and was quite knowledgeable in how to kill people - it as reasonable to believe that he might do something like develop an immunity to a poison in case something like this came up.
+This is different from listing an item in your stuff because normal circumstances where you might assume they'd forgotten it or left it at home don't apply. For instance, if someone is forced to run out of their house in an emergency, they probably won't be stopping to grab a bunch of stuff, but if the character has a Detail like *Inseparable from their Kindle* they will, in fact, have that funny little tablet with the ad-riddled OS on their person.
 
 ## New Details
 
-You can gain new details at any time during play. Like a [Connection](Connections.md), the GM can give you one whenever they think it's appropriate. Likewise, if something happens that you think might make a good addition to your character, you can ask the game group if you can add it to your character.
+You can gain new details at any time during play. Like a [Connection](Connections.md), the GM can give you one whenever they think it's appropriate. Likewise, if something happens that you think might make a good addition to your character, you can ask the game group if you can add it to your character (“Anybody mind if I throw *Just loves Anime* on my sheet, since I've referenced it six times in two sessions?”). You don't generally need to spend [Advancements](Advancement.md) to get new Details.
 
 ## Using Details
 
-Details can be used in a variety of ways. They are sort of like every characteristic taken to a microscopic level. You can pull them like Skills or Traits into the rare check where they're appropriate, or they can provide passive benefits.
+From a mechanical standpoint, on the rare occasion that a Detail can be of some help to a check, it grants you [Synergy](Synergy.md). Details can't be burned or pulled for checks, but if more than one Detail applies, then you get Synergy for each one.
 
-If you pull a Detail, it provides a Die just like a 1 Stack [Skill](Skills.md). Details cannot be [Stacked](Stack.md), but they can provide passive effects, or even grant automatic success with a task if it seems approrpriate.
-
-## Character Creation: What's Next
-
-The next step in [Character Creation](CCSummary.md) is to select [Complications](Complications.md); while this is technically optional, it's a very good idea.
+Details can come up in other ways. A detail might allow you to notice something you wouldn’t otherwise, or get drawn into a situation for any of a number of other reasons. It might also allow a check you wouldn’t get otherwise.

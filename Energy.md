@@ -1,55 +1,47 @@
 # Energy
 
-Energy represent a resource used to power a [Special Ability](SpecialAbilities.md) in the unnamed System. Energy isn't strictly required, but can be used to add flavor, to keep things within campaign [Parameters](Parameters.md), or to help balanc e out very flexible or powerful [Special Abilities](SpecialAbilities.md).
+Energy is a resource used to power a [Special Ability](SpecialAbilities.md) or some sort of special action in the unnamed System. Energy is optional, and is a sub-characteristic of Special Abilities.
 
-Energy comes in many forms, and should be named individually depending on how it is used for consistency in a given setting. For example, if you decide that holiness and avoiding taboos allows you to increase your mystical power, and that power is only lost through taboos, then you could call that Energy source Manna, and later characters or NPCs that use the same sort of abilities could follow the same rules.
+The characteristic comes in many forms, and should be named individually depending on how it is used for consistency in a given setting. For example, if you decide that holiness and avoiding taboos allows you to increase your mystical power, and that power is only lost through taboos, then you could call that Energy source Manna, and later characters or NPCs that use the same sort of abilities could follow the same rules.
 
-Like [Special Abilities](SpecialAbilities.md), Energy should be tailored to the given campaign or even to the specific character. Below are several examples of different Energy pools and how to implement them. These should be used as inspiration, and altered at will.
+Like [Special Abilities](SpecialAbilities.md), Energy should be tailored to the given campaign or even to the specific character. One Special Ability can use different Energy Pools for different effects. Some Energy Pools are Dynamic (their totals go up and down as they are used), some are progressive (they scale up or down based on something other than use), and some are static (you have as much as you have, improving only through [Advancement](Advancement.md)). Here are a few example Energy Pools, with suggestions on how to implement them.
 
-## Static Pool (Majika, Magic Points)
+## Magic Points
 
-A Static Pool represents a sort of Spell-Point system - each use of the [Special Abilities](SpecialAbilities.md) depending on how powerful the effect is. Once you run out of a Static Pool, you're done using the [Special Abilities](SpecialAbilities.md) until you can recharge the pool in some way.
+Magic Points are a pool used to create discrete effects from a list of available options or *spells*. A *Spell* list can be a predefined list of known effects or it can be tied to more generalized abilities or [Skills](Skills.md). Magic Points are expended to create the effects. Most of the time, Spells require time as well: one or more Actions in [Combat](Combat.md) or some period of time out of combat. Magic Points are replenished either through rest or ritual.
 
-Static pools are more fun if they're large, and since they're difficult to replenish (see below), it's fair to make them fair sized. 20 is a good staring point, adding 2 for every stack in an appropriate [Skill](Skills.md) and 5 for an appropriate [Talent](Skills.md) and every stack in a related [Aspect](Aspects.md).
+The way Magic Points work will vary from setting to setting, so you should outline any special rules you have, How Magic Points are replenished is an important thing to consider, It can be renewed completely at sunrise, after meditation, through potions, by drinking the blood of the innocent, or whatever makes sense for the setting. How powerful and dynamic Spells are is equally important. Renaming Magic Points to something more setting specific and flavorful can add a lot as well.
 
-### Recharging the Pool
+Magic Point pools tend to be high, allowing for flexibility in the power of effects (a 1 point spell and a 10 point spell might have vastly different power levels). The pool could be based on a [Characteristic](Characteristics.md) (e.g. 10x your ranks in an [Aspect](Aspects.md) like “Wizard of the Golden Order”, or 10x your ranks in the *Resolute* [Trait](Traits.md) plus your ranks in the Know-Magic [Skill](Skills.md)). Alternately, it could be a flat value improved through Advancements (starts at 10, +5 per Advancement).
 
-When you establish the Static Pool, you also have to establish a way to recharge it. This usually comes in the form or meditation or study for magic, but can also mean recharging batteries, gathering components, getting more ammunition, or whatever else makes sense.
+Spell costs vary, and must be tailored to the power level of the campaign to a certain degree. In combat, it should cost at least 5 Magic Points to create an effect that deals [Wound Damage](WoundThreshold.md) under most circumstances.
 
-The main thing is that recharging the pool isn't *trivial*. It takes time, effort, and/or expense, and cannot be done the moment an encounter is over. Generally, you at least have to wait until the end of a scene, but you might have to wait until the end of an in-game day or longer.
+## Corruption
 
-## Building Pool (Technique, Combat Tech)
+A Corruption Energy Pool grows as you use it, leading to side effects ranging from [Conditions](Conditions.md) to role-play consequences or physical alterations. The point is that as your Corruption increases, bad things start to happen. 
 
-A Building Pool builds up by doing something else - making attacks in combat, taking damage, casting spells, or what have you. You can spend from the pool to activate an ability at any time, provided you have enough in the pool.
+Corruption could also have a threshold of some kind. After you reach this level of corruption, effects might become worse, permanent, life-threatening, or there might be some event horizon after which there's no turning back: you're lost to evil, madness, the dark side, or whatever fits.
 
-While a Static Pool is difficult to fill, a Building Pool is difficult to keep. You generally lose all of your Building Pool at the end og an encounter or a scene, depending on the nature of the ability.
+Before you reach the Threshold, there should be a way to reduce your corruption. Therapy, cleansing rituals, performing virtuous acts, drinking potions, etc. Removing Corruption should be non-trivial, but how difficult it is can add a lot of flavor to a setting.
 
-Building Pools are good for simulating the sort of Combos sometimes found in MMORPGS, or for abilities related to combat techniques or long rituals that you have to charge up to use.
+## Escalation
 
-## Discipline (Divinity, Honor, Manna)
+Escalation is a growing pool that can be used in several ways. As a specific event occurs, the Escalation increases, providing more and more dice for whatever it is used to power, and sometimes unlocking new possible actions along the way. Escalation can grow every round of Combat, for instance.
 
-A Discipline pool isn't spent like a Static or Building pool. Instead, it is maintained through actions (rituals, prayer, holy deeds, performing sacraments, maintaining honor, etc.) at a particular level, and as long as it stays at that level, you have access to related abilities.
+Escalation isn't spent, it just unlocks more and more abilities or adds to a dice pool. For instance, a character might need time to really get going, gaining 1 Escalation each round of combat, allowing them to use their most impressive abilities only once they've really gotten into the zone. Escalation could also be a universal thing: if everyone gets more dice to attack checks each round of combat, things get deadlier as the battle progresses.
 
-If through particularly pious or honorable action (or whatever), you raise your Discipline pool above its normal level, you may gain access to new abilities, or your existing abilities may become more powerful. Going against the teachings of your deity or being dishonored, on the other hand, will cause you to lose discipline. Once your level goes below its normal level, you cannot use your abilities at all until you atone or otherwise redeem yourself.
+Escalation either resets to 0 shortly after the event is over, or otherwise fades with time. 
 
-Although Discipline is described as "honor" or "piety" above, it can be applied to any complex or ritualistic code of conduct. It can represent gaining and keeping Mojo or Manna by performing rites to appease spirits and avoiding taboos, for instance.
+## Limit
 
-## Serendipity (Pure luck)
+Limit builds until it reaches a certain point, and can then be unleashed, after which it is reset to 0 and starts to build again. Limit can grow when you get hit, when you roll a certain level of [Effort](Effort.md), or anything else you can think of. 
 
-Not exactly an energy pool, Serendipity activates an ability when certain random conditions are met. The easiest way to handle is is to specify something along the lines of "Whenever I roll triples", or "If I roll 1, 2, 3 and still get at least 1 Success."
+Once your Limit is reached, you use it all at once for something big defined by your Special Ability or the campaign [Parameters](Parameters.md). After use, your Limit is reduced to 0 and then begins to build again.
 
-Any random mechanic can be used, however - you could, for instance, assign different abilities to different cards in a deck, and draw them to use the ability, with whichever card you drew being the effect you produce that round, or that scene. Some, or even most, of the cards should do nothing, produce useless effects, or be deleterious, however - unless, of course, your luck is always good.
+## Scale
 
-## Breaking Point (Limit Break)
+Scale could represent how powerful a character's “super powers” are as a flat value. It is generally a set value that doesn't change much, except as part of a plot point or perhaps with Advancements. In comics, a super hero's powers might change or add more applications, but they only grow in actual power very slowly.
 
-A Breaking Point energy pool builds up as you are hit or affected in a fight, and once it reaches a certain threshold, you spend it all on a single massive effect. You can have multiple different effects with different thresholds, if you like, or add more as you gain in experience. However, whichever ability you trigger, the whole of your Breaking Point energy is depleted.
+Scale can be tied into Traits or Skills, indicating that they're superhuman and operate on a different scale. You get 1 free Effort per Scale when using that Trait. Alternately, it might provide a dice pool for energy blasts or define the maximum potential for “super magic” that works like Magic Point magic, except the Scale doesn't change when you use it (think Doctor Strange).
 
-Unlike a Building Pool (above), Breaking Points don't automatically empty at the end of an encounter or scene. Instead, as long as your remain injured, the Breaking Point pool remains.
-
-This can be used to emulate the "limit break" attacks that are popular in Anime and certain RPGs.
-
-## Momentum
-
-Gathering force each round
-
-## Other Energy Sources
+Scale doesn't change with use, but new uses can be applied through [Stunts](Stunts.md) or learning a new Focus or Skill. Special events in a game might temporarily boost or suppress a character's Scale as well.

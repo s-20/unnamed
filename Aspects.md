@@ -1,53 +1,46 @@
 # Aspects
 
-!> Selecting Aspects is Step 2 of [Character Creation](CCSummary.md)
+Aspects represent central strengths of your character. Aspects aren’t chosen from a list; they’re player-defined and used to help describe the character as a person, and define their abilities. They can be used to reflect a character’s heritage and/or non-human species in games where there are options other than human, and can also be used as prerequisites for [Special Abilities](SpecialAbilities.md).
 
-Aspects represent central strengths of your character. They function like souped-up [Traits](Traits.md) - they're pulled into rolls, adding dice to a check. Unlike Traits, however, they can be pulled in under broader circumstances.
-
-When [burned](Burn.md), Aspects become Easy Dice, just like [Traits](Traits.md).
-
-Aspects aren't chosen from a list; they're player-defined and used to help describe the character as a person, and define their abilities. Like [Traits](Traits.md) and [Skills](Skills.md), Aspects can be stacked.
-
-Characters being with 5 ranks of Aspects, and can have a [Stack](Stack.md) of up to 3 in any one Aspect. All characters have at least two different Aspects.
+Characters begin with two ranks in Aspects, either divided between two different characteristics or stacked in a single specialization. Whatever Aspects you choose, they will be more effective if they’re backed up with other [Characteristics](Characteristics.md). If you’re Utterly Charming, you should probably have some social skills, and should think about your [Connections](Connections.md). If you’re a Practiced Thief, you should probably have the Skills to back that up.
 
 ## Defining Aspects
 
-Aspects should be short phrases that are easy to understand. Generally, it should be clear just by reading them what circumstances they should cover. They can imply groups of skills, a career, a general area of physical expertise, or a variety of other things.
+Aspects should be short phrases that are easy to understand. Generally, it should be clear just by reading them what circumstances they should cover. They can imply groups of skills, a career, a general area of expertise, or a variety of other things. An aspect should be at least two words long, but can be a full sentence if they need to be. They should be broad, but not so broad as to apply to every — or even most — situations.
 
-An aspect should be at least two words long, and no more than four words. They are short descriptive phrases and not generally complete sentences. They cannot be so broad as to apply to every - or even most - rolls, but they should be more broad than a [trait](Traits.md) or [skill](Skills.md).
+Aspects can look suspiciously like other Characteristics. Something like *Damn Strong* or *Has several Veteran Buddies* might look like [Traits](Traits.md) or [Connections](Connections.md) respectively, and that’s okay. Aspects are souped-up versions of these things, allowing you to pull an extra Characteristic into a check, and can be used more broadly or with fewer limitations.
 
-### Examples
+### Sample Aspects
 
 - Olympic Gymnast
-- Circus Strongman
-- Practiced Thief
+- Damn good starship pilot
 - Veteran Private Detective
 - Hard to Kill
 - Never Gets Sick
-- Utterly Charming
-- So Very Hot
-- Incredibly Rich
-- Raised by Wolves
-- Prince of Eddilshire
+- Ran away from the circus to go to school
+- Jaw-droppingly attractive
+- Inherited a fortune and a business empire
+- Raised by Wolves in the jungles of India
+- The last Princess of EverLight
 - Driven by Revenge
 - Fine Arts Major
-
-## Supporting Your Aspects
-
-Whatever Aspects you choose, they don't exist in a vacuum. In order to make them more useful, you should build the rest of your character with your Aspects in mind.
-
-If you're Utterly Charming, you should probably have some social skills, and should think about your [Connections](Connections.md) - perhaps using your Adjustment Points to get a few extra ones. If you're a Practiced Thief, you should probably have the Skills to back that up.
+- Elvish Archer
+- Strong Sense of Honor
+- Always avenges an insult
+- Has a mechanical heart forged by a Dwarven craft master
 
 ## Shifting Aspects
 
-Sometimes things change over the course of a character's lifetime. People get older, or have their priorities shift. WHen this happens, it might make sense to "shift" an Aspect.
+Sometimes things change over the course of a character’s lifetime. People get older, or have their priorities shift. When this happens, it might make sense to *shift* an Aspect.
 
-At any point in a character's career, if it makes sense, the GM can approve an Aspect Shift. If this happens, it changes to a different but thematically similar Aspect. Practiced Thief might become Security Consultant; Fine Arts Major might become Has an MFA in Poetry.
+At any point in a character’s career, if it makes sense, the GM can approve an Aspect Shift. If this happens, it changes to a different but thematically similar Aspect. Practiced Thief might become Security Consultant; Fine Arts Major might become MFA in Poetry, making it even less useful; and so on.
 
-Aspect Shifts don't generally involve an [Advancement](Advancement.md) or [Adjustment Points](AdjustmentPoints.md). Instead, the GM and the Player discuss the change, come to an agreement, and change the Aspect.
+Most of the time, an Aspect Shift should make an Aspect *more* useful, and less specific. Just because you've gone from Practiced Thief to Security Consultant doesn't mean you've forgotten how to be a thief; instead, you now *also* know how to apply those skills to help someone beef up their security. You can indicate this on your character sheet by putting the original Aspect in parentheses, followed by the new title, i.e.:
 
-If the shifting Aspect is part of a stack, it usually all changes at once, but it might split into more than one Aspect with the stack divided between them.
+> (Practiced Thief) Security Consultant
 
-## Character Creation: What's Next
+Aspect Shifts don't require spending [Advancements](Advancement.md), and are driven instead by in-game events.
 
-The next step in Character Creation is to select up to 5 [Traits](Traits.md).
+## Using Aspects
+
+Aspects can be pulled into any check where they apply like any other primary Characteristic. Because of their broad nature, they can be used as a [Trait](Traits.md), a [Skill](Skills.md) or a [Connection](Connections.md), either supplementing or acting in the place of those Characteristic types.
