@@ -28,7 +28,7 @@ Tell me more about your little sister.
 
 ### [Characteristics](https://s-20.github.io/unnamed/#/Characteristics)
 
-This is what I've gleaned from our conversaiton so far, but your perspective is more important. So, these are just suggestions. I've included links to the articles in the Wiki for each type of Characteristic.
+This is what I've gleaned from our conversation so far, but your perspective is more important. So, these are just suggestions. I've included links to the articles in the Wiki for each type of Characteristic.
 
 - [Aspects](https://s-20.github.io/unnamed/#/Aspects): Nothing so far 
 - [Traits](https://s-20.github.io/unnamed/#/Traits): Nothing so far

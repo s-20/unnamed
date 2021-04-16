@@ -6,7 +6,7 @@ Meta Traits are selected for a character like any other [Trait](Traits.md) durin
 
 ## Lucky
 
-Some people are occasionally just lucky. They get through things not due to skill or natural ability, but because the winds of fate are at their backs. Of course, relying on luck can also backfire impressively. You can pull Luck for *any* check in place of any other Trait, or you can [Burn](Burn.md) it normally. On any given Lucky check, Quirks cancel Effort at a 1 for 1 rate. If you roll more [Quirks](Quirks.md) than [Effort](Effort.md) on that check, you fail the check in some impressive or spectacular way, and you get to describe how your luck has turned against you. If it's your Turn in [Combat](Combat.md), your turn is over, and you lose all remaining actions in addition to any other side effects.
+Some people are just lucky. They get through things not due to skill or natural ability, but because the winds of fate are at their backs. Of course, relying on luck can also backfire impressively. You can pull Luck for any check *in addition to* any other Trait. On any given Lucky check, if your Quirks (generally dice results of 1) outnumber your Effort (generally any dice result of 5 or above), you fail the check in some impressive or spectacular way, and you get to describe how your luck has turned against you. If it's your Turn in [Combat](Combat.md), your turn is over, and you lose all remaining actions in addition to any other side effects.
 
 You can also Burn Lucky to provide [Synergy](Synergy.md) to any other player’s check; this doesn’t cause the Quirk related failure indicated above. You can’t use Lucky to claim Synergy otherwise.
 
@@ -22,4 +22,4 @@ To quote [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/Main/GenreSavvy):
 
 > A Genre Savvy character doesn't necessarily know they're in a story, but they do know of stories like their own and what worked in them and what didn't. They may attempt to apply the lessons they've learned from movies, books, or other fiction to their own situation, or they may restrict themselves to snarky asides and observations.
 
-You can use Genre Savvy whenever being genre savvy would be helpful, but you have to describe the trope (or what have you) that you're referencing. Genre Savvy can be pulled or burned normally as a trait, and doesn’t have any real drawbacks; it qualifies as a meta trait because it’s *conceptually meta* rather than mechanically meta.
+You can use Genre Savvy whenever being genre savvy would be helpful, but you have to describe the trope (or what have you) that you're referencing. It otherwise operates like a normal trait. I'd recommend having [TV Tropes](https://tvtropes.org) open in a nearby device, but try not to fall down a rabbit hole. 

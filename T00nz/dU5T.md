@@ -117,3 +117,17 @@ _Wireless Interface (106)_ _Innate Toolkit (106)_ _Reverse Engineer (106)_
 My apartment was provided by: **MMORPG Guy Randall Watkins**
 
 My quest to know what exactly I am, since I'm not really Kumiho, but I'm also not really Human or Scion.
+
+## Current
+
+Formor Mindcaster is nearby and if taken out may get rid of much of our opposition
+
+8 mooks active
+
+Triton is tipping out
+
+Tower is still not hostile, but he's grumpy
+
+Scarface has Complication 3 because of my screech attack
+
+4 successes on Int+Occult to find out more about the Formor

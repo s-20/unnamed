@@ -19,11 +19,11 @@ Characters gain 1 Advancement each session regardless of other circumstances. If
 Improvement                           | Cost
 -----------------------------------   | -----------------
 New Aspect                            | 5
-Improve Aspect                        | 2x the new Rank
+Improve Aspect                        | 3
 New Trait, Skill, or Connection       | 3
-Improve a Trait, Skill, or Connection | 1x the new Rank
-New Focus (Max. 3 per Skill)          | 1 + 1 per Focus you already have on that skill
-Expand Special Ability                | 1 or more (Discuss with your GM)
-New Special Ability                   | 5 or more (Discuss with your GM)
+Improve a Trait, Skill, or Connection | 1
+New Focus (Max. 3 per Skill)          | 1
+Expand Special Ability                | 1 (Discuss with your GM)
+New Special Ability                   | 5 (Discuss with your GM)
 
 Gaining a new Focus requires you to have at least two ranks in the associated Skill, and you get one free Focus when you reach 2 ranks; see [Skills](Skills.md).
