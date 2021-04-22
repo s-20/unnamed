@@ -7,6 +7,8 @@ During Character Creation, ranks in skills are selected as normal Characteristic
 
 Skills can be chosen from the list below. Hopefully, this table will cover most circumstances. If you need additional skills, or you want one that isn't covered below, make sure what you're adding isn't a [Trait](Traits.md), but otherwise have at it!
 
+>> Add a note about making up the skills you need
+
 *Descriptions to be added later; hopefully, you get the idea form the names lol*
 
 | **Skill Name** | *Description* |
@@ -14,19 +16,15 @@ Skills can be chosen from the list below. Hopefully, this table will cover most 
 | Athletics |  |
 | Conversation |  |
 | Combat (Close) |  |
-| Combat (Defensive) |  |
 | Combat (Distant) |  |
-| Engineering |  |
 | History |  |
 | Investigate |  |
 | Lore |  |
 | Nature |  |
-| Research |  |
 | Science |  |
 | Streetwise |  |
 | Subterfuge |  |
 | Technology |  |
-| Theology |  |
 
 You can add skills like Magic and Psionics if your setting needs them, although they might be better handled with a Focus, depending on the situation.
 
