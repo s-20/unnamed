@@ -11,20 +11,20 @@ Skills can be chosen from the list below. Hopefully, this table will cover most 
 
 *Descriptions to be added later; hopefully, you get the idea form the names lol*
 
-| **Skill Name** | *Description* |
-| --- | --- |
-| Athletics |  |
-| Conversation |  |
-| Combat (Close) |  |
-| Combat (Distant) |  |
-| History |  |
-| Investigate |  |
-| Lore |  |
-| Nature |  |
-| Science |  |
-| Streetwise |  |
-| Subterfuge |  |
-| Technology |  |
+| **Skill Name**   | *Description* |
+| ---------------- | ------------- |
+| Athletics        |               |
+| Conversation     |               |
+| Combat (Close)   |               |
+| Combat (Distant) |               |
+| History          |               |
+| Investigate      |               |
+| Lore             |               |
+| Nature           |               |
+| Science          |               |
+| Streetwise       |               |
+| Subterfuge       |               |
+| Technology       |               |
 
 You can add skills like Magic and Psionics if your setting needs them, although they might be better handled with a Focus, depending on the situation.
 
